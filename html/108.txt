@@ -1,0 +1,4 @@
+Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="2" line="2">sốt</span> + <span class="selected problem". start="4" end="4" line="2">ho</span> 3 ngày_nay khám tại BV Vũ_Anh <span class="selected treatment". start="11" end="12" line="2">uống thuốc</span> không bớt - - > nhập_viện .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">Kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="4">kháng_viêm</span> , <span class="selected treatment". start="5" end="7" line="4">nâng tổng trạng</span> .

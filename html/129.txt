@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Co_giật</span>
+Bệnh Lý
+cháu bệnh 4 ngày_nay , ở nhà <span class="selected problem". start="8" end="10" line="4">ói nhiều lần</span> , cách đây 2 ngày nhập_viện với chẩn_đoán <span class="selected problem". start="19" end="22" line="4">viêm mũi họng cấp</span> / <span class="selected problem". start="24" end="25" line="4">rối_loạn tiêu_hóa</span> .
+<span class="selected treatment". start="1" end="2" line="5">truyền dịch</span> , <span class="selected treatment". start="4" end="5" line="5">chống ói</span> , <span class="selected treatment". start="7" end="8" line="5">men vi_sinh</span> , sau 1 ngày bệnh giảm người_nhà xin xuất_viện hôm_qua .
+từ sáng đến giờ cháu <span class="selected problem". start="6" end="11" line="6">tiêu_chảy 3 lần phân toàn nước</span> , <span class="selected problem". start="13" end="13" line="6">ói</span> .
+khoảng 4h30 chiều nay cháu <span class="selected problem". start="6" end="8" line="7">lên_cơn co_giật toàn_thân</span> khoảng 10 phút , <span class="selected treatment". start="13" end="15" line="7">khám BV Hoàn_Mỹ</span> và sau đó chuyển nhập_viện Vũ_Anh
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="11">truyền dịch</span> , <span class="selected treatment". start="4" end="5" line="11">men vi_sinh</span> , <span class="selected treatment". start="7" end="8" line="11">chóng ói</span> , <span class="selected treatment". start="10" end="11" line="11">chống co_giật</span>

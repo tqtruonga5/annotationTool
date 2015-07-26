@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Co_giật</span>
+Bệnh Lý
+Cháu <span class="selected problem". start="2" end="4" line="4">sốt cao liên_tục</span> 3 ngày_nay .
+ở nhà <span class="selected treatment". start="3" end="6" line="5">uống thuốc hạ sốt</span> không giảm .
+Tối_qua <span class="selected treatment". start="2" end="4" line="6">khám bệnh_viện nhi_đồng</span> chẩn_đoán <span class="selected problem". start="6" end="7" line="6">sốt nhiễm_trùng</span> - - > <span class="selected treatment". start="11" end="14" line="6">uống thuốc kháng_sinh Augmentine</span> , hạ sốt , bệnh không giảm .
+Khoảng 9g sáng nay cháu <span class="selected problem". start="6" end="7" line="7">sốt cao</span> , <span class="selected problem". start="9" end="10" line="7">co_giật toàn_thân</span> , <span class="selected problem". start="12" end="13" line="7">tím môi</span> , khoảng 10 phút.Người nhà nhét một <span class="selected treatment". start="21" end="25" line="7">viên thuốc hạ sốt efferangal</span> 80mg và đưa bé nhập_viện .
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="9">hạ sốt</span> , <span class="selected treatment". start="4" end="6" line="9">tìm nguyên_nhân điều_trị</span>

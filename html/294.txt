@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">co_giật</span>
+Bệnh Lý
+Em bệnh_nhân đưa vào khai , cách nhập_viện 45 phút , bệnh_nhân nằm <span class="selected problem". start="14" end="20" line="4">độtv ngột co gồng rồi co_giật toàn_thân</span> , <span class="selected problem". start="22" end="36" line="4">trợn mắt sùi bọt mép cơn kéo_dài khoảng 15 phút > 30 phút tỉnh lại</span> - - > người_nhà đưa bệnh_nhân vào cấp_cứu bệnh Viện_Vũ_Anh .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="6">Tăng huyết_áp</span> .
+Tổng Kết Bệnh Lý
+Em bệnh_nhân đưa vào khai , cách nhập_viện 45 phút , bệnh_nhân nằm <span class="selected problem". start="14" end="20" line="8">độtv ngột co gồng rồi co_giật toàn_thân</span> , <span class="selected problem". start="22" end="28" line="8">trợn mắt sùi bọt mép cơn kéo_dài</span> .
+Sau <span class="selected treatment". start="2" end="2" line="9">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">Kháng_sinh</span>

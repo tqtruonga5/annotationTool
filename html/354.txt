@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="2" line="2">chóng_mặt</span> từ đêm qua , <span class="selected problem". start="7" end="10" line="2">cảm_giác nhà_cửa xoay tròn</span> , <span class="selected problem". start="12" end="14" line="2">nôn ói liên_tục</span> , <span class="selected problem". start="16" end="16" line="2">mệt_mỏi</span> - - - > nhập_viện - - - > Sau <span class="selected treatment". start="27" end="27" line="2">điều_trị</span> bệnh_nhân bớt chóng_mặt , không nôn ói , bớt mệt xin xuất_viện .

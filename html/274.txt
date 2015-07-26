@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Bệnh khoảng hơn tuần nay , Bệnh_nhân <span class="selected problem". start="8" end="9" line="2">ăn kém</span> , kèm theo <span class="selected problem". start="13" end="15" line="2">uống nhiều nước_ngọt</span> , <span class="selected problem". start="17" end="18" line="2">tiểu nhiều</span> , <span class="selected problem". start="20" end="27" line="2">sụt cân khoảng 3-4 kg / 2 tuần</span> .
+BN <span class="selected problem". start="2" end="3" line="3">mệt nhiều</span> , <span class="selected problem". start="5" end="7" line="3">cảm_giác khó thở</span> , <span class="selected problem". start="9" end="10" line="3">nặng ngực</span> được đưa nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="2" line="6">Hạ đường_huyết</span>

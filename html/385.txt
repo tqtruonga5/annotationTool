@@ -1,0 +1,8 @@
+Tổng Kết Bệnh Lý
+<span class="selected problem". start="1" end="1" line="2">Bệnh</span> vài ngày_trước nhập_viện , BN <span class="selected problem". start="7" end="7" line="2">ho_khan</span> kèm theo <span class="selected problem". start="10" end="24" line="2">đau tức ngực ( T ) khi ho , khi nằm nghiêng ( T )</span> .
+<span class="selected problem". start="1" end="2" line="3">ăn_uống kém</span> , <span class="selected problem". start="4" end="9" line="3">sụt cân 2 kg / tháng</span> , <span class="selected problem". start="11" end="12" line="3">mệt nhiều</span> .
+BN <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="3" line="8">Ức_chế bơm proton</span>

@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">ói</span>
+Bệnh Lý
+bệnh 03 ngày , mẹ bé khai bé <span class="selected problem". start="9" end="9" line="4">ói</span> kèm <span class="selected problem". start="11" end="12" line="4">phân lỏng</span> từ tối 21/8 tuần này - > <span class="selected problem". start="20" end="20" line="4">sốt</span> 1 ngày 22/8 - > hôm_nay hết sốt , đến tối nay bé <span class="selected problem". start="34" end="36" line="4">ói 2 lần</span> - > nv .
+bé tiểu_tốt .
+bé không đau bụng , không quấy .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">nội</span>

@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="8" line="2">chóng_mặt khi đi_lại</span> , kèm <span class="selected problem". start="11" end="12" line="2">ăn_uống kém</span> , <span class="selected problem". start="14" end="14" line="2">mất_ngủ</span> .
+Bệnh_nhân <span class="selected treatment". start="2" end="4" line="3">điều_trị không giảm</span> khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện

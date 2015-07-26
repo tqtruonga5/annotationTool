@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span>
+Tóm Tắt Khám Bệnh
+bệnh_nhân nam , 11 ngày tuổi , sốt N1 , <span class="selected problem". start="11" end="12" line="4">bú kém</span> , <span class="selected problem". start="14" end="16" line="4">bụng chướng nhẹ</span> , tiêu tiểu bình_thường

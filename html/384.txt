@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Ngày qua sau ăn hải_sản tươi_sống , BN <span class="selected problem". start="9" end="13" line="2">đau quặn bụng quanh rốn</span> , <span class="selected problem". start="15" end="17" line="2">sốt ớn lạnh</span> .
+Sáng nay BN <span class="selected problem". start="4" end="6" line="3">tiêu_chảy nhiều lần</span> - - - - > nhập_viện
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn - - - - > xuất_viện

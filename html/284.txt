@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bn đau_đầu <span class="selected problem". start="3" end="3" line="2">chóng_mặt</span> , <span class="selected problem". start="5" end="6" line="2">nhợn ói</span> , mệt_mỏi <span class="selected test". start="9" end="10" line="2">đo huyết_áp</span> ở nhà 150/90 mmHg - - - > Nhập_viện - - - > Sau <span class="selected treatment". start="25" end="25" line="2">điều_trị</span> Bn bớt chóng_mặt , huyết_áp ổn , cảm_giác chủ_quan khỏe .

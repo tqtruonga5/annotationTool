@@ -1,0 +1,8 @@
+Bệnh Lý
+Ngày_nay ở nhà sau ăn bé <span class="selected problem". start="7" end="8" line="2">ói đàm</span> , <span class="selected problem". start="10" end="11" line="2">môi tím_tái</span> , <span class="selected problem". start="13" end="14" line="2">da xanh</span> , đã đi khám được truyền <span class="selected treatment". start="21" end="21" line="2">Glucose</span> 30 % , <span class="selected treatment". start="25" end="25" line="2">Ringerlactat</span> , <span class="selected treatment". start="27" end="27" line="2">Motilium</span> .
+Sau đó bé <span class="selected problem". start="4" end="5" line="3">sốt cao</span> - - > khám .
+Bé không tiêu lỏng , không ho .
+Tiền Sử Bệnh
+Bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="8">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="8">kháng histamin</span> , <span class="selected treatment". start="8" end="9" line="8">chống ói</span> , <span class="selected treatment". start="11" end="13" line="8">nâng_đỡ tổng trạng</span>

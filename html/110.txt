@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">khó thở</span>
+Bệnh Lý
+Ngày qua ở nhà bé có <span class="selected problem". start="7" end="8" line="4">ho thúng_thắng</span> , sau đó thấy <span class="selected problem". start="13" end="13" line="4">khò_khè</span> , kèm theo bé có <span class="selected problem". start="19" end="20" line="4">thở nhanh</span> , <span class="selected problem". start="22" end="24" line="4">co lõm ngực</span> , bé kêu <span class="selected problem". start="28" end="29" line="4">khó thở</span> , không sốt , thấy vậy người_nhà đưa bé đi khám .
+Tại cấp_cứu đo s <span class="selected test". start="5" end="5" line="5">PO2</span> = 90% , cho <span class="selected treatment". start="10" end="13" line="5">thở khí dung ventolin</span> 2.5mg/2.5ml
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="7">corticoid</span> , <span class="selected treatment". start="5" end="6" line="7">khí dung</span> , <span class="selected treatment". start="8" end="9" line="7">giảm ho</span> , <span class="selected treatment". start="11" end="13" line="7">nâng_đỡ tổng trạng</span>

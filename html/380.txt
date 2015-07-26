@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tiền Sử Bệnh
+Khỏe
+Tổng Kết Bệnh Lý
+Khoảng 3 ngày_nay bệnh_nhân <span class="selected problem". start="5" end="12" line="6">sốt cao nổi nhiều ban sần khắp người</span> , <span class="selected problem". start="14" end="14" line="6">ho</span> , <span class="selected problem". start="16" end="17" line="6">đau họng</span> , <span class="selected problem". start="19" end="21" line="6">da môi khô</span> , <span class="selected problem". start="23" end="24" line="6">ăn_uống kém</span> , <span class="selected problem". start="26" end="26" line="6">mệt_mỏi</span> - - - > BN hết sốt , hết ban , hết đau họng , hết ho .

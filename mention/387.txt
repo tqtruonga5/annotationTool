@@ -1,0 +1,6 @@
+c="ho" 2:2 2:2||t="problem"
+c="khám" 2:11 2:11||t="treatment"
+c="điều_trị" 2:13 2:13||t="treatment"
+c="ho nhiều" 3:5 3:6||t="problem"
+c="khám và viện" 3:10 3:12||t="treatment"
+c="điều_trị" 3:18 3:18||t="treatment"

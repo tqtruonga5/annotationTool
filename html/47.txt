@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="3" line="2">Phù 2 chân</span> , <span class="selected problem". start="5" end="5" line="2">mệt</span>
+Bệnh Lý
+Khoảng 15 ngày_nay bệnh_nhân <span class="selected problem". start="5" end="5" line="4">mệt</span> , <span class="selected problem". start="7" end="7" line="4">phù</span> , <span class="selected problem". start="9" end="11" line="4">nặng 2 chân</span> , <span class="selected problem". start="13" end="14" line="4">đau_nhói ngực</span> , <span class="selected problem". start="16" end="16" line="4">đau_đầu</span> , <span class="selected problem". start="18" end="21" line="4">chóng_mặt khi thay_đổi tư_thế</span> , BN đã <span class="selected treatment". start="25" end="25" line="4">điều_trị</span> tại BV Phú_Yên không giảm - - > khám vào viện
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="6">Tăng huyết_áp</span> - <span class="selected problem". start="4" end="7" line="6">Rối_loạn chuyển_hóa lipid máu</span>

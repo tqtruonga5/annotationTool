@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+Chưa rõ
+Tổng Kết Bệnh Lý
+Bệnh ngày qua , BN sau <span class="selected problem". start="7" end="14" line="4">ăn_tiêu lỏng 4-5 lần klho 6ng đàm máu</span> , kèm theo <span class="selected problem". start="18" end="21" line="4">đau quặn bụng thượng_vị</span> , <span class="selected problem". start="23" end="24" line="4">nôn òi</span> thức_ăn sau ăn .
+<span class="selected problem". start="1" end="3" line="5">nhức mỏi toàn_thân</span> , <span class="selected problem". start="5" end="6" line="5">mệt nhiều</span> .
+BN tự mua <span class="selected treatment". start="4" end="5" line="6">thuốc uống</span> không rõ bệnh không giảm khám nhập viên .
+Sau <span class="selected treatment". start="2" end="2" line="7">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">Kháng_sinh</span>

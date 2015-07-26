@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="2" line="2">chóng_mặt</span> từ chiều , không nôn ói , không đau_đầu , <span class="selected problem". start="13" end="14" line="2">mệt nhiều</span> - - - > NV - - - > Sau điều_trị BN bớt mệt , hết chóng_mặt xin xuất_viện .

@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="5" line="2">chóng_mặt khi thay_đổi tư_thế</span> , <span class="selected problem". start="7" end="8" line="2">nôn ói</span> , <span class="selected problem". start="10" end="10" line="2">mệt_mỏi</span> , <span class="selected problem". start="12" end="13" line="2">ăn_uống kém</span> - - - - > Nhập_viện

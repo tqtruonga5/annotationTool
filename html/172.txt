@@ -1,0 +1,10 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="9" line="2">chóng_mặt nhiều khi đi_lại</span> , kèm theo <span class="selected problem". start="13" end="20" line="2">choáng_váng té ngã vào va đầu_vào cánh cửa</span> .
+Sau té BN <span class="selected problem". start="4" end="4" line="3">tỉnh_táo</span> , <span class="selected problem". start="6" end="8" line="3">không nôn ói</span> , <span class="selected problem". start="10" end="10" line="3">đau_đầu</span> , <span class="selected problem". start="12" end="12" line="3">mệt</span> .
+BN <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> không giảm chóng_mặt xin nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="3" line="8">Tăng tuần_hoàn não</span>
+<span class="selected treatment". start="1" end="1" line="9">Hạ_áp</span>
+<span class="selected treatment". start="1" end="2" line="10">Hạ đường_huyết</span>

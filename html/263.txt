@@ -1,0 +1,3 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân đang <span class="selected treatment". start="3" end="6" line="2">điều_trị viêm đa xoang</span> tại Bs tư , chiều nay <span class="selected problem". start="13" end="13" line="2">mệt</span> , <span class="selected problem". start="15" end="16" line="2">ăn kém</span> - - - - > nhập_viện
+Sau <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> bệnh ổn - - - - > xuất_viện

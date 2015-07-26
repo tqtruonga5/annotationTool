@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">ho</span> , <span class="selected problem". start="3" end="3" line="2">khò_khè</span>
+Bệnh Lý
+Cháu bệnh 4 ngày_nay , với <span class="selected problem". start="7" end="9" line="4">ho sổ_mũi trong</span> . Cháu có <span class="selected treatment". start="13" end="13" line="4">điều_trị</span> nhưng chưa giảm . Hôm_qua , cháu <span class="selected problem". start="21" end="22" line="4">sốt vưa</span> , <span class="selected problem". start="24" end="24" line="4">dao_động</span> . Hôm_nay , cháu <span class="selected problem". start="29" end="30" line="4">thở mệt</span> , <span class="selected problem". start="32" end="33" line="4">ho nhiều</span> , <span class="selected problem". start="35" end="37" line="4">ho có đàm</span> , <span class="selected problem". start="39" end="39" line="4">khò_khè</span>
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="8">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="8">khí dung</span> , <span class="selected treatment". start="8" end="10" line="8">điều_trị nâng đở</span>

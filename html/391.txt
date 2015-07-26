@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Hai ngày_nay bệnh_nhân thấy <span class="selected problem". start="5" end="6" line="2">mệt nhiều</span> , <span class="selected problem". start="8" end="9" line="2">tiểu ít</span> , <span class="selected problem". start="11" end="16" line="2">đau vùng mạn sườn ( P</span> ) - - > khám vào viện - - - > Sau <span class="selected treatment". start="29" end="29" line="2">điều_trị</span> bệnh_nhân bớt mệt , <span class="selected problem". start="34" end="36" line="2">bụng còn báng</span> , đi_tiêu tiểu được .

@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+BN khai khoảng 3 ngày_nay <span class="selected problem". start="6" end="6" line="2">chóng_mặt</span> , <span class="selected problem". start="8" end="9" line="2">buồn ói</span> , có <span class="selected problem". start="12" end="14" line="2">ói ra thức_ăn</span> , <span class="selected problem". start="16" end="16" line="2">đau_đầu</span> nên khám và xin vào nhập_viện - - - > Sau điều_trị BN bớt chóng_mặt , bớt đau_đầu .

@@ -1,0 +1,2 @@
+Bệnh Lý
+Khởi bệnh sáng nay , sau khi đi chợ về bệnh_nhân đột_ngột bị <span class="selected problem". start="14" end="18" line="2">chóng_mặt ( nhà xoay )</span> , <span class="selected problem". start="20" end="20" line="2">buồn_nôn</span> , <span class="selected problem". start="22" end="26" line="2">tăng lên khi thay_đổi tư_thế</span> - - > vào viện

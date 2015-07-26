@@ -1,0 +1,5 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Viêm phế_quản</span>
+Tổng Kết Bệnh Lý
+Tuần_lễ nay BN bị <span class="selected problem". start="5" end="10" line="4">khàn tiếng kèm ho đàm đục</span> , <span class="selected problem". start="12" end="14" line="4">sốt ớn lạnh</span> , <span class="selected problem". start="16" end="17" line="4">thở khò_khè</span> có dùng <span class="selected treatment". start="20" end="22" line="4">thuốc nmhu 7ng</span> không đỡ nên vào khám bệnh
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> hiện bệnh ổn - - - - > xuất_viện

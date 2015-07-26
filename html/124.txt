@@ -1,0 +1,4 @@
+Bệnh Lý
+Theo lời khai của người_nhà , 3 ngày_nay , bệnh_nhân <span class="selected problem". start="11" end="11" line="2">ho_khan</span> , <span class="selected problem". start="13" end="14" line="2">sốt nhẹ</span> , <span class="selected problem". start="16" end="16" line="2">uể_oải</span> , <span class="selected problem". start="18" end="18" line="2">mệt_mỏi</span> , không khó thở , không đau ngực .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>

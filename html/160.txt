@@ -1,0 +1,2 @@
+Tóm Tắt Khám Bệnh
+<span class="selected test". start="1" end="1" line="2">TCK</span> : 70

@@ -1,0 +1,4 @@
+Bệnh Lý
+Bé <span class="selected problem". start="2" end="6" line="2">đi_cầu phân lỏng 5-6 lần/ngày</span> kèm <span class="selected problem". start="8" end="10" line="2">sốt ngày đầu</span> , khám và điều_trị với <span class="selected treatment". start="16" end="16" line="2">Cipro</span> uống 3 ngày , bé hết sốt , còn <span class="selected problem". start="26" end="29" line="2">đi_tiêu lỏng nhiều lần</span> , phân không đàm máu , tái khám , nhập_viện .
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="4">men vi_sinh</span> , <span class="selected treatment". start="4" end="4" line="4">kẽm</span> , <span class="selected treatment". start="6" end="9" line="4">bù nước điện giải</span>

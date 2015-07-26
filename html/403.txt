@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > <span class="selected problem". start="6" end="7" line="2">nhập ICU</span> - - > kết_quả <span class="selected test". start="12" end="14" line="2">Xquang tim phổi</span> : Theo_dõi <span class="selected problem". start="17" end="18" line="2">viêm phổi</span> , <span class="selected problem". start="20" end="20" line="2">Lao_phổi</span> , <span class="selected problem". start="22" end="23" line="2">u phổi</span> , <span class="selected problem". start="25" end="31" line="2">Tràn dịch màng phổi trái lượng ít</span> .
+Bênh nhân nặng - - <span class="selected problem". start="6" end="7" line="3">nhịp chậm</span> - - <span class="selected problem". start="10" end="11" line="3">thở yếu</span> - - > <span class="selected problem". start="15" end="17" line="3">đặt nội khí_quản</span> - - - > gia_đình xin đưa bệnh_nhân về
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="5">kháng_sinh</span>

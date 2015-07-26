@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Khó thở</span>
+Bệnh Lý
+Bệnh_nhân nhập_viện Bệnh_viện Khánh_Hòa ngày 4.3.2014 vì <span class="selected problem". start="8" end="9" line="4">khó thở</span> chẩn_đoán : Nhồi máu cơ tim cấp <span class="selected treatment". start="17" end="19" line="4">đặt stent DES/LAD</span> ngày 6.3.2014 , sau đó <span class="selected treatment". start="25" end="26" line="4">lọc máu</span> và BN bị <span class="selected problem". start="30" end="32" line="4">xuất_huyết tiêu_hóa dưới</span> phải <span class="selected treatment". start="34" end="34" line="4">phẫu_thuật</span> .
+Ngày 13.3.2014
+BN được chuyển đến Bệnh_viện Chợ_Rẫy , 2 ngày_nay bệnh_nhân <span class="selected problem". start="11" end="11" line="6">sốt</span> , không ho , <span class="selected problem". start="16" end="17" line="6">đau vết</span> , <span class="selected problem". start="19" end="20" line="6">vô niệu</span> , <span class="selected problem". start="22" end="23" line="6">khó thở</span> - - > gia_đình đưa bệnh_nhân vào cấp_cứu Bệnh_viện Vũ_Anh
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="3" line="8">suy thận mạn</span> năm nay . <span class="selected problem". start="7" end="7" line="8">THA</span> .
+<span class="selected problem". start="1" end="3" line="9">Rối_loạn lipid máu</span> uống thuốc theo toa của BV_VŨ Anh , không tái khám định_kỳ
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">nội_khoa</span>

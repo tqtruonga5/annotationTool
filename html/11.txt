@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span> , <span class="selected problem". start="5" end="5" line="2">ói</span>
+Bệnh Lý
+ngày qua bé <span class="selected problem". start="4" end="4" line="4">sốt</span> , <span class="selected problem". start="6" end="7" line="4">ho nhiều</span> , <span class="selected problem". start="9" end="9" line="4">ho_khan</span> , kèm theo <span class="selected problem". start="13" end="13" line="4">ói</span> , <span class="selected problem". start="15" end="17" line="4">ói ra thức_ăn</span> , <span class="selected problem". start="19" end="20" line="4">sổ_mũi nhiều</span> .
+Ngày_nay bé <span class="selected problem". start="3" end="4" line="5">sốt cao</span> thấy vậy người_nhà đưa bé đi khám
+Tiền Sử Bệnh
+bt
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="9">khí dung</span> , <span class="selected treatment". start="8" end="9" line="9">giảm ho</span> , <span class="selected treatment". start="11" end="12" line="9">chống ói</span>

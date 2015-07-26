@@ -1,0 +1,4 @@
+c="gãy kín xương_đòn T" 4:2 4:5||t="problem"
+c="nứt chỏm quay P" 4:11 4:14||t="problem"
+c="phẫu_thuật kết_hợp xương_đòn đnh K" 4:18 4:22||t="treatment"
+c="hậu_phẫu" 4:24 4:24||t="treatment"

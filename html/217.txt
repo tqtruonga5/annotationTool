@@ -1,0 +1,4 @@
+Tiền Sử Bệnh
+bình_thường
+Tổng Kết Bệnh Lý
+bé <span class="selected problem". start="2" end="3" line="4">sốt cao</span> kèm <span class="selected problem". start="5" end="5" line="4">ói</span> , <span class="selected problem". start="7" end="8" line="4">phân lỏng</span>

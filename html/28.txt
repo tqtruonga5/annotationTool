@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Ho</span> , <span class="selected problem". start="3" end="3" line="2">mệt</span> .
+Bệnh Lý
+Chồng bệnh_nhân đưa vào khai , 2-3 ngày_nay bệnh_nhân <span class="selected problem". start="10" end="12" line="4">ho khạc đàm</span> , không rõ tính_chất , 2-3 ngày_nay , bệnh_nhân <span class="selected problem". start="22" end="24" line="4">ho khạc đàm</span> , khộng rõ tính_chất , tối nay <span class="selected problem". start="32" end="33" line="4">mệt nhiều</span> kèm <span class="selected problem". start="35" end="36" line="4">khó thở</span> - - - > gia_đình đưa bệnh_nhân vào nhập_viện .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="6">Tăng huyết_áp</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">nội_khoa</span>

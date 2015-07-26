@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau ngực</span> + <span class="selected problem". start="4" end="5" line="2">khó thở</span>
+Tiền Sử Bệnh
+Không có tiền_sử chấn_thương , không lao_phổi
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Nội_khoa</span>
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">nội_khoa</span>

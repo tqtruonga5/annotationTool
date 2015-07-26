@@ -1,0 +1,14 @@
+Lý Do
+<span class="selected problem". start="1" end="5" line="2">sỏi niệu_quản ( T )</span>
+Bệnh Lý
+Bệnh_nhân khai <span class="selected problem". start="3" end="4" line="4">đi_tiểu buốt</span> và <span class="selected problem". start="6" end="11" line="4">đau hông lưng ( T )</span> , đi khám và <span class="selected test". start="16" end="16" line="4">siêu_âm</span> phát_hiện <span class="selected problem". start="18" end="23" line="4">sỏi kẹt niệu_quản ( T )</span> , <span class="selected problem". start="25" end="30" line="4">và sỏi thận ( P )</span> - - > nhập_viện .
+Tiền Sử Bệnh
+chưa rõ
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 44 tuổi khai <span class="selected problem". start="6" end="7" line="8">đi_tiểu buốt</span> và <span class="selected problem". start="9" end="14" line="8">đau hông lưng ( T )</span> , đi khám và siêu_âm phát_hiện <span class="selected problem". start="21" end="26" line="8">sỏi kẹt niệu_quản ( T )</span> , và <span class="selected problem". start="29" end="33" line="8">sỏi thận ( P )</span> - - > nhập_viện .
+<span class="selected test". start="1" end="2" line="9">CT bụng</span> : <span class="selected test". start="4" end="20" line="9">Thận ( T ) ứ nước độ I do sỏi kẹt NQ ( T ) đoạn chậu</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="8" line="10">Sỏi kẹt niệu_quản ( T )</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai <span class="selected problem". start="3" end="4" line="12">đi_tiểu buốt</span> và <span class="selected problem". start="6" end="11" line="12">đau hông lưng ( T )</span> , đi khám và <span class="selected test". start="16" end="16" line="12">siêu_âm</span> phát_hiện <span class="selected problem". start="18" end="23" line="12">sỏi kẹt niệu_quản ( T )</span> , và <span class="selected problem". start="26" end="30" line="12">sỏi thận ( P )</span> - - > nhập_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="9" line="14">Phẫu_thuật tán sỏi niệu_quản qua nội_soi + dăt JJ</span>

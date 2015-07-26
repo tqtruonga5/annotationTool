@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Khó thở</span>
+Bệnh Lý
+Bệnh_nhân mới xuất_viện khoa HSCC_BV Vũ_Anh ngày 4.5.2014 , đang dùng <span class="selected treatment". start="12" end="12" line="4">Tavanic</span> + <span class="selected treatment". start="14" end="14" line="4">Amoxiccilin</span> , dùng lại <span class="selected treatment". start="18" end="18" line="4">verospiron</span> 25 mg 2v / ngày x 3 ngày_nay .
+Về nhà bệnh_nhân <span class="selected problem". start="4" end="6" line="5">ho đàm nhiều</span> , <span class="selected problem". start="8" end="9" line="5">khó khạc</span> , không sốt , <span class="selected problem". start="14" end="15" line="5">bụng to</span> , <span class="selected problem". start="17" end="17" line="5">mệt</span> , <span class="selected problem". start="19" end="20" line="5">khó thở</span> ... - - > gia_đình đưa bệnh_nhân vào cấp_cứu Bệnh_viện Vũ_Anh .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">nội_khoa</span>

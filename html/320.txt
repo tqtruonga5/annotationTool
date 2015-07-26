@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Bệnh khai mấy ngày_nay bệnh thường <span class="selected problem". start="7" end="7" line="2">mất_ngủ</span> , <span class="selected problem". start="9" end="12" line="2">chóng_mặt khi thay_đổi tư_thế</span> , <span class="selected problem". start="14" end="15" line="2">ăn kém</span> .
+Nay <span class="selected problem". start="2" end="3" line="3">người mệt_mỏi</span> , <span class="selected problem". start="5" end="6" line="3">bủn_rủn tay_chân</span> , <span class="selected problem". start="8" end="9" line="3">chóng_mặt nhiều</span> nên vào viện .
+Sau thời_gian <span class="selected treatment". start="3" end="3" line="4">điều_trị</span> bệnh_nhân tạm ổn - - > xuất_viện .

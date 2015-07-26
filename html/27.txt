@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="5" line="2">Gãy cổ xương đùi phải</span>
+Bệnh Lý
+Bệnh_nhân bị té ngã <span class="selected problem". start="5" end="8" line="4">gảy cổ xương dùi</span> phải nhập_viện khoa_ngoại mổ thay khớp háng phải - - > chuyển xuống phòng ICU theo_dõi tiép
+Tiền Sử Bệnh
+không bệnh_lý gì
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">nội_khoa</span>

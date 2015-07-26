@@ -1,0 +1,5 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">nội</span>
+Tóm Tắt Khám Bệnh
+bé trai , 5 ngày tuổi , Nv vì <span class="selected problem". start="10" end="11" line="4">vàng da</span>
+- <span class="selected problem". start="2" end="4" line="5">vàng đến cẳng_chân</span> - <span class="selected problem". start="6" end="12" line="5">da có nhiều nốt mủ nhỏ rải_rác</span>

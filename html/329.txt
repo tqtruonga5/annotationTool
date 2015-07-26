@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="7" line="2">mệt nhiều</span> , <span class="selected problem". start="9" end="10" line="2">ăn_uống kém</span> , <span class="selected problem". start="12" end="15" line="2">nôn ói sau ăn</span> .
+Cảm_giác <span class="selected problem". start="2" end="7" line="3">khó thở khi nằm đầu thấp</span> , <span class="selected problem". start="9" end="9" line="3">mệt</span> .
+BN <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> không giảm , khám - - > nhập_viện
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> BN bớt mệt .
+Người_nhà xin xuất_viện

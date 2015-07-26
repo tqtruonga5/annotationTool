@@ -1,0 +1,4 @@
+Bệnh Lý
+Bệnh_nhân từ tối hôm_qua <span class="selected problem". start="5" end="5" line="2">ho</span> , <span class="selected problem". start="7" end="7" line="2">sốt</span> , <span class="selected problem". start="9" end="12" line="2">khạc đàm xanh nhiều</span> , <span class="selected problem". start="14" end="16" line="2">sốt ngày_càng tăng</span> , kèm <span class="selected problem". start="19" end="20" line="2">khó thở</span> , <span class="selected problem". start="22" end="24" line="2">tiểu phải rặn</span> , <span class="selected problem". start="26" end="27" line="2">gắt nhẹ</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>

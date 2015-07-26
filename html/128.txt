@@ -1,0 +1,8 @@
+Bệnh Lý
+- mẹ khai bệnh
+- cháu <span class="selected problem". start="3" end="4" line="3">sổ_mũi trong</span> - <span class="selected problem". start="6" end="6" line="3">ho_khan</span> 3-4 ngày_nay , <span class="selected problem". start="10" end="12" line="3">sốt cơn nhẹ</span> , khám bs tư <span class="selected treatment". start="17" end="18" line="3">điều_trị Hagimox</span> chưa giảm .
+từ qua cháu <span class="selected problem". start="4" end="10" line="4">sốt cao 39 độ C khó hạ</span> , <span class="selected problem". start="12" end="14" line="4">khàn tiếng nhiều</span> , <span class="selected problem". start="16" end="17" line="4">ho ông_ổng</span> , <span class="selected problem". start="19" end="23" line="4">ói sau ăn 2-3 lần</span> , <span class="selected problem". start="25" end="26" line="4">ăn kém</span> - - - > nhập_viện .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="8">kháng_viêm</span> , <span class="selected treatment". start="5" end="7" line="8">chống phù_nề thanh_quản</span>

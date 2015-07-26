@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai <span class="selected problem". start="3" end="7" line="2">tiểu gắt buốt từ sáng</span> .
+Chiều nay <span class="selected problem". start="3" end="4" line="3">sốt cao</span> kèm <span class="selected problem". start="6" end="9" line="3">tiểu buốt tiểu gắt</span> nhiều hơn nên vào viện .
+Sau 1 ngày <span class="selected treatment". start="4" end="4" line="4">điều_trị</span> Bệnh_nhân còn <span class="selected problem". start="7" end="9" line="4">tiểu gắt buốt</span> nhưng xin xuất_viện vì bận việc công_ty .
+Cho ghi cam_kết xuất_viện .

@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">khò_khè</span>
+Bệnh Lý
+bé bị <span class="selected problem". start="3" end="3" line="4">khò_khè</span> cả tuần đã đi <span class="selected treatment". start="8" end="8" line="4">khám</span> ở bệnh_viện Nhi_đồng 1 chẩn_đoán <span class="selected problem". start="14" end="16" line="4">Viêm tiểu phế_quản</span> có uống <span class="selected treatment". start="19" end="19" line="4">Cefixim</span> nhưng không đỡ .
+Ngày_nay bé <span class="selected problem". start="3" end="6" line="5">thở nhanh hơn bình_thường</span> , <span class="selected problem". start="8" end="9" line="5">khò_khè nhiều</span> , <span class="selected problem". start="11" end="12" line="5">bú kém</span> - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="9">giảm ho</span> , <span class="selected treatment". start="8" end="9" line="9">giãn phế_quản</span> , <span class="selected treatment". start="11" end="12" line="9">men vi_sinh</span>

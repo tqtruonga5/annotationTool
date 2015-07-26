@@ -1,0 +1,4 @@
+Tiền Sử Bệnh
+CHưa rõ
+Tổng Kết Bệnh Lý
+Khoảng 4 tuần nay <span class="selected problem". start="5" end="5" line="4">đau_đầu</span> , <span class="selected problem". start="7" end="9" line="4">choáng_váng khi đi_lại</span> , <span class="selected problem". start="11" end="14" line="4">đầy bụng sau ăn</span> , <span class="selected problem". start="16" end="17" line="4">ợ hơi</span> , <span class="selected problem". start="19" end="20" line="4">ợ chua</span> , ăn_uống kém <span class="selected problem". start="24" end="24" line="4">mệt_mỏi</span> - - - > NV - - - > Sau <span class="selected treatment". start="35" end="35" line="4">điều_trị</span> BN bớt chóng_mặt , bớt ợ hơi ợ chua .

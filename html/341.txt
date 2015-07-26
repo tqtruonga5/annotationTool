@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Ho</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > <span class="selected treatment". start="6" end="7" line="6">nhập ICU</span> .
+Bệnh_nhân được điều_trị bằng <span class="selected treatment". start="5" end="5" line="7">kháng_sinh</span> - - > <span class="selected treatment". start="9" end="10" line="7">Khí dung</span> - - > <span class="selected treatment". start="14" end="16" line="7">nâng đở cơ_thể</span> .
+Bệnh_nhân ổn_định - - > cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">Kháng_sinh</span>

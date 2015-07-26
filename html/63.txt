@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="3" line="2">Tiêu phân nhầy</span>
+Bệnh Lý
+Cháu <span class="selected problem". start="2" end="9" line="4">tiêu phân lỏng có nhầy máu 5 lần</span> , đã được <span class="selected treatment". start="13" end="17" line="4">khám và điều_trị Tiêu_chảy nhiễm_trùng</span> với <span class="selected treatment". start="19" end="19" line="4">Negram</span> nhưng không uống được , cháu <span class="selected problem". start="26" end="26" line="4">mệt</span> , <span class="selected problem". start="28" end="31" line="4">không chụi ăn_uống gì</span> , người_nhà lo_lắng - > NHập viện
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="8">hạ sốt</span> , <span class="selected treatment". start="6" end="7" line="8">bù dịch</span> , <span class="selected treatment". start="9" end="9" line="8">sinh_tố</span>

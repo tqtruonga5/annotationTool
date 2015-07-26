@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">đau bụng</span> , <span class="selected problem". start="4" end="7" line="2">tiêu lỏng nhiều lần</span>
+Bệnh Lý
+ngày qua bé <span class="selected problem". start="4" end="5" line="4">tiêu lỏng</span> , có <span class="selected problem". start="8" end="11" line="4">đau bụng quanh rốn</span> , không sốt , người_nhà đưa bé đi <span class="selected treatment". start="20" end="20" line="4">khám</span> , bé được uống <span class="selected treatment". start="25" end="25" line="4">enterogermina</span> , <span class="selected treatment". start="27" end="27" line="4">smecta</span> .
+Ngày_nay bé <span class="selected problem". start="3" end="7" line="5">tiêu phân lỏng tóe nước</span> , <span class="selected problem". start="9" end="12" line="5">đau bụng từng cơn</span> - - > khám
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="1" line="7">suyễn</span>
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="9">truyền dịch</span> , <span class="selected treatment". start="4" end="5" line="9">men vi_sinh</span> , <span class="selected treatment". start="7" end="7" line="9">kẽm</span> , <span class="selected treatment". start="9" end="10" line="9">nâng_đỡ thể_trạng</span>

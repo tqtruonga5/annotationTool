@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+bệnh 02 ngày , mẹ khai bé <span class="selected problem". start="8" end="8" line="4">sốt</span> từ chiều_tối hôm_qua - > hôm_nay <span class="selected problem". start="15" end="16" line="4">sốt cao</span> , trước lúc nv khoảng 20 phút bé <span class="selected problem". start="25" end="27" line="4">sốt cao co_giật</span> ( <span class="selected problem". start="29" end="30" line="4">mắt trợn</span> , <span class="selected problem". start="32" end="33" line="4">tay_chân gồng</span> , <span class="selected problem". start="35" end="39" line="4">bọt mép khoảng 30 giây</span> ) , người_nhà có <span class="selected treatment". start="44" end="47" line="4">hạ sốt nhét hậu_môn</span> - > nv .
+bé không giật_mình , không ói , không quấy , không ho .
+bé bú tiểu được .
+Bé <span class="selected problem". start="2" end="5" line="7">phân lỏng n 4</span> , giảm dần còn <span class="selected problem". start="10" end="14" line="7">lỏng ít không đàm máu</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">nội</span>

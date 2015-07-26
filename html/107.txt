@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Ho</span> , <span class="selected problem". start="3" end="3" line="2">khò_khè</span>
+Bệnh Lý
+Cháu <span class="selected problem". start="2" end="2" line="4">ho</span> , <span class="selected problem". start="4" end="6" line="4">chảy mũi nhẹ</span> cách đây 2 ngày đã được <span class="selected treatment". start="13" end="13" line="4">khám</span> và <span class="selected treatment". start="15" end="15" line="4">điều_trị</span> Viêm hô_hấp trên ở BVND2 với <span class="selected treatment". start="22" end="22" line="4">Singule</span> , <span class="selected treatment". start="24" end="24" line="4">HoAstex</span> , sáng nay ho tăng khò_khè , người_nhà d 0a4 tự cho <span class="selected treatment". start="37" end="39" line="4">phun khí dung</span> 3 cư cách cách nhau mỗi 3 giờ nhưng bệnh không giảm - > Nhập_viện
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_viêm</span> , <span class="selected treatment". start="3" end="4" line="6">thuốc ho</span> , <span class="selected treatment". start="6" end="6" line="6">sinh_tố</span>

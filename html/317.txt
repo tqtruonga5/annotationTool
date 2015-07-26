@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="9" line="4">đau quặn bụng thượng_vị</span> , quanh rốn , kèm <span class="selected problem". start="15" end="21" line="4">tiêu lỏng 2 lần không đàm máu</span> , <span class="selected problem". start="23" end="27" line="4">nôn ói thức_ăn sau ăn</span> , <span class="selected problem". start="29" end="32" line="4">chóng_mặt khi thay_đổi tư_thế</span> , <span class="selected problem". start="34" end="38" line="4">nặng ngực sau xương ức</span> , <span class="selected problem". start="40" end="41" line="4">mệt nhiều</span> .
+BN <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="3" line="8">Ức_chế bơm proton</span>
+<span class="selected treatment". start="1" end="3" line="9">Tăng tuần_hoàn não</span>

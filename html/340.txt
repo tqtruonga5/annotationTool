@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân vào <span class="selected treatment". start="3" end="4" line="2">truyền hóa_chất</span> theo hẹn , sau <span class="selected treatment". start="9" end="9" line="2">truyền</span> bệnh ổn_định , ăn_uống được , cho bệnh_nhân xuất_viện .

@@ -1,0 +1,9 @@
+Bệnh Lý
+Hiện_tại BN sờ thấy <span class="selected problem". start="5" end="11" line="2">khối phồng vùng bìu ( T )</span> , đi <span class="selected test". start="14" end="14" line="2">siêu_âm</span> phát_hiện <span class="selected problem". start="16" end="20" line="2">thoát_vị bìu ( T )</span> khám nhập_viện
+Tiền Sử Bệnh
+chưa rõ
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+BN nam 60 tuổi hiện_tại BN sờ thấy <span class="selected problem". start="9" end="15" line="8">khối phồng vùng bìu ( T )</span> , đi <span class="selected test". start="18" end="18" line="8">siêu_âm</span> phát_hiện <span class="selected problem". start="20" end="24" line="8">thoát_vị bìu ( T )</span> khám nhập_viện .
+Chẩn_đoán : <span class="selected problem". start="3" end="7" line="9">Thoát_vị bẹn ( T )</span> .

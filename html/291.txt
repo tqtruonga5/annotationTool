@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="11" line="2">nôn ói liên_tục thức_ăn sau ăn</span> , kèm theo <span class="selected problem". start="15" end="20" line="2">đầy bụng khó tiêu sau ăn</span> , <span class="selected problem". start="22" end="23" line="2">mệt nhiều</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không rõ bệnh không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="3" line="6">Ức_chế bơm proton</span>

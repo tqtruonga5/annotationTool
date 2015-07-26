@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">đau bụng</span>
+Tiền Sử Bệnh
+bình_thường
+Tổng Kết Bệnh Lý
+<span class="selected problem". start="1" end="5" line="6">Đau bụng vùng thược vị</span> , <span class="selected problem". start="7" end="8" line="6">ăn_uống ít</span> , <span class="selected problem". start="10" end="11" line="6">người mệt_mỏi</span>
+- <span class="selected problem". start="2" end="3" line="7">Bụng mềm</span>

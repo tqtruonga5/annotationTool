@@ -1,0 +1,16 @@
+Điều Trị
+ngoại_khoa
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 62 tuổi vào viện với lý_do : Bệnh_nhân khai khoảng 1 tuần nay <span class="selected problem". start="16" end="19" line="4">đi_tiểu buốt tiểu rát</span> và <span class="selected problem". start="21" end="23" line="4">cảm_giác đau bụng_dưới</span> , <span class="selected problem". start="25" end="28" line="4">tiểu đêm nhiều lần</span> - - > vào khám
+<span class="selected test". start="1" end="2" line="5">Siêu_âm bụng</span> : - <span class="selected problem". start="5" end="7" line="5">Sỏi niệu_đạo sau</span> , <span class="selected problem". start="9" end="11" line="5">bàng_quang căng to</span> .
+- <span class="selected problem". start="2" end="3" line="6">Sỏi túi_mật</span> + <span class="selected problem". start="5" end="7" line="6">sỏi 2 thận</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="7">Sỏi niệu_đạo</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 62 tuổi vào viện với lý_do : Bệnh_nhân khai khoảng <span class="selected problem". start="13" end="23" line="9">1 tuần nay đi_tiểu buốt tiểu rát và cảm_giác đau bụng_dưới</span> , <span class="selected problem". start="25" end="28" line="9">tiểu đêm nhiều lần</span> - - > vào khám
+<span class="selected test". start="1" end="2" line="10">Siêu_âm bụng</span> : - Sỏi niệu_đạo sau , bàng_quang căng to .
+- Sỏi túi_mật + sỏi 2 thận .
+Chẩn_đoán : Sỏi niệu_đạo
+<span class="selected treatment". start="1" end="5" line="13">Phẫu_thuật tán sỏi niệu_đạo nội_soi</span> .
+Sau điều_trị , bệnh ổn , tiểu_tốt , nước_tiểu trong - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="5" line="16">Phẫu_thuật tán sỏi niệu_đạo nội_soi</span> .

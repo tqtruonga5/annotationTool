@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+Mấy ngày_nay bệnh_nhân <span class="selected problem". start="4" end="4" line="2">ho_khan</span> , <span class="selected problem". start="6" end="7" line="2">đau họng</span> , <span class="selected problem". start="9" end="12" line="2">tức ngực khi ho</span> , <span class="selected problem". start="14" end="17" line="2">thở khò_khè về đêm</span> , <span class="selected problem". start="19" end="23" line="2">chóng_mặt khi thay đổ tư_thế</span> , <span class="selected problem". start="25" end="25" line="2">mệt</span> - - > khám vào viện .
+Sau <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="5">Kháng_sinh</span>

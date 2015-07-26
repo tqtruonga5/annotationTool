@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Khoảng 1 tháng nay bệnh_nhân thường <span class="selected problem". start="7" end="10" line="2">đau tức vùng thượng_vị</span> , <span class="selected problem". start="12" end="13" line="2">ợ hơi</span> , <span class="selected problem". start="15" end="16" line="2">ợ chua</span> , kèm theo <span class="selected problem". start="20" end="21" line="2">đau họng</span> , <span class="selected problem". start="23" end="24" line="2">khàn tiếng</span> , <span class="selected problem". start="26" end="26" line="2">ho</span> , đã <span class="selected treatment". start="29" end="34" line="2">uống thuốc điều_trị nhưng không giảm</span> = > Nhập_viện .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="3">Viêm dạ_dày</span> - <span class="selected problem". start="6" end="7" line="3">Viêm thanh_quản</span> - <span class="selected problem". start="9" end="11" line="3">Hạt dây thanh</span> .
+<span class="selected treatment". start="1" end="2" line="4">Điều_trị nội_khoa</span> , sau <span class="selected treatment". start="5" end="5" line="4">phẫu_thuật</span> bệnh ổn_định , giảm đau , cho bệnh_nhân xuất_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Nội_khoa</span>

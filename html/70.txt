@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Mệt</span> , <span class="selected problem". start="3" end="3" line="2">đau_đầu</span>
+Bệnh Lý
+Hai ngày_nay bệnh_nhân thấy <span class="selected problem". start="5" end="6" line="4">đau_nhói ngực</span> , <span class="selected problem". start="8" end="8" line="4">chóng_mặt</span> , <span class="selected problem". start="10" end="13" line="4">đau_đầu khi thay_đổi tư_thế</span> .
+<span class="selected problem". start="1" end="4" line="5">Đau bụng vùng thượng_vị</span> , <span class="selected problem". start="6" end="9" line="5">chướng bụng sau ăn</span> kèm <span class="selected problem". start="11" end="12" line="5">ợ hơi</span> , <span class="selected problem". start="14" end="14" line="5">mệt</span> - - > khám vào viện
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="7">Tăng huyết_áp</span> - <span class="selected problem". start="4" end="7" line="7">Rối_loạn chuyển_hóa Lipid máu</span>

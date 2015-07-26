@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="4">Viêm dạ_dày</span>
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="10" line="6">sốt ớn lạnh về chiều</span> , kèm theo <span class="selected problem". start="14" end="22" line="6">sưng đau khớp cổ_chân ( T ) sau chấn_thương</span> , <span class="selected problem". start="24" end="24" line="6">mệt</span> , <span class="selected problem". start="26" end="27" line="6">ăn_uống kém</span> .
+BN <span class="selected treatment". start="2" end="2" line="7">điều_trị</span> không rõ bệnh không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="8">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="3" line="11">Ức_chế bơm proton</span>

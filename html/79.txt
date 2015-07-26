@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span> , <span class="selected problem". start="5" end="5" line="2">ói</span>
+Bệnh Lý
+cháu bệnh 2 ngày_nay khám chuẩn đoán <span class="selected problem". start="8" end="10" line="4">viêm mũi họng</span> đang <span class="selected treatment". start="12" end="13" line="4">uống thuốc</span> nhưng bệnh không giảm .
+Nay cháu <span class="selected problem". start="3" end="3" line="5">sốt</span> , <span class="selected problem". start="5" end="5" line="5">bứt_rứt</span> , <span class="selected problem". start="7" end="8" line="5">ngủ giật_mình</span> , <span class="selected problem". start="10" end="10" line="5">ho</span> , <span class="selected problem". start="12" end="12" line="5">sổ_mũi</span> , <span class="selected problem". start="14" end="14" line="5">ói</span> , <span class="selected problem". start="16" end="17" line="5">ăn_uống kém</span> - - > khám
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="5" line="9">men tiêu viêm</span> , <span class="selected treatment". start="7" end="8" line="9">hạ sốt</span> , <span class="selected treatment". start="10" end="13" line="9">chống co_giật khi cần</span>

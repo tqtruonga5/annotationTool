@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">khó thở</span>
+Bệnh Lý
+Bé bị bệnh khoảng 3 ngày_nay , ở nhà bé có <span class="selected problem". start="12" end="12" line="4">sổ_mũi</span> .
+Ngày qua ở nhà bé bắt_đầu thấy <span class="selected problem". start="8" end="10" line="5">khó thở nhẹ</span> , <span class="selected problem". start="12" end="13" line="5">thở khò_khè</span> .
+Sáng nay bé <span class="selected problem". start="4" end="5" line="6">chảy_máu mũi</span> , tự cầm - - > khám
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="8">Viêm phế_quản</span> phổi cách đây 1 năm
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="10">thở oxy</span> , <span class="selected treatment". start="4" end="4" line="10">kháng_sinh</span> , <span class="selected treatment". start="6" end="6" line="10">kháng_viêm</span> , <span class="selected treatment". start="8" end="9" line="10">khí dung</span>

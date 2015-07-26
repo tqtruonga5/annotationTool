@@ -1,0 +1,6 @@
+Bệnh Lý
+khoảng 3 ngày_nay bé đang được <span class="selected treatment". start="7" end="13" line="2">điều_trị theo hướng nhiễm_trùng tiểu bằng cefixim</span> , ngày_nay sau khi bé ăn cơm_rang tôm ở nhà , kêu <span class="selected problem". start="26" end="27" line="2">đau bụng</span> , sau đó <span class="selected problem". start="31" end="33" line="2">nôn nhiều lần</span> , đã đi khám bác_sĩ và được cho <span class="selected treatment". start="42" end="45" line="2">uống thuốc chống ói</span> , nhưng bé <span class="selected problem". start="49" end="50" line="2">ói liên_tục</span> , kêu <span class="selected problem". start="53" end="56" line="2">đau bụng nhiều hơn</span> , không thấy tiêu phân lỏng , không sốt , không có chấn_thương - - > khám
+Tiền Sử Bệnh
+khỏe_mạnh
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="6">truyền dịch</span> , <span class="selected treatment". start="4" end="5" line="6">chống ói</span> , <span class="selected treatment". start="7" end="8" line="6">men vi_sinh</span> , <span class="selected treatment". start="10" end="11" line="6">giảm đau</span>

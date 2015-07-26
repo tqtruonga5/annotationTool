@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">loét miệng</span>
+Bệnh Lý
+- mẹ khai bệnh
+- cháu bệnh ngày 2 . khởi_phát với <span class="selected problem". start="9" end="10" line="5">sốt nhẹ</span> - - > <span class="selected problem". start="14" end="15" line="5">biếng ăn</span> , <span class="selected problem". start="17" end="18" line="5">loét miệng</span> - - > nhập_viện
+cháu <span class="selected problem". start="2" end="3" line="6">khó ngủ</span> , không giật_mình run chi , tiêu tiểu bình_thường .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="10">điều_trị triệu_chứng</span> , <span class="selected treatment". start="6" end="6" line="10">nâng_đỡ</span>

@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">ho</span> , <span class="selected problem". start="3" end="3" line="2">sổ_mũi</span> , <span class="selected problem". start="5" end="5" line="2">ói</span>
+Bệnh Lý
+Cháu bị bệnh khoảng 3 ngày_nay , <span class="selected problem". start="8" end="8" line="4">ho</span> , <span class="selected problem". start="10" end="10" line="4">sổ_mũi</span> , <span class="selected problem". start="12" end="12" line="4">ói</span> đã được chẩn_đoán <span class="selected problem". start="16" end="17" line="4">viêm họng</span> đang <span class="selected treatment". start="19" end="19" line="4">điều_trị</span> .
+Ngày_nay bé có <span class="selected problem". start="4" end="4" line="5">ói</span> , <span class="selected problem". start="6" end="6" line="5">ho</span> , <span class="selected problem". start="8" end="9" line="5">khò_khè nhiều</span> , <span class="selected problem". start="11" end="12" line="5">ăn_uống kém</span> , <span class="selected problem". start="14" end="15" line="5">ngủ bứt_rứt</span> - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="9">khí dung</span> , <span class="selected treatment". start="8" end="10" line="9">nâng_đỡ tổng trạng</span>

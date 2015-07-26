@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+BN có tiền_căn <span class="selected problem". start="4" end="4" line="2">THA</span> đang <span class="selected treatment". start="6" end="7" line="2">điều_trị thuốc</span> .
+Máy ngày_nay <span class="selected problem". start="3" end="5" line="3">HA tăng cao</span> dùng <span class="selected treatment". start="7" end="7" line="3">thuốc</span> nhưng không đỡ nên vào nhập_viện .
+Khi nhập_viện BN có thêm triệu_chứng <span class="selected problem". start="7" end="7" line="4">ho</span> , <span class="selected problem". start="9" end="10" line="4">rát họng</span>

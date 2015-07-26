@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+cháu bệnh nữa tháng nay với <span class="selected problem". start="7" end="7" line="4">sốt</span> , <span class="selected problem". start="9" end="10" line="4">ho khò_khè</span> .
+khám bs tư uống thuốc <span class="selected treatment". start="6" end="6" line="5">Augmentin</span> , <span class="selected treatment". start="8" end="8" line="5">siro</span> ho bệnh không giảm .
+từ hôm_qua đến nay cháu <span class="selected problem". start="6" end="6" line="6">sốt</span> , chiều nay khám <span class="selected treatment". start="11" end="12" line="6">uống thuốc</span> nhưng tối nay <span class="selected problem". start="16" end="18" line="6">sốt cao hơn</span> , <span class="selected problem". start="20" end="22" line="6">bứt_rứt quấy khóc</span> , <span class="selected problem". start="24" end="25" line="6">ăn_uống kém</span> - - > nhập_viện
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="10">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="10">giảm ho</span> , <span class="selected treatment". start="8" end="9" line="10">giản phế_quản</span> , <span class="selected treatment". start="11" end="12" line="10">hạ sốt</span>

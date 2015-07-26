@@ -1,0 +1,7 @@
+Bệnh Lý
+cách nv 30 phút , mẹ khai bé tự trượt chân té ngã khi đang đi_đứng trên bộ ván cao khoảng 1m , đập phía sau đầu xuống nền nhà ( mẹ nghe bà nội bé kể lại ) - > nv , sau đó bé có <span class="selected problem". start="48" end="48" line="2">ói</span> ít 1 lần không đàm máu .
+bé đang <span class="selected treatment". start="3" end="3" line="3">điều_trị</span> bệnh <span class="selected problem". start="5" end="6" line="3">nhiễm siêu_vi</span> đã hết sốt từ chiều_qua sau khi sốt 3 ngày , <span class="selected problem". start="18" end="19" line="3">sốt vừa</span> .
+- bé ăn bú tiêu tiểu được khá , mấy ngày_nay bé có nhợn <span class="selected problem". start="15" end="15" line="4">ói</span> , <span class="selected problem". start="17" end="17" line="4">ói</span> ít .
+Sau té tỉnh , không quấy , không lừ_đừ .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">nội</span>

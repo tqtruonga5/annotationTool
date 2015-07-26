@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+bệnh 04 ngày , mẹ khai bé sốt bắt_đầu_từ chiều_tối t 5 tuần này ( 24/4 ) , <span class="selected problem". start="19" end="26" line="4">sốt tăng vừa đến sốt cao mỗi ngày</span> , kèm <span class="selected problem". start="29" end="31" line="4">ho tăng dần</span> , <span class="selected problem". start="33" end="34" line="4">ho đàm</span> .
+hôm_nay <span class="selected problem". start="2" end="4" line="5">sốt cao liên_tục</span> - > nv
+- <span class="selected problem". start="2" end="2" line="6">ho</span> - > <span class="selected problem". start="5" end="5" line="6">ói</span> , <span class="selected problem". start="7" end="12" line="6">ăn_uống được ít hơn ngày thường</span> , tiêu tiểu_tốt , không phân lỏng .
+- <span class="selected problem". start="2" end="4" line="7">phát_ban ở da</span> từ 24/4 giảm dần .
+Bé đang <span class="selected treatment". start="3" end="6" line="8">điều_trị ngoại_trú BV Vũ_Anh</span> ( <span class="selected treatment". start="8" end="8" line="8">cefuroxime</span> , <span class="selected treatment". start="10" end="10" line="8">farzincol</span> , <span class="selected treatment". start="12" end="13" line="8">ho prospan</span> ) .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">nội</span>

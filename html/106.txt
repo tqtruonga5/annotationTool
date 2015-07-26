@@ -1,0 +1,2 @@
+Bệnh Lý
+BN khai mấy ngày_nay BN thấy <span class="selected problem". start="7" end="11" line="2">chóng_mặt nhiều khi thay_đổi tư_thế</span> , <span class="selected problem". start="13" end="15" line="2">đau vùng thường</span> vi , <span class="selected problem". start="18" end="20" line="2">đi_tiêu phân sống</span> , <span class="selected problem". start="22" end="25" line="2">đau_nhức chân khi đi_lại</span> nên đến khám và được cho vào nhập_viện .

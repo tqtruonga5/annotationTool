@@ -1,0 +1,19 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Bệnh Lý
+Bệnh_nhân khai <span class="selected problem". start="3" end="4" line="4">đau bụng</span> cách đây # 01 tuần , <span class="selected problem". start="11" end="14" line="4">đau tức vùng thượng_vị</span> , kèm theo <span class="selected problem". start="18" end="19" line="4">ợ hơi</span> , <span class="selected problem". start="21" end="22" line="4">ợ chua</span> , <span class="selected problem". start="24" end="27" line="4">đau quặn từng cơn</span> , có <span class="selected problem". start="30" end="32" line="4">cảm_giác tức ngực</span> , <span class="selected problem". start="34" end="35" line="4">ăn_không tiêu</span> , <span class="selected problem". start="37" end="39" line="4">người mệt mõi</span> = > Vào khám .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="6">Viêm dạ_dày</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Nội_khoa</span>
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 42 tuổi , <span class="selected problem". start="6" end="7" line="10">đau bụng</span> cách đây # 01 tuần , <span class="selected problem". start="14" end="17" line="10">đau tức vùng thượng_vị</span> , kèm theo <span class="selected problem". start="21" end="22" line="10">ợ hơi</span> , <span class="selected problem". start="24" end="25" line="10">ợ chua</span> , <span class="selected problem". start="27" end="30" line="10">đau quặn từng cơn</span> , có <span class="selected problem". start="33" end="35" line="10">cảm_giác tức ngực</span> , <span class="selected problem". start="37" end="38" line="10">ăn_không tiêu</span> , <span class="selected problem". start="40" end="42" line="10">người mệt mõi</span> = > Vào khám .
+<span class="selected test". start="1" end="2" line="11">Soi dạ_dày</span> kết_quả : <span class="selected problem". start="5" end="15" line="11">Viêm xung huyết toàn_bộ dạ_dày mức_độ nặng Clotest ( + )</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="8" line="12">Viêm dạ_dày Clotest ( + )</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 42 tuổi , <span class="selected problem". start="6" end="7" line="14">đau bụng</span> cách đây # 01 tuần , <span class="selected problem". start="14" end="17" line="14">đau tức vùng thượng_vị</span> , kèm theo <span class="selected problem". start="21" end="22" line="14">ợ hơi</span> , <span class="selected problem". start="24" end="25" line="14">ợ chua</span> , <span class="selected problem". start="27" end="30" line="14">đau quặn từng cơn</span> , có <span class="selected problem". start="33" end="35" line="14">cảm_giác tức ngực</span> , <span class="selected problem". start="37" end="38" line="14">ăn_không tiêu</span> , <span class="selected problem". start="40" end="42" line="14">người mệt mõi</span> = > Vào khám .
+<span class="selected test". start="1" end="2" line="15">Soi dạ_dày</span> kết_quả : <span class="selected problem". start="5" end="15" line="15">Viêm xung huyết toàn_bộ dạ_dày mức_độ nặng Clotest ( + )</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="8" line="16">Viêm dạ_dày Clotest ( + )</span> .
+<span class="selected treatment". start="1" end="2" line="17">Điều_trị nội_khoa</span> , bệnh có giảm , bớt đau , ăn_uống được , cho bệnh_nhân xuất_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="19">Nội_khoa</span>

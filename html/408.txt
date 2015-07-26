@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Khó thở</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="4" line="6">khó thở nặng</span> , <span class="selected problem". start="6" end="7" line="6">nhập ICU</span> - - > <span class="selected treatment". start="11" end="13" line="6">điều_trị bằng Albumin</span> .
+Sau 1 ngày <span class="selected treatment". start="4" end="4" line="7">điều_trị</span> , bệnh_nhân xin xuất_viện vì lý_do kinh_tế khó_khăn
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">nội_khoa</span>

@@ -1,0 +1,2 @@
+Tóm Tắt Khám Bệnh
+Bé gái 10 ngày tuổi , sanh thường , đủ tháng , đủ cân , <span class="selected problem". start="16" end="17" line="2">vàng da</span> , nhẹ , <span class="selected problem". start="21" end="24" line="2">rốn ướt có mủ</span> , <span class="selected problem". start="26" end="31" line="2">da vùng chân rốn nề đỏ</span>

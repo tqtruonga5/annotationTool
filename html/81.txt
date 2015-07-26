@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span>
+Bệnh Lý
+bệnh 04 ngày , ba bé khai bé <span class="selected problem". start="9" end="9" line="4">sốt</span> từ 5/9 kèm <span class="selected problem". start="13" end="14" line="4">ho ít</span> - > <span class="selected treatment". start="17" end="18" line="4">uống thuốc</span> bệnh_viện nhi_đồng ( <span class="selected treatment". start="22" end="22" line="4">augmentine</span> ) - > hết sốt 7/9 , bé <span class="selected problem". start="31" end="35" line="4">đi_cầu phân lỏng nhiều nước</span> qua nay khoảng 10 lần/ngày , không đàm máu . Bé <span class="selected problem". start="47" end="47" line="4">sôt</span> lại sáng nay , <span class="selected problem". start="52" end="54" line="4">ăn rất ít</span> - > nv .
+Bé tiểu khá .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">nội</span>

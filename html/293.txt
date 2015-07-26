@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+BN sau khi ngủ dậy thấy <span class="selected problem". start="7" end="8" line="2">chóng_mặt nhiều</span> kèm <span class="selected problem". start="10" end="10" line="2">buồn_nôn</span> có <span class="selected treatment". start="12" end="13" line="2">dùng thuốc</span> nhưng không đỡ nên vào nhập_viện

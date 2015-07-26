@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+03 tháng nay bệnh_nhân ăn_chay trường <span class="selected problem". start="7" end="8" line="2">sụt 10kg</span> , <span class="selected problem". start="10" end="11" line="2">ăn_uống kém</span> và <span class="selected problem". start="13" end="14" line="2">mệt nhiều</span> nên lo_lắng xin nhập_viện điều_trị - - - > Sau <span class="selected treatment". start="25" end="25" line="2">điều_trị</span> BN bớt mệt , ăn_uống khá hơn , cảm_giác chủ_quan khỏe hơn - - - > Xuất_viện .

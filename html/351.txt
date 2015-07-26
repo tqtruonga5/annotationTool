@@ -1,0 +1,7 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > <span class="selected treatment". start="6" end="7" line="4">nhập ICU</span> - - > <span class="selected treatment". start="11" end="12" line="4">truyền máu</span> - > <span class="selected treatment". start="15" end="15" line="4">kháng_sinh</span> - > <span class="selected treatment". start="18" end="20" line="4">nâng đở thể_trạng</span>
+Sau 6 ngày <span class="selected treatment". start="4" end="4" line="5">điều_trị</span> bệnh diễn_biến nặng hơn - - - > gia_đình ký đơn xin xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span>

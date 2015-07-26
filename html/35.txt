@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">ói</span>
+Bệnh Lý
+cháu bệnh 3 ngày_nay .
+<span class="selected problem". start="1" end="1" line="5">sốt</span> 1 ngày thì hết sốt .
+2 ngày_nay bé ăn <span class="selected problem". start="5" end="5" line="6">ói</span> , <span class="selected problem". start="7" end="7" line="6">ho</span> , hay <span class="selected problem". start="10" end="11" line="6">đổ mồ_hôi</span> , <span class="selected problem". start="13" end="14" line="6">khát nước</span> , có <span class="selected treatment". start="17" end="18" line="6">dùng thuốc</span> không rõ là thuốc gì .
+Nay bé <span class="selected problem". start="3" end="4" line="7">ói nhiều</span> - - > khám
+Tiền Sử Bệnh
+bt
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="11">truyền dịch</span> , <span class="selected treatment". start="4" end="4" line="11">kháng_sinh</span> , <span class="selected treatment". start="6" end="7" line="11">chống ói</span> , <span class="selected treatment". start="9" end="10" line="11">chống viêm</span> , <span class="selected treatment". start="12" end="13" line="11">kháng histamin</span>

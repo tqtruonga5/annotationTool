@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Bệnh Lý
+Sáng nay bệnh_nhân <span class="selected problem". start="4" end="16" line="4">đau quặn vùng hố_chậu ( T ) , mạn sườn ( T )</span> , không buồn_nôn , không nôn , trung_tiện được - - > khám vào viện

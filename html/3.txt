@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span> , <span class="selected problem". start="5" end="5" line="2">sổ_mũi</span>
+Bệnh Lý
+bé đang điều_trị viêm mũi họng cấp / sốt cao N2 / TD sốt_xuất_huyết 3 ngày dùng kháng_sinh không đỡ .
+Ngày_nay bé sốt cao liên_tục , quấy khóc nhiều - - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="9">hạ sốt</span> , <span class="selected treatment". start="8" end="9" line="9">khí dung</span>

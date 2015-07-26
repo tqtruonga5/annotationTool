@@ -1,0 +1,10 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Tăng huyết_áp</span>
+Tóm Tắt Khám Bệnh
+<span class="selected test". start="1" end="2" line="4">xét_nghiệm máu</span> : <span class="selected test". start="4" end="4" line="4">WBC</span> : 11.0 <span class="selected test". start="7" end="7" line="4">Neu</span> % : 56.4
+<span class="selected test". start="1" end="1" line="5">Mono</span> % : 13.6 ,
+<span class="selected test". start="1" end="1" line="6">Eos</span> % : 0.086 .
+<span class="selected test". start="1" end="1" line="7">HGB</span> : 140 , HCT : 0416
+<span class="selected test". start="1" end="1" line="8">Glucose</span> : 6.23 , <span class="selected test". start="5" end="5" line="8">creatinin</span> : 93.3 , <span class="selected test". start="9" end="10" line="8">ion đồ</span> : <span class="selected test". start="12" end="12" line="8">Natri</span> : 137 , <span class="selected test". start="16" end="16" line="8">Kali</span> : 3.3 ,
+<span class="selected test". start="1" end="1" line="9">Clor</span> : 103 , <span class="selected test". start="5" end="5" line="9">Ca</span> : 2.03
+<span class="selected test". start="1" end="3" line="10">Dengue_Fever - IgM</span> : âm_tính , <span class="selected test". start="7" end="9" line="10">Dengue NS1 AgStrip</span> : âm_tính

@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tổng Kết Bệnh Lý
+Khởi bệnh cách nhập_viện 2 ngày , bệnh_nhân <span class="selected problem". start="9" end="12" line="4">đau lâm_râm vùng thượng_vị</span> , đến tối <span class="selected problem". start="16" end="16" line="4">buồn_nôn</span> và <span class="selected problem". start="18" end="21" line="4">nôn nhiều ra thức_ăn</span> .
+Hôm_qua <span class="selected treatment". start="2" end="6" line="5">đi khám uống không giảm</span> - - > khám vào viện - - - > Sau <span class="selected treatment". start="18" end="18" line="5">điều_trị</span> BN bớt đau bụng , không nôn ói , cảm_giác chủ_quan khỏe - - - > XV

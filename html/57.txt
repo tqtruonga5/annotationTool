@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">ói</span>
+Bệnh Lý
+Bé <span class="selected problem". start="2" end="2" line="4">ói</span> từ tối hôm_qua , <span class="selected treatment". start="7" end="7" line="4">khám</span> tại khoa cấp_cứu <span class="selected treatment". start="11" end="12" line="4">uống thuốc</span> ở nhà nhưng không giảm , trong đêm <span class="selected problem". start="21" end="22" line="4">sốt nhẹ</span> , sáng nay còn <span class="selected problem". start="27" end="27" line="4">ói</span> - - khám lại - - > nhập_viện
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="6">Chống ói</span> , <span class="selected treatment". start="4" end="5" line="6">men vi_sinh</span> , <span class="selected treatment". start="7" end="8" line="6">bù nước</span> - <span class="selected treatment". start="10" end="13" line="6">điện giải đường uống</span>

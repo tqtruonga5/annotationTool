@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Tiền Sử Bệnh
+khỏe
+Tổng Kết Bệnh Lý
+bệnh 01 ngày , <span class="selected problem". start="5" end="6" line="6">sốt cao</span> , <span class="selected problem". start="8" end="8" line="6">ói</span> , <span class="selected problem". start="10" end="11" line="6">ho nhiều</span> - > nv
+<span class="selected problem". start="1" end="3" line="7">phổi rale ẩm</span> , <span class="selected problem". start="5" end="5" line="7">nổ</span> , <span class="selected problem". start="7" end="7" line="7">ngáy</span>

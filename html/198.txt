@@ -1,0 +1,15 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+BN nam 35 tuổi <span class="selected problem". start="5" end="10" line="4">đau hông lưng ( P )</span> .
+<span class="selected test". start="1" end="1" line="5">Siêu_âm</span> : Sỏi kẹt niệu_quản ( P ) đoạn 1/3 trên / sỏi 2 thận
+<span class="selected test". start="1" end="2" line="6">Chụp XQ</span> : Sỏi cản_quang niệu_quản ( P ) đoạn bụng 1/3 trên ngang L3 ( P ) d # 7x9mm
+Chẩn_đoán : <span class="selected problem". start="3" end="12" line="7">Sỏi kẹt niệu_quản ( P ) / sỏi 2 thận</span>
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="4" line="9">đau hông lưng</span> ( P ) .
+Siêu_âm : <span class="selected test". start="3" end="5" line="10">Sỏi kẹt niệu_quản</span> ( P ) đoạn 1/3 trên / <span class="selected test". start="13" end="15" line="10">sỏi 2 thận</span>
+Chụp XQ : <span class="selected test". start="4" end="6" line="11">Sỏi cản_quang niệu_quản</span> ( P ) đoạn bụng 1/3 trên ngang L3 ( P ) d # 7x9mm
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="12">Sỏi kẹt niệu_quản</span> ( P ) / sỏi 2 thận .
+Được <span class="selected treatment". start="2" end="7" line="13">PT tán sỏi niệu_quản bằng laser</span> + <span class="selected treatment". start="9" end="12" line="13">đặt sonde JJ niệu_quản</span> , sau PT bệnh ổn xuất_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="4" line="15">PT tán sỏi Laser</span> + <span class="selected treatment". start="6" end="7" line="15">đặt JJ</span>

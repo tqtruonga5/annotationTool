@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span>
+Tiền Sử Bệnh
+Chưa rõ
+Tổng Kết Bệnh Lý
+Khoảng 3 ngày , bn <span class="selected problem". start="6" end="7" line="6">sốt cao</span> kèm <span class="selected problem". start="9" end="12" line="6">ớn lạnh từng cơn</span> , <span class="selected problem". start="14" end="15" line="6">ho nhiều</span> , <span class="selected problem". start="17" end="18" line="6">ho đàm</span> , <span class="selected problem". start="20" end="21" line="6">đau họng</span> , <span class="selected problem". start="23" end="24" line="6">đau_đầu nhiều</span> , <span class="selected problem". start="26" end="26" line="6">mệt_mỏi</span> , <span class="selected problem". start="28" end="29" line="6">đau_nhức toàn_thân</span> , <span class="selected problem". start="31" end="32" line="6">đắng miệng</span> - - >
+Sau điều_trị BN ổn - - > ra viện

@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Tăng huyết_áp</span> .
+<span class="selected problem". start="1" end="2" line="3">Viêm dạ_dày</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân đang bình_thường trước khi <span class="selected treatment". start="6" end="7" line="5">lọc máu</span> trưa nay , không <span class="selected problem". start="12" end="12" line="5">sốt</span> , không <span class="selected problem". start="15" end="15" line="5">ho</span> , <span class="selected test". start="17" end="18" line="5">tiểu bình_thường</span> ( 1 ngày bệnh_nhân còn <span class="selected test". start="24" end="29" line="5">tiểu được 1 lít / ngày</span> ) , trưa nay , ăn khô cá sặc chiên , sau ăn khoảng 2-3 giờ ( <span class="selected treatment". start="47" end="50" line="5">lọc máu 1.5 giờ</span> ) cách vào <span class="selected treatment". start="54" end="54" line="5">cấp_cứu</span> 1 giờ , bệnh_nhân <span class="selected problem". start="59" end="63" line="5">ói 4-5 lần ra thức_ăn</span> buổi_trưa , không <span class="selected problem". start="67" end="68" line="5">tiêu lỏng</span> , <span class="selected problem". start="70" end="72" line="5">tiểu nhiều lần</span> , không <span class="selected problem". start="75" end="76" line="5">đau bụng</span> , sau đó <span class="selected problem". start="80" end="85" line="5">lạnh run sốt 38 độ 5</span> - - > gia_đình đưa bệnh_nhân vào cấp cưu .
+Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="2" line="9">Hạ đường_huyết</span>

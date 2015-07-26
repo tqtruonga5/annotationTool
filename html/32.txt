@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+Bé bị <span class="selected problem". start="3" end="3" line="4">khò_khè</span> khoảng 1 tuần nay , ngày qua đã đi <span class="selected treatment". start="13" end="13" line="4">khám</span> được cho uống thuốc <span class="selected treatment". start="18" end="18" line="4">zenodem</span> , <span class="selected treatment". start="20" end="20" line="4">solupred</span> , <span class="selected treatment". start="22" end="22" line="4">prospan</span> , <span class="selected treatment". start="24" end="24" line="4">salbutamol</span> nhưng không đỡ .
+Ngày_nay bé <span class="selected problem". start="3" end="4" line="5">sốt cao</span> , <span class="selected problem". start="6" end="7" line="5">quấy khóc</span> , <span class="selected problem". start="9" end="10" line="5">thở mệt</span> - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">corticoid</span> , <span class="selected treatment". start="5" end="6" line="9">giảm ho</span> , <span class="selected treatment". start="8" end="9" line="9">hạ sốt</span> , <span class="selected treatment". start="11" end="12" line="9">khí dung</span>

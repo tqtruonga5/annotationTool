@@ -1,0 +1,2 @@
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="2" line="2">Khang sinh</span> - <span class="selected treatment". start="4" end="5" line="2">Ổn_định đường_huyết</span> - <span class="selected treatment". start="7" end="8" line="2">Giảm đau</span> - <span class="selected treatment". start="10" end="12" line="2">Kháng bơm proton</span> - <span class="selected treatment". start="14" end="15" line="2">Điều_trị triệu_chứng</span> .

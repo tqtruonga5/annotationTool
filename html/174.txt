@@ -1,0 +1,9 @@
+Bệnh Lý
+Bệnh_nhân khai <span class="selected problem". start="3" end="5" line="2">ra mồ_hôi tay</span> , ngày_càng ra nhiều - - > vào khám - - > nhập_viện
+Tiền Sử Bệnh
+Chưa rõ
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+Bệnh_nhân khai <span class="selected problem". start="3" end="5" line="8">ra mồ_hôi tay</span> , ngày_càng ra nhiều - - > vào khám - - > nhập_viện
+Chẩn_đoán : <span class="selected problem". start="3" end="6" line="9">Tăng tiết mồ_hôi tay</span> .

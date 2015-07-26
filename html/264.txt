@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="2" line="2">sốt</span> ngày 3 , kèm <span class="selected problem". start="7" end="9" line="2">ho đàm trắng</span> , <span class="selected problem". start="11" end="11" line="2">mệt</span> , <span class="selected problem". start="13" end="14" line="2">khó thở</span> , không đau ngực .
+Có <span class="selected treatment". start="2" end="4" line="3">điều_trị ở Bình_Dương</span> không bớt - > nhập_viện .
+Sau điều_trị BN ổn - > xuất_viện

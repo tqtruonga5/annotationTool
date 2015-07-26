@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">đau bụng</span>
+Bệnh Lý
+bệnh_nhân <span class="selected problem". start="2" end="3" line="4">đau bụng</span> từ sáng nay , <span class="selected problem". start="8" end="12" line="4">đau quanh rốn âm_ỉ liên_tục</span> , không buồn_nôn không sốt , tiêu và tiểu bình_thường - - > vào viện
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="6">para 1001</span> , ngưng <span class="selected treatment". start="5" end="7" line="6">thuốc ngừa thai</span> cách nay 1 tháng , KC 25/12/2013
+đã <span class="selected treatment". start="2" end="3" line="7">cắt ruột_thừa</span>

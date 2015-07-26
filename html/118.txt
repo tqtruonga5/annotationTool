@@ -1,0 +1,7 @@
+Bệnh Lý
+Theo lời khai của người_nhà , bệnh_nhân <span class="selected problem". start="8" end="10" line="2">đột_ngột sốt cao</span> kèm <span class="selected problem". start="12" end="13" line="2">lạnh run</span> , tự đo <span class="selected test". start="17" end="17" line="2">huyết_áp</span> ( 250mmHg / ? ) , có <span class="selected treatment". start="25" end="28" line="2">uống thuốc hạ huyết_áp</span> không rõ loại , .
+Hiện_tại bệnh_nhân <span class="selected problem". start="3" end="3" line="3">lơ_mơ</span> , <span class="selected problem". start="5" end="6" line="3">sốt cao</span> , gia_đình đưa bệnh_nhân vào cấp_cứu Bệnh_viện Vũ_Anh .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="5">Tăng huyết_áp</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">nội_khoa</span>

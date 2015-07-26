@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span> , <span class="selected problem". start="3" end="3" line="2">mệt</span>
+Bệnh Lý
+Bệnh_nhân khai 2 ngày_nay , <span class="selected problem". start="6" end="16" line="4">xuất_hiện mảng mụn nước vùng ngực - mông - chân trái</span> , hiện_nay <span class="selected problem". start="19" end="19" line="4">sốt</span> , <span class="selected problem". start="21" end="22" line="4">lạnh run</span> , <span class="selected problem". start="24" end="26" line="4">mệt vã mồ_hôi</span>
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="6">tăng huyết_áp</span> .
+<span class="selected problem". start="1" end="3" line="7">phì đại tiền_liệt_tuyến</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">nội_khoa</span>

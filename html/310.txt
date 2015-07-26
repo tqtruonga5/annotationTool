@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tổng Kết Bệnh Lý
+Bệnh ngày qua , BN sau ăn cảm_giác <span class="selected problem". start="9" end="9" line="4">buồn_nôn</span> , <span class="selected problem". start="11" end="15" line="4">nôn ói thức_ăn sau ăn</span> , kèm theo <span class="selected problem". start="19" end="22" line="4">đau quặn bụng thượng_vị</span> , <span class="selected problem". start="24" end="24" line="4">mệt</span> , <span class="selected problem". start="26" end="27" line="4">sốt âm_ỉ</span> , không <span class="selected problem". start="30" end="31" line="4">tiêu lỏng</span> .
+BN <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> không rõ bệnh không giảm được đưa nhập_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="3" line="8">Ức_chế bơm proton</span>

@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span>
+Bệnh Lý
+Sáng ngày qua bé <span class="selected problem". start="5" end="6" line="4">sốt cao</span> , ở nhà đã <span class="selected treatment". start="11" end="14" line="4">dùng thuốc hạ sốt</span> nhưng không đỡ - - > người_nhà đưa bé đi khám được chẩn_đoán là <span class="selected problem". start="29" end="31" line="4">viêm họng cấp</span> đang <span class="selected treatment". start="33" end="41" line="4">điều_trị bằng noflux và cezil , efferangal , ceelin</span> nhưng bé không đỡ , chiều nay bé <span class="selected problem". start="50" end="51" line="4">số cao</span> dùng <span class="selected treatment". start="53" end="55" line="4">thuốc hạ sốt</span> không đỡ , <span class="selected problem". start="59" end="61" line="4">bé đừ người</span> , <span class="selected problem". start="63" end="64" line="4">ăn_uống kém</span> người_nhà cho bé khám nhập_viện
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="6">chống viêm</span> , <span class="selected treatment". start="6" end="7" line="6">hạ sốt</span> , <span class="selected treatment". start="9" end="10" line="6">giảm ho</span>

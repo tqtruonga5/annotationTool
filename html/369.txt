@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Mệt</span> , <span class="selected problem". start="3" end="3" line="2">chóng_mặt</span>
+Tổng Kết Bệnh Lý
+Ba ngày_nay bệnh_nhân <span class="selected problem". start="4" end="4" line="4">chóng_mặt</span> , <span class="selected problem". start="6" end="6" line="4">choáng_váng</span> , <span class="selected problem". start="8" end="8" line="4">đau_đầu</span> , <span class="selected problem". start="10" end="10" line="4">mệt</span> ; <span class="selected problem". start="12" end="14" line="4">chóng_mặt khi xoay_trở</span> , <span class="selected problem". start="16" end="19" line="4">buồn_nôn nhiều về chiều</span> , <span class="selected problem". start="21" end="22" line="4">ăn_uống kém</span> , <span class="selected problem". start="24" end="24" line="4">mệt</span> - - > khám vào viện .
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Hạ_áp</span>

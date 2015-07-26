@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">ói</span>
+Bệnh Lý
+- mẹ khai bệnh
+- cháu bệnh từ qua , <span class="selected problem". start="7" end="11" line="5">ói sau ăn 2-3 lần</span> kèm <span class="selected problem". start="13" end="18" line="5">đau bụng quanh rốn từng cơn</span> - - > nhập_viện
+cháu ăn được , từ qua chưa đi_tiêu , không sốt , không ho .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="10">điều_trị triệu_chứng</span>

@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Loét miệng</span>
+Bệnh Lý
+cháu <span class="selected problem". start="2" end="2" line="4">sốt</span> 3 ngày_nay , <span class="selected problem". start="6" end="7" line="4">loét miệng</span> , đã khám uống thuốc điều_trị <span class="selected problem". start="14" end="16" line="4">bệnh tay_chân miệng</span> , bệnh giảm sốt nhưng cháu <span class="selected problem". start="23" end="24" line="4">ăn_uống kém</span> , từ chiều đến giờ <span class="selected problem". start="30" end="32" line="4">giật_mình 3 lần</span>
+Tiền Sử Bệnh
+đã bị bệnh <span class="selected problem". start="4" end="5" line="6">tay_chân miệng</span> cách đây 6 tháng
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">kháng_sinh</span> , <span class="selected treatment". start="3" end="5" line="8">mên tiêu viêm</span> , <span class="selected treatment". start="7" end="7" line="8">sinh_tố</span> , <span class="selected treatment". start="9" end="12" line="8">chống co_giật khi cần</span>

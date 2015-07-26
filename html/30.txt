@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">phân lỏng</span> , <span class="selected problem". start="4" end="4" line="2">ói</span>
+Bệnh Lý
+bệnh 01 ngày , mẹ khai bé <span class="selected problem". start="8" end="8" line="4">ói</span> trước - > <span class="selected problem". start="12" end="13" line="4">phân lỏng</span> 5-6 lần không đàm máu , nhiều nước từ 14h chiều nay , bé <span class="selected problem". start="28" end="31" line="4">ăn được rất ít</span> kèm <span class="selected problem". start="33" end="38" line="4">uống háo_hức nhưng ói gần hết</span> .
+Bé tiểu khá , không sốt , không quấy .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">nội</span>

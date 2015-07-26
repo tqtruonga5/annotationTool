@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tổng Kết Bệnh Lý
+BN đột_ngột <span class="selected problem". start="3" end="4" line="4">sốt cao</span> kèm <span class="selected problem". start="6" end="7" line="4">ớn lạnh</span> , <span class="selected problem". start="9" end="9" line="4">đau_đầu</span> , buồn_nôn <span class="selected treatment". start="12" end="13" line="4">dùng thuốc</span> không giảm nên vào nhập_viện

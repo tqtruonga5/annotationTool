@@ -1,0 +1,9 @@
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 10 tuổi , Người_nhà bé khai bé đang điều_trị <span class="selected problem". start="12" end="12" line="2">bệnh_bạch_cầu</span> có <span class="selected treatment". start="14" end="22" line="2">đặt buồng tiêm tĩnh_mạch vùng ngực ( T )</span> cách đây 4,5 năm ở Singapore , nay vào khám nhập_viện để lấy buồng tiêm .
+Chẩn_đoán : <span class="selected problem". start="3" end="10" line="3">Buồng tiêm tĩnh_mạch vùng ngực ( T )</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 10 tuổi , Người_nhà bé khai bé đang điều_trị <span class="selected problem". start="12" end="12" line="5">bệnh_bạch_cầu</span> có <span class="selected treatment". start="14" end="22" line="5">đặt buồng tiêm tĩnh_mạch vùng ngực ( T )</span> cách đây 4,5 năm ở Singapore , nay vào khám nhập_viện để lấy buồng tiêm .
+Chẩn_đoán : <span class="selected problem". start="3" end="10" line="6">Buồng tiêm tĩnh_mạch vùng ngực ( T )</span> .
+<span class="selected treatment". start="1" end="6" line="7">Phẫu_thuật lấy buồng tiêm vùng ngực</span> , sau phẫu_thuật bệnh ổn_định , vết mổ khô , sinh hiệu ổn , cho bệnh_nhân xuất_viện , hẹn tái khám .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">Phẫu_thuật</span>

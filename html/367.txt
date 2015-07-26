@@ -1,0 +1,7 @@
+Tiền Sử Bệnh
+chưa rõ
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">phẫu_thuật</span>
+Tổng Kết Bệnh Lý
+BN nam 37 tuổi <span class="selected problem". start="5" end="8" line="6">đau âm_ỉ vùng thượng_vị</span> từ tối_ngày hôm_qua sáng nay <span class="selected problem". start="14" end="16" line="6">đi_lại đau nhiều</span> , <span class="selected problem". start="18" end="21" line="6">co chân lại đau</span> ko <span class="selected problem". start="23" end="24" line="6">thấy sốt</span> , <span class="selected problem". start="26" end="28" line="6">tiêu tiểu bình_thường</span> , <span class="selected problem". start="30" end="32" line="6">đau ko giảm</span> khám nhập_viện . <span class="selected problem". start="36" end="38" line="6">Sốt 38 độ</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="7">Viêm ruột_thừa cấp</span>

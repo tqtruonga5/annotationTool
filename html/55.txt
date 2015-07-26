@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Ho khò_khè</span>
+Bệnh Lý
+Cháu <span class="selected problem". start="2" end="3" line="4">ho khò_khè</span> 3 tuần nay , <span class="selected treatment". start="8" end="8" line="4">khám</span> PK Tư <span class="selected treatment". start="11" end="12" line="4">uống thuốc</span> không giảm , 3 ngày_nay cháu <span class="selected problem". start="19" end="20" line="4">ho khò_khè</span> nhiều hơn , <span class="selected problem". start="24" end="28" line="4">đau tai ( T )</span> , <span class="selected test". start="30" end="30" line="4">nội_soi</span> có dấu_hiệu <span class="selected problem". start="33" end="36" line="4">viêm tai giữa cấp_tính</span>
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="8">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="8">giản phế_quản</span> , <span class="selected treatment". start="8" end="9" line="8">nhỏ tai</span>

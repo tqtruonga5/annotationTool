@@ -1,0 +1,2 @@
+Tóm Tắt Khám Bệnh
+bé sơ_sinh 10 ngày tuổi <span class="selected problem". start="6" end="8" line="2">vàng da nhẹ</span> , <span class="selected problem". start="10" end="15" line="2">rốn rỉ dịch vàng mùi hôi</span>

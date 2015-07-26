@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+Bệnh khoảng tháng nay , BN <span class="selected problem". start="7" end="9" line="2">đau lâm_râm thượng_vị</span> , kèm <span class="selected problem". start="12" end="16" line="2">nôn ói thức_ăn sau ăn</span> , <span class="selected problem". start="18" end="19" line="2">mệt nhiều</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="3" line="5">Ức_chế bơm proton</span>

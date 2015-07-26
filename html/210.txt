@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="7" line="2">đau quặn bụng thượng_vị từ sáng</span> , <span class="selected problem". start="9" end="13" line="2">tiêu phân lỏng nhiều lần</span> , <span class="selected problem". start="15" end="15" line="2">buồn_nôn</span> , <span class="selected problem". start="17" end="17" line="2">sốt</span> , <span class="selected problem". start="19" end="20" line="2">lạnh run</span> - - > khám
+Sau điều_trị BN ổn - - > ra viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="5">Kháng_sinh</span>

@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sỏi túi_mật</span>
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nữ 28 tuổi , Cách đây # 01 tuần bệnh_nhân thấy <span class="selected problem". start="13" end="18" line="4">đau tức vùng hạ sườn phải</span> , đi khám <span class="selected treatment". start="22" end="22" line="4">siêu_âm</span> phát_hiện <span class="selected problem". start="24" end="25" line="4">sỏi túi_mật</span> và <span class="selected problem". start="27" end="28" line="4">viêm dạ_dày</span> , nay bệnh_nhân đi khám sỏi túi_mật , hiện_tại không đau , ăn_uống bình_thường
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="5">Sỏi túi_mật</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 28 tuổi , Cách đây # 01 tuần bệnh_nhân thấy <span class="selected problem". start="13" end="18" line="7">đau tức vùng hạ sườn phải</span> , đi khám <span class="selected test". start="22" end="22" line="7">siêu_âm</span> phát_hiện <span class="selected problem". start="24" end="25" line="7">sỏi túi_mật</span> và <span class="selected problem". start="27" end="28" line="7">viêm dạ_dày</span> , nay bệnh_nhân đi <span class="selected treatment". start="33" end="35" line="7">khám sỏi túi_mật</span> , hiện_tại không đau , ăn_uống bình_thường
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="8">Sỏi túi_mật</span> .
+<span class="selected treatment". start="1" end="5" line="9">Phẫu_thuật cắt túi_mật qua nội_soi</span> , sau <span class="selected treatment". start="8" end="8" line="9">phẫu_thuật</span> bệnh ổn_định , cho bệnh_nhân xuất_viện hẹn tái khám .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">Phẫu_thuật</span> .

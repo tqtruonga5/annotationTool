@@ -1,0 +1,8 @@
+Bệnh Lý
+BN khai <span class="selected problem". start="3" end="5" line="2">đi_cầu ra máu</span> cách đây khoảng 1 tuần đi <span class="selected treatment". start="12" end="14" line="2">khám tại BV_DHYD</span> chẩn_đoán : <span class="selected problem". start="17" end="19" line="2">trĩ nội xuất_huyết</span> đề_nghị mổ nhưng BN không đồng_ý nay tới <span class="selected treatment". start="28" end="31" line="2">khám tại BV Vũ_Anh</span> và đồng_ý làm <span class="selected treatment". start="35" end="35" line="2">PT</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+BN nam 46 tuổi khai <span class="selected problem". start="6" end="8" line="6">đi_cầu ra máu</span> cách đây khoảng 1 tuần đi <span class="selected treatment". start="15" end="17" line="6">khám tại BV_DHYD</span> chẩn_đoán : <span class="selected problem". start="20" end="22" line="6">trĩ nội xuất_huyết</span> đề_nghị mổ nhưng BN không đồng_ý nay tới <span class="selected treatment". start="31" end="34" line="6">khám tại BV Vũ_Anh</span> và đồng_ý làm PT .
+<span class="selected test". start="1" end="2" line="7">Khám HMTT</span> : <span class="selected problem". start="4" end="10" line="7">01 búi trĩ vị_trí 9 - 10h</span>
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="8">Trĩ nội xuất_huyết</span> .

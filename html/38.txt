@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">ói liên_tục</span>
+Bệnh Lý
+Bé bị bệnh buổi_sáng đi <span class="selected problem". start="6" end="10" line="4">học ói nhiều lần liên_tục</span> , <span class="selected problem". start="12" end="16" line="4">ói ra thức_ăn , nước</span> , kèm theo bé có <span class="selected problem". start="22" end="22" line="4">sốt</span> , lúc cao nhất 39 độ .
+Bé không ho , không sổ_mũi , không khó thở , không bị chấn_thương - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="9">truyền dịch</span> , <span class="selected treatment". start="4" end="5" line="9">chống ói</span> , <span class="selected treatment". start="7" end="7" line="9">kháng_viêm</span> , <span class="selected treatment". start="9" end="10" line="9">kháng histamin</span> , <span class="selected treatment". start="12" end="12" line="9">vitamin</span>

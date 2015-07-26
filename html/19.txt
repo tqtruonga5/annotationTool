@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">co_giật</span>
+Bệnh Lý
+- mẹ khai bệnh
+- cháu bệnh ngày 1 : khởi_phát với <span class="selected problem". start="9" end="10" line="5">sốt cơn</span> , sau đó <span class="selected problem". start="14" end="16" line="5">lên_cơn gồng tay_chân</span> , <span class="selected problem". start="18" end="21" line="5">trợn mắt khoảng 10s</span> , sau cơn cháu tỉnh hoàn_toàn .
+- - > nhập_viện
+Tiền Sử Bệnh
+chưa tiền_căn co_giật
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="10">điều_trị triệu_chứng</span>

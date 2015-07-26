@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân tới kỳ tái <span class="selected treatment". start="5" end="10" line="2">khám định_kỳ tại BV Vũ ANh</span> , BN <span class="selected problem". start="13" end="13" line="2">phù</span> , <span class="selected problem". start="15" end="17" line="2">kết_mạc mắt vàng</span> , <span class="selected problem". start="19" end="21" line="2">bụng chướng to</span> , <span class="selected problem". start="23" end="24" line="2">da sạm</span> - - - > BN bớt mệt , còn phù nhẹ , xin xuất_viện vì lý_do kinh_tế

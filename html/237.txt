@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">SỐT</span>
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="6" line="4">sốt cao liên_tục 4 ngày</span> , <span class="selected problem". start="8" end="8" line="4">ho</span> , không sổ_mũi , <span class="selected treatment". start="13" end="14" line="4">uống thuốc</span> không giảm - - > <span class="selected treatment". start="20" end="20" line="4">khám</span>
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bn bớt sốt , xin ra viện

@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="6" line="4">sốt cao liên_tục 8 ngày</span> , <span class="selected problem". start="8" end="8" line="4">đau_đầu</span> , <span class="selected problem". start="10" end="11" line="4">đau cơ</span> , <span class="selected problem". start="13" end="16" line="4">ho khạc đàm vàng</span> , không <span class="selected problem". start="19" end="20" line="4">đau bụng</span> , không <span class="selected problem". start="23" end="23" line="4">khò_khè</span> , không <span class="selected problem". start="26" end="27" line="4">khó thở</span> - > BV_NDGĐ chẩn_đoán <span class="selected problem". start="32" end="33" line="4">sốt siêu_vi</span> , <span class="selected treatment". start="35" end="36" line="4">uống thuốc</span> không hết sốt .
+Ngày nhập_viện bệhn nhân <span class="selected problem". start="5" end="5" line="5">sốt</span> , <span class="selected problem". start="7" end="8" line="5">mệt nhiều</span> , <span class="selected problem". start="10" end="10" line="5">đau_đầu</span> , <span class="selected problem". start="12" end="13" line="5">đau cơ</span> - > cấp_cứu
+Diễn_tiến : khỏe hơn , hết sốt , bớt ho , giảm đau cơ

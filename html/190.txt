@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+Bình_thường
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 2 tuổi , Ngưới nhà khai bé bị <span class="selected problem". start="11" end="14" line="4">sưng bao quy đầu</span> , <span class="selected problem". start="16" end="17" line="4">tiểu lắt_nhắt</span> , đi <span class="selected treatment". start="20" end="20" line="4">khám</span> phát_hiện <span class="selected problem". start="22" end="25" line="4">hẹp bao quy đầu</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 2 tuổi , Ngưới nhà khai bé <span class="selected problem". start="10" end="14" line="6">bị sưng bao quy đầu</span> , <span class="selected problem". start="16" end="17" line="6">tiểu lắt_nhắt</span> , <span class="selected problem". start="19" end="25" line="6">đi khám phát_hiện hẹp bao quy đầu</span> .
+<span class="selected treatment". start="1" end="5" line="7">Phẫu_thuật cắt bao quy đầu</span> , sau cắt bé tỉnh_táo , ăn_uống , tiểu bình_thường , cho bé xuất_viện hẹn tái khám .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="5" line="9">phẫu_thuật cắt bao quy đầu</span>

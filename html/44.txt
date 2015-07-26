@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">phát_ban</span>
+Bệnh Lý
+- mẹ khai bệnh
+- cháu bệnh 2 ngày : ngỳ qua <span class="selected problem". start="9" end="9" line="5">ho_khan</span> , <span class="selected problem". start="11" end="12" line="5">sổ_mũi trong</span> , từ sáng <span class="selected problem". start="16" end="25" line="5">phát_ban sau tai , chân tóc - - > mặt</span> . - - > nhập
+viện
+cháu ăn_uống bình_thường , <span class="selected problem". start="5" end="9" line="7">tiêu phân lỏng 1 lần</span> .
+Tiền Sử Bệnh
+khỏe , chưa chích ngừa sởi
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="11">điều_trị triệu_chứng</span>

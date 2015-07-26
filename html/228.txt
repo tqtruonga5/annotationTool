@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="7" line="2">đau_đầu nhiều</span> kèm theo <span class="selected problem". start="10" end="11" line="2">nặng ngực</span> , <span class="selected problem". start="13" end="14" line="2">tê tay</span> , <span class="selected problem". start="16" end="18" line="2">cảm_giác khó thở</span> , <span class="selected problem". start="20" end="20" line="2">mệt</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện

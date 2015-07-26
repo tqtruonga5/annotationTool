@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="3" line="2">sưng nề mắt</span>
+Bệnh Lý
+Trưa nay bé ăn tôm xong thì bắt_đầu thấy <span class="selected test". start="10" end="10" line="4">ngứa_mắt</span> - - > <span class="selected problem". start="14" end="17" line="4">mắt sưng to dần</span> , không ho , không khó thở , không ói , không tiêu lỏng , không đau_đầu - - > khám
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="6">dị_ứng cá_thu</span> 1 lần
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">kháng_viêm</span> , <span class="selected treatment". start="3" end="4" line="8">kháng histamin</span> , <span class="selected treatment". start="6" end="8" line="8">nâng_đỡ tổng trạng</span> , <span class="selected treatment". start="10" end="11" line="8">nhỏ mắt</span>

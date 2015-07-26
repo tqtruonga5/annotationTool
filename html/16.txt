@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="7" line="2">nổi nốt xuât huyết da</span>
+Bệnh Lý
+Cháu <span class="selected problem". start="2" end="3" line="4">sốt liên_tục</span> từ trưa thứ 7 , ở nhà chỉ mới dùng hạ sốt , ngày hôm_nay cháu <span class="selected problem". start="20" end="21" line="4">đi_cầu lỏng</span> 2 lần / Ngày , kèm <span class="selected problem". start="28" end="32" line="4">nổi nhiều nốt xuất_huyết da</span> - > KHám
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">Hạ sốt</span> , <span class="selected treatment". start="4" end="5" line="8">men tiêu_hóa</span> , <span class="selected treatment". start="7" end="8" line="8">bù dịch</span>

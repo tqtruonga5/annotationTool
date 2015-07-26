@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">HO</span>
+Tóm Tắt Khám Bệnh
+<span class="selected test". start="1" end="1" line="4">ECG</span> : <span class="selected problem". start="3" end="3" line="4">NHỊP_XOANG</span>

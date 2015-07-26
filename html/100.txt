@@ -1,0 +1,7 @@
+Bệnh Lý
+Bé bị bệnh khoảng 2 ngày_nay , ở nhà bé <span class="selected problem". start="11" end="12" line="2">sốt cao</span> , vẻ <span class="selected problem". start="15" end="15" line="2">mệt</span> đã đi khám được chẩn_đoán <span class="selected problem". start="21" end="22" line="2">viêm họng</span> , <span class="selected treatment". start="24" end="24" line="2">amydan</span> và được uống <span class="selected treatment". start="28" end="28" line="2">augmentin</span> , <span class="selected treatment". start="30" end="30" line="2">alphachymotripsin</span> , <span class="selected treatment". start="32" end="32" line="2">prospan</span> , <span class="selected treatment". start="34" end="34" line="2">chlopheniramin</span> không đỡ .
+Ngày_nay bé <span class="selected problem". start="3" end="4" line="3">sốt cao</span> , <span class="selected problem". start="6" end="11" line="3">đau họng không ăn_uống được gì</span> , <span class="selected problem". start="13" end="14" line="3">người mệt</span> - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="7">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="7">kháng histamin</span> , <span class="selected treatment". start="8" end="10" line="7">nâng_đỡ tổng trạng</span>

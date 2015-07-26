@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="4">Viêm dạ_dày</span>
+Tổng Kết Bệnh Lý
+Khoảng 3 ngày_nay bệnh_nhân <span class="selected problem". start="5" end="9" line="6">đau bụng nhiều vùng thượng_vị</span> , <span class="selected problem". start="11" end="12" line="6">ợ hơi</span> , <span class="selected problem". start="14" end="15" line="6">ợ chua</span> , <span class="selected problem". start="17" end="19" line="6">ói sau ăn</span> , <span class="selected problem". start="21" end="21" line="6">mệt_mỏi</span> - - - > NV

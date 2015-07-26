@@ -1,0 +1,7 @@
+Bệnh Lý
+Theo lời khai của người_nhà , bệnh_nhân từ tối_qua <span class="selected problem". start="10" end="15" line="2">tiêu phân lỏng nhầy 2 lần</span> , không ho .
+Sáng nay sau khi lọc máu xong <span class="selected problem". start="8" end="11" line="3">sốt cao lạnh run</span> , <span class="selected problem". start="13" end="13" line="3">đau_đầu</span> , <span class="selected problem". start="15" end="16" line="3">đau cơ</span> , <span class="selected problem". start="18" end="20" line="3">ói 1 lần</span> .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="5">Tăng huyết_áp</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">nội_khoa</span>

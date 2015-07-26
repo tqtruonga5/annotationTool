@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="9" line="2">đau hạ_vị từng cơn</span> , kèm theo <span class="selected problem". start="13" end="14" line="2">tiêu bón</span> , không sốt , <span class="selected problem". start="19" end="22" line="2">đầy bụng sau ăn</span> , <span class="selected problem". start="24" end="24" line="2">mệt</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau điều tr 5i bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span>

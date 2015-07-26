@@ -1,0 +1,6 @@
+Tiền Sử Bệnh
+Bình_thường
+Tổng Kết Bệnh Lý
+Bệnh khai hôm_qua <span class="selected problem". start="4" end="5" line="4">sốt cao</span> , <span class="selected problem". start="7" end="7" line="4">mệt</span> - - > <span class="selected treatment". start="11" end="12" line="4">cấp_cứu khám</span> - - > <span class="selected treatment". start="16" end="17" line="4">điều_trị ngoại_trú</span> .
+Sáng nay còn <span class="selected problem". start="4" end="5" line="5">sốt cao</span> , <span class="selected problem". start="7" end="10" line="5">nóng lạnh tứng cơn</span> , <span class="selected problem". start="12" end="13" line="5">ho_khan nhiều</span> , <span class="selected problem". start="15" end="16" line="5">đau họng</span> , <span class="selected problem". start="18" end="18" line="5">sổ_mũi</span> , <span class="selected problem". start="20" end="22" line="5">nhức mỏi toàn_thân</span> , <span class="selected problem". start="24" end="24" line="5">mệt</span> - - > vào viện .
+Sau đợt <span class="selected treatment". start="3" end="3" line="6">điều_trị</span> Bn tạm ổn xuất_viện .

@@ -1,0 +1,6 @@
+Bệnh Lý
+Cháu bệnh khoãng 4 ngày_nay , 2 ngày đầu bé <span class="selected test". start="11" end="11" line="2">sốt</span> , <span class="selected treatment". start="13" end="17" line="2">điều_trị BV Vũ_Anh 2 ngày</span> , giảm sốt , xuất_viện . Hôm_qua , bé <span class="selected problem". start="27" end="28" line="2">sốt cao</span> trở_lại , kèm <span class="selected problem". start="32" end="39" line="2">tiêu phân lỏng , màu vàng 10 lần</span> , không nhầy máu , <span class="selected problem". start="45" end="57" line="2">nổi mẩm đở nhiều ở chân , đùi , thân , sau tai</span> .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="6">bù dịch</span> , <span class="selected treatment". start="4" end="5" line="6">men tiêu_hóa</span> , <span class="selected treatment". start="7" end="9" line="6">điều_trị nâng đở</span>

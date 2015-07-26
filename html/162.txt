@@ -1,0 +1,5 @@
+Tiền Sử Bệnh
+khỏe
+Tóm Tắt Khám Bệnh
+<span class="selected test". start="1" end="2" line="4">xquang ngực</span> : bình_thường
+<span class="selected test". start="1" end="3" line="5">x_quang hàm dưới</span> : bình_thường

@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span> , <span class="selected problem". start="4" end="4" line="2">ói</span>
+Bệnh Lý
+khoảng 3 ngày_nay bé <span class="selected problem". start="5" end="6" line="4">sốt cao</span> ở nhà <span class="selected treatment". start="9" end="12" line="4">dùng thuốc hạ sốt</span> không đỡ , <span class="selected problem". start="16" end="21" line="4">ói khoảng 10 lần / ngày</span> .
+Sáng nay bé <span class="selected problem". start="4" end="7" line="5">ói khoảng 3-4 lần</span> , <span class="selected problem". start="9" end="10" line="5">bỏ ăn</span> .
+bé không sốt , không khó thở , người_nhà đưa bé đi khám - - > nhập_viện
+Tiền Sử Bệnh
+khỏe_mạnh
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="10">chống viêm</span> , <span class="selected treatment". start="6" end="7" line="10">giảm ho</span> , <span class="selected treatment". start="9" end="10" line="10">chống ói</span>

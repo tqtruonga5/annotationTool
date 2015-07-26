@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Bệnh khoảng tháng nay , BN <span class="selected problem". start="7" end="14" line="2">đau nhiều vùng hạ sườn ( P )</span> , kèm theo <span class="selected problem". start="18" end="19" line="2">ăn_uống kém</span> , <span class="selected problem". start="21" end="23" line="2">tiểu sậm màu</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện

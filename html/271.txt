@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tổng Kết Bệnh Lý
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> , Bn ổn , không sốt - - > ra viện

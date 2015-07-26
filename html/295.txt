@@ -1,0 +1,8 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="7" line="2">mệt nhiều</span> kèm theo <span class="selected problem". start="10" end="12" line="2">chóng_mặt khi đi_lại</span> .
+Trước nhập_viện BN đột_ngột té ngã không rõ tư_thế , sau té có <span class="selected problem". start="14" end="14" line="3">đau_đầu</span> , không vết trầy da .
+BN được thân_nhân đưa nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Hạ_áp</span>
+<span class="selected treatment". start="1" end="3" line="8">Tăng tuần_hoàn não</span>

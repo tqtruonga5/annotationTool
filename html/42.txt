@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Bệnh Lý
+bệnh_nhân khai <span class="selected problem". start="3" end="9" line="4">đau bụng dọc theo khung đại_tràng trái</span> , <span class="selected problem". start="11" end="14" line="4">tiêu phân nhầy nhớt</span> 3 lần / ngày .
+Hôm_nay bệnh_nhân thấy <span class="selected problem". start="4" end="4" line="5">mệt</span> , <span class="selected problem". start="6" end="7" line="5">sốt cao</span> , gia_đình đưa bệnh nhya 6n vào cấp_cứu Bệnh_viện Vũ_Anh .
+Tiền Sử Bệnh
+<span class="selected treatment". start="1" end="7" line="7">Cắt ruột do hoại_tử ( ? )</span>
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="9">nộ khoa</span>

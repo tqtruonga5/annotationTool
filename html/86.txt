@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Mệt</span> , <span class="selected problem". start="3" end="3" line="2">hồi_hộp</span>
+Bệnh Lý
+Khoảng 3 ngày_nay bệnh_nhân bị <span class="selected problem". start="6" end="6" line="4">stress</span> , <span class="selected problem". start="8" end="8" line="4">hồi_hộp</span> , <span class="selected problem". start="10" end="12" line="4">tim đập nhanh</span> , <span class="selected problem". start="14" end="14" line="4">mệt</span> , không đau ngực - - > vào viện
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="3" line="6">Nhịp nhanh xoang</span> .
+<span class="selected problem". start="1" end="3" line="7">Rối_loạn thần_kinh thực_vật</span> gần đây ngưng điều_trị .
+<span class="selected test". start="1" end="2" line="8">Siêu_âm tuyến_giáp</span> : bình_thường

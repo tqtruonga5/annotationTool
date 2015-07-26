@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span> , <span class="selected problem". start="3" end="4" line="2">đau chân</span> , <span class="selected problem". start="6" end="7" line="2">ăn_uống kém</span>
+Bệnh Lý
+khoảng 3 ngày_nay bé bị té <span class="selected problem". start="7" end="9" line="4">đau chân T</span> , sau bé có <span class="selected problem". start="14" end="14" line="4">sốt</span> , sốt cao 39.5 <span class="selected treatment". start="19" end="22" line="4">dùng thuốc hạ sốt</span> đỡ , bé <span class="selected problem". start="26" end="27" line="4">ăn_uống kém</span> , <span class="selected problem". start="29" end="30" line="4">ăn ói</span> - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">kháng histamin</span> , <span class="selected treatment". start="4" end="4" line="8">kháng_viêm</span> , <span class="selected treatment". start="6" end="7" line="8">bù nước</span> , <span class="selected treatment". start="9" end="11" line="8">nâng cao thể_trạng</span>

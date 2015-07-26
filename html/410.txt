@@ -1,0 +1,20 @@
+Lý Do
+<span class="selected problem". start="1" end="3" line="2">Đau rát hậu_môn</span>
+Bệnh Lý
+Bệnh_nhân khai <span class="selected problem". start="3" end="5" line="4">đau rát hậu_môn</span> mỗi khi đi_cầu , <span class="selected problem". start="10" end="12" line="4">thỉnh_thoảng có máu</span> , chưa điều_trị gì - - > nhập_viện
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+Ngoại_khoa
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 49 tuổi vào viện với lý_do : Bệnh_nhân khai <span class="selected problem". start="12" end="14" line="10">đau rát hậu_môn</span> mỗi khi đi_cầu , <span class="selected problem". start="19" end="21" line="10">thỉnh_thoảng có máu</span> , chưa điều_trị gì - - > nhập_viện
+Thăm HMTT : <span class="selected test". start="4" end="7" line="11">Vị_trí 7h ấn đau</span>
+Soi trực_tràng : <span class="selected test". start="4" end="6" line="12">TD Dò hậu_môn</span>
+Chẩn_đoán : <span class="selected test". start="3" end="4" line="13">Dò hậu_môn</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 49 tuổi vào viện với lý_do : Bệnh_nhân <span class="selected problem". start="11" end="14" line="15">khai đau rát hậu_môn</span> mỗi khi đi_cầu , <span class="selected problem". start="19" end="21" line="15">thỉnh_thoảng có máu</span> , chưa điều_trị gì - - > nhập_viện
+<span class="selected test". start="1" end="2" line="16">Thăm HMTT</span> : <span class="selected test". start="4" end="7" line="16">Vị_trí 7h ấn đau</span>
+<span class="selected test". start="1" end="2" line="17">Soi trực_tràng</span> : <span class="selected test". start="4" end="6" line="17">TD Dò hậu_môn</span>
+Chẩn_đoán : <span class="selected test". start="3" end="5" line="18">Dò hậu_môn .</span>
+<span class="selected treatment". start="1" end="4" line="19">Phẫu_thuật Cắt đường dò</span> .
+Sau điều_trị , bệnh ốn , VM khô - - > xuất_viện

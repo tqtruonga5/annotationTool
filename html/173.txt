@@ -1,0 +1,9 @@
+Bệnh Lý
+BN khai bị <span class="selected problem". start="4" end="6" line="2">ra mồ_hôi tay</span> đã lâu , ra ngày_càng nhiều khám nhập_viện PT
+Tiền Sử Bệnh
+Chưa rõ
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+BN nam 31 tuổi khai bị <span class="selected problem". start="7" end="9" line="8">ra mồ_hôi tay</span> đã lâu , ra ngày_càng nhiều khám nhập_viện PT
+Chẩn_đoán : <span class="selected problem". start="3" end="6" line="9">Tăng tiết mồ_hôi tay</span> .

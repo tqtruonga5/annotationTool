@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sôt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span>
+Tổng Kết Bệnh Lý
+bệnh khai <span class="selected problem". start="3" end="3" line="4">sốt</span> , <span class="selected problem". start="5" end="5" line="4">ho</span> khoảng 2 ngày_nay , tự <span class="selected treatment". start="11" end="13" line="4">mua thuốc uống</span> không giảm .
+Nay <span class="selected problem". start="2" end="4" line="5">ho đàm nhiều</span> , <span class="selected problem". start="6" end="7" line="5">đau họng</span> , <span class="selected problem". start="9" end="10" line="5">ăn_uống kém</span> nên vào viện .

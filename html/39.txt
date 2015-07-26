@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">ho</span>
+Bệnh Lý
+Cách đây 5 ngày bé có <span class="selected problem". start="7" end="8" line="4">sốt liên_tục</span> 3 ngày nhưng tự_động cắt sốt 2 ngày_nay .
+Khoảng 2 ngày_nay bé <span class="selected problem". start="5" end="6" line="5">ho nhiều</span> , <span class="selected problem". start="8" end="9" line="5">ho đàm</span> , bé than <span class="selected problem". start="13" end="14" line="5">đau bụng</span> , <span class="selected problem". start="16" end="17" line="5">tức ngực</span> , ăn_uống được , tiêu phân sệt - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="9">giảm ho</span> , <span class="selected treatment". start="8" end="9" line="9">tan đàm</span> , <span class="selected treatment". start="11" end="13" line="9">nâng_đỡ tổng trạng</span>

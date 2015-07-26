@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+Hai ngày_nay bé <span class="selected problem". start="4" end="5" line="4">sốt cao</span> ở nhà , dùng <span class="selected treatment". start="10" end="12" line="4">thuốc hạ sốt</span> không đỡ .
+Ngày_nay bé <span class="selected problem". start="3" end="4" line="5">sốt cao</span> , <span class="selected problem". start="6" end="7" line="5">hơi đừ</span> , ăn_uống bình thương - - > khám được chẩn_đoán <span class="selected problem". start="18" end="21" line="5">biêm mũi họng cấp</span> / <span class="selected problem". start="23" end="26" line="5">sốt cao ngày 2</span> đang dùng thuốc <span class="selected treatment". start="30" end="30" line="5">augmentine</span> , <span class="selected treatment". start="32" end="32" line="5">noflux</span> , <span class="selected treatment". start="34" end="34" line="5">acc</span> , <span class="selected treatment". start="36" end="36" line="5">prospan</span> không đỡ - - > người_nhà đưa bé đi khám nhập_viện
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="7">chống viêm</span> , <span class="selected treatment". start="6" end="7" line="7">hạ sốt</span> , <span class="selected treatment". start="9" end="10" line="7">giảm ho</span> , <span class="selected treatment". start="12" end="13" line="7">tan đàm</span>

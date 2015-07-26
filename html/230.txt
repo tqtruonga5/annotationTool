@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Khó thở</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai bị <span class="selected problem". start="4" end="5" line="4">đau bụng</span> , người_nhà cho uống 1 viên <span class="selected treatment". start="12" end="12" line="4">Alaxn</span> , sau đó xuất_hiện <span class="selected problem". start="17" end="18" line="4">phù mắt</span> , <span class="selected problem". start="20" end="21" line="4">khó thở</span> - - > khám nhập_viện
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> BN không khó thở , Ra viện

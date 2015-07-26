@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+Ngày qua ở nhà bé <span class="selected problem". start="6" end="7" line="4">sốt cao</span> , có lúc lên 40 độ , dùng <span class="selected treatment". start="16" end="18" line="4">thuốc hạ sốt</span> không đỡ .
+Kèm theo bé có than <span class="selected problem". start="6" end="7" line="5">đau họng</span> , <span class="selected problem". start="9" end="11" line="5">không ăn_uống được</span> , <span class="selected problem". start="13" end="14" line="5">ngủ bứt_rứt</span> , <span class="selected problem". start="16" end="18" line="5">có giật_mình nhẹ</span> - - - > khám
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_viêm</span> , <span class="selected treatment". start="3" end="4" line="7">kháng histamin</span> , <span class="selected treatment". start="6" end="8" line="7">nâng_đỡ tổng trạng</span> , <span class="selected treatment". start="10" end="11" line="7">hạ sốt</span>

@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+bệnh 03 ngày , mẹ khai bé <span class="selected problem". start="8" end="8" line="4">sốt</span> từ 11h trưa t 6 22/8 , <span class="selected problem". start="16" end="17" line="4">sốt cao</span> mỗi ngày - > khám bv quận Phú_Nhuận <span class="selected treatment". start="26" end="27" line="4">uống thuốc</span> không giảm - > tối nay bé <span class="selected problem". start="35" end="37" line="4">ói 1 lần</span> .
+Bé d 0i <span class="selected problem". start="4" end="10" line="5">tiêu phân lỏng xanh rêu nhiều nước</span> , không đàm , không đỏ - > nv .
+Bé uống nước khá , tiểu bình_thường .
+Bé không ho , không đau bụng .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">nội</span>

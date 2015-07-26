@@ -1,0 +1,7 @@
+Tổng Kết Bệnh Lý
+Bệnh 2 ngày_nay , BN <span class="selected problem". start="6" end="9" line="2">chóng_mặt nhiều khi đi_lại</span> , kèm theo <span class="selected problem". start="13" end="13" line="2">đau_đầu</span> , <span class="selected problem". start="15" end="19" line="2">nôn ói thức_ăn sau ăn</span> , <span class="selected problem". start="21" end="22" line="2">mệt nhiều</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Hạ_áp</span>
+<span class="selected treatment". start="1" end="3" line="7">Tăng tuần_hoàn não</span>

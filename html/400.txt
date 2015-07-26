@@ -1,0 +1,7 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > <span class="selected treatment". start="6" end="7" line="4">nhập ICU</span> - - > <span class="selected treatment". start="11" end="15" line="4">chọ hút dịch màng bụng</span> - - > <span class="selected treatment". start="19" end="19" line="4">kháng_sinh</span> - - > <span class="selected treatment". start="23" end="25" line="4">nâng đở cơ_thể</span>
+Bệnh_nhân <span class="selected problem". start="2" end="2" line="5">lơ_mơ</span> , Gia_đình ký đơn xin đưa về .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>

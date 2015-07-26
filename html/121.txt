@@ -1,0 +1,7 @@
+Bệnh Lý
+Cháu <span class="selected problem". start="2" end="6" line="2">đau bụng ít theo cơn</span> từ tối thứ_sáu , qua_ngày thứ 7 cháu <span class="selected problem". start="15" end="15" line="2">sốt</span> , <span class="selected problem". start="17" end="18" line="2">đau bụng</span> , <span class="selected problem". start="20" end="23" line="2">tiêu lỏng 10 lần</span> , không ói , 3 ngày_nay <span class="selected problem". start="30" end="30" line="2">sốt</span> giảm dần , <span class="selected problem". start="34" end="35" line="2">tiêu lỏng</span> giảm 4 lần / ngày .
+đã được <span class="selected treatment". start="3" end="3" line="3">khám</span> và điều_trị <span class="selected problem". start="6" end="7" line="3">Tiêu_chảy cấp</span> / <span class="selected problem". start="9" end="10" line="3">Viêm hô_hấp</span> trên ở BVND với <span class="selected treatment". start="15" end="15" line="3">Cefixim</span> bệnh có bớt nhưng chưa hết - > NHập viện
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="7">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="7">thuốc ho</span> , <span class="selected treatment". start="8" end="10" line="7">men tiêu hoa</span> , <span class="selected treatment". start="12" end="13" line="7">bù dịch</span>

@@ -1,0 +1,4 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Viêm dạ_dày</span>
+Tổng Kết Bệnh Lý
+Bn khai khoảng 1 tháng nay <span class="selected problem". start="7" end="9" line="4">đau rát thượng_vị</span> , <span class="selected problem". start="11" end="14" line="4">ợ chua khó tiêu</span> , nay <span class="selected problem". start="17" end="20" line="4">đau quặn vùng thượng_vị</span> , <span class="selected problem". start="22" end="23" line="4">đầy bụng</span> , <span class="selected problem". start="25" end="27" line="4">ăn_uống không tiêu</span> - - - - > Nhập_viện - - - > Sau <span class="selected treatment". start="39" end="39" line="4">điều_trị</span> Bn bớt đau bụng xin xuất vì bận việc gia_đình .

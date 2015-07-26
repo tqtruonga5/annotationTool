@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span> , <span class="selected problem". start="3" end="3" line="2">quấy</span>
+Bệnh Lý
+Cháu bệnh 3 ngày_nay , với <span class="selected problem". start="7" end="11" line="4">tiêu phân lỏng nhiều lần</span> , không nhầy máu . Hôm_qua , cháu <span class="selected problem". start="20" end="20" line="4">sốt</span> , <span class="selected problem". start="22" end="23" line="4">sốt cao</span> , kèm <span class="selected problem". start="26" end="26" line="4">quấy</span> , <span class="selected problem". start="28" end="28" line="4">bứt_rứt</span> . Hôm_nay , cháu còn <span class="selected problem". start="34" end="34" line="4">sốt</span> , còn <span class="selected problem". start="37" end="39" line="4">tiêu phân lỏng</span> , <span class="selected problem". start="41" end="42" line="4">ăn kém</span> , <span class="selected problem". start="44" end="45" line="4">quấy nhiều</span> , <span class="selected problem". start="47" end="48" line="4">bứt_rứt nhiều</span> , <span class="selected problem". start="50" end="50" line="4">mệt</span>
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="8">kháng_viêm</span> , <span class="selected treatment". start="5" end="7" line="8">điều_trị nâng đở</span>

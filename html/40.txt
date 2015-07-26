@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">nổi mày_đay</span> + <span class="selected problem". start="4" end="4" line="2">ho</span>
+Bệnh Lý
+bệnh 07 ngày , ba bé khai bé <span class="selected problem". start="9" end="11" line="4">ho đàm vừa</span> , sốt cách đây 3 ngày , hết sốt qua nay .
+Bé <span class="selected problem". start="2" end="3" line="5">nổi mày_đay</span> từ tối_qua đến giờ tăng dần .
+Bé ăn_uống tiêu tiểu_tốt .
+Tối_qua bé có_ăn cá biển .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">nội</span>

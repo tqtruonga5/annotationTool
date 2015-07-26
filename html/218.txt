@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+khi nằm , <span class="selected problem". start="4" end="4" line="2">buồn_nôn</span> , <span class="selected problem". start="6" end="8" line="2">chóng_mặt khi đi_lại</span> - - >

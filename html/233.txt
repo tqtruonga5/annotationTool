@@ -1,0 +1,5 @@
+Tiền Sử Bệnh
+Khỏe
+Tổng Kết Bệnh Lý
+Bn ba ngày_nay , <span class="selected problem". start="5" end="8" line="4">ho đàm khó khạc</span> , <span class="selected problem". start="10" end="11" line="4">đau họng</span> , <span class="selected problem". start="13" end="14" line="4">ăn_uống kém</span> , <span class="selected problem". start="16" end="18" line="4">buồn_nôn sau ăn</span> , <span class="selected treatment". start="20" end="20" line="4">khám</span> - - > nhập_viện
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> , bn Ổn , xin xuất_viện

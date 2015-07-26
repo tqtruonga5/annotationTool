@@ -1,0 +1,3 @@
+Tổng Kết Bệnh Lý
+2 ngày_nay bệnh_nhân <span class="selected problem". start="4" end="7" line="2">tiêu lỏng nhiều lần</span> , <span class="selected problem". start="9" end="14" line="2">phân nước vàng không nhầy máu</span> - - - - > nhập_viện
+Sau <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> bệnh ổn_định - - - - > xuất_viện

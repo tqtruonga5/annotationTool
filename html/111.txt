@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">phát_ban</span>
+Bệnh Lý
+Cách đây khoảng 1 tuần em bé bị <span class="selected problem". start="9" end="9" line="4">ho</span> , <span class="selected problem". start="11" end="11" line="4">sổ_mũi</span> , <span class="selected problem". start="13" end="13" line="4">sốt</span> đã đi <span class="selected treatment". start="16" end="17" line="4">khám bệnh</span> được chẩn_đoán là <span class="selected problem". start="21" end="22" line="4">nhiễm siêu_vi</span> , sau đó bé <span class="selected problem". start="27" end="28" line="4">cắt sốt</span> và <span class="selected problem". start="30" end="31" line="4">nổi ban</span> .
+Ngày qua bé <span class="selected problem". start="4" end="4" line="5">sốt</span> lại lúc cao nhất khoảng 38.5 , kèm theo <span class="selected problem". start="14" end="17" line="5">ban đỏ lan toàn_thân</span> , bé có <span class="selected problem". start="21" end="22" line="5">ho thúng_thắng</span> , <span class="selected problem". start="24" end="25" line="5">quấy khóc</span> , <span class="selected problem". start="27" end="28" line="5">bú kém</span>
+Tiền Sử Bệnh
+khỏe_mạnh
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_viêm</span> , <span class="selected treatment". start="3" end="4" line="9">kháng histamin</span> , <span class="selected treatment". start="6" end="7" line="9">giảm ho</span> , <span class="selected treatment". start="9" end="10" line="9">nâng_đỡ thể_trạng</span>

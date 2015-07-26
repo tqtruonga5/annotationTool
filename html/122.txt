@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">khó thở</span>
+Bệnh Lý
+Cháu bị <span class="selected problem". start="3" end="4" line="4">viêm Amydales-VA</span> hơn_nữa năm nay , thỉnh thoãng hay có <span class="selected problem". start="13" end="17" line="4">cơn ngưng thở lúc ngủ</span> . Bệnh diễn_tiến ngày_càng tăng . Hơn 1 tuần nay , bé <span class="selected problem". start="30" end="31" line="4">sổ_mũi nhiều</span> , <span class="selected problem". start="33" end="36" line="4">mũi xanh , đặc</span> và và hay thường có <span class="selected problem". start="42" end="46" line="4">cơn ngưng thở khi ngủ</span> . Tối nay , bé <span class="selected problem". start="52" end="55" line="4">ngưng thở lúc ngủ</span> , <span class="selected problem". start="57" end="58" line="4">kèm tím_tái</span> - - - > NV
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="6">kháng_viêm</span> , <span class="selected treatment". start="5" end="7" line="6">điều_trị nâng đở</span>

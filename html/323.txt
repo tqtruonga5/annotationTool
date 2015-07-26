@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân mới xuất_viện buổi_sáng để sang tái khám tại bệnh_viện Phạm_Ngọc_Thạch , Tới tối bệnh_nhân <span class="selected problem". start="16" end="19" line="2">sốt cao lạnh run</span> - - - > Nhập_viện

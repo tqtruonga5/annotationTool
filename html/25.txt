@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">đau bụng</span>
+Bệnh Lý
+Cháu than <span class="selected problem". start="3" end="4" line="4">đau bụng</span> từ tối hôm_qua , đau liên_tục , <span class="selected problem". start="12" end="16" line="4">ầm ỉ vùng quanh rốn</span> . Sáng nay , cháu vẩn còn <span class="selected problem". start="24" end="35" line="4">đau bụng ầm ỉ quanh rốn lan xuống hố_chậu ( P )</span> , kèm <span class="selected problem". start="38" end="40" line="4">tiêu phân lỏng</span> 3 lần , không nhầy máu , <span class="selected problem". start="48" end="48" line="4">buồn_nôn</span> , <span class="selected problem". start="50" end="50" line="4">ói</span> , không sốt
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">Nội-Ngoại khoa</span>

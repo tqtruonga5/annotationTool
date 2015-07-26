@@ -1,0 +1,7 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+Tổng Kết Bệnh Lý
+bệnh_nhân <span class="selected problem". start="2" end="2" line="4">đau_đầu</span> , <span class="selected problem". start="4" end="4" line="4">chóng_mặt</span> - - > <span class="selected treatment". start="8" end="10" line="4">nhập ICU điều_trị</span>
+Hai ngày <span class="selected treatment". start="3" end="3" line="5">điều_trị</span> bệnh_nhân ổn_định - - > cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">nội_khoa</span>

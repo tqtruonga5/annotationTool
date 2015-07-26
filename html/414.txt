@@ -1,0 +1,22 @@
+Lý Do
+<span class="selected problem". start="1" end="3" line="2">Đau hông trái</span>
+Bệnh Lý
+Bệnh_nhân khai # 2 tháng trước có đi khám bệnh tại Bv 175 <span class="selected test". start="14" end="14" line="4">siêu_âm</span> phát_hiện <span class="selected problem". start="16" end="17" line="4">sỏi thận</span> , hiện_tại <span class="selected problem". start="20" end="27" line="4">đau nhiều vùng hông lưng ( T )</span> , tiểu bình_thường , váo viện : <span class="selected test". start="35" end="35" line="4">Siêu_âm</span> kết_quả : <span class="selected problem". start="38" end="43" line="4">thận ( T ) có sỏi</span> , <span class="selected problem". start="45" end="48" line="4">ứ nước độ III</span> do <span class="selected problem". start="50" end="55" line="4">sỏi kẹt niệu_quản đoạn 1/3 trên</span> , <span class="selected problem". start="57" end="61" line="4">nang thận ( P )</span> .
+<span class="selected test". start="1" end="3" line="5">chụp CT bụng</span> : <span class="selected problem". start="5" end="10" line="5">sỏi kẹt niệu_quản đoạn 1/3 trên</span> .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="1" line="7">Tiểu_đường</span> , <span class="selected problem". start="3" end="4" line="7">tăng huyết_áp</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">Phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nữ 65 tuổi , # 2 tháng trước có đi khám bệnh tại Bv 175 <span class="selected test". start="17" end="17" line="11">siêu_âm</span> phát_hiện <span class="selected problem". start="19" end="20" line="11">sỏi thận</span> , hiện_tại <span class="selected problem". start="23" end="30" line="11">đau nhiều vùng hông lưng ( T )</span> , tiểu bình_thường , váo viện : <span class="selected test". start="38" end="38" line="11">Siêu_âm</span> kết_quả : <span class="selected problem". start="41" end="46" line="11">thận ( T ) có sỏi</span> , <span class="selected problem". start="48" end="58" line="11">ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên</span> , <span class="selected problem". start="60" end="64" line="11">nang thận ( P )</span> .
+<span class="selected test". start="1" end="3" line="12">chụp CT bụng</span> : <span class="selected problem". start="5" end="9" line="12">sỏi kẹt niệu_quản đoạn 1/3</span> .
+Bệnh_nhân có tiền_sử <span class="selected problem". start="4" end="5" line="13">tăng huyết_áp</span> , <span class="selected problem". start="7" end="7" line="13">tiểu_đường</span> đang điều_trị .
+Chẩn_đoán : <span class="selected problem". start="3" end="11" line="14">Sỏi kẹt niệu_quản ( T ) đoạn 1/3 trên</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 65 tuổi , # 2 tháng trước có đi khám bệnh tại Bv 175 siêu_âm phát_hiện <span class="selected problem". start="19" end="20" line="16">sỏi thận</span> , hiện_tại <span class="selected problem". start="23" end="30" line="16">đau nhiều vùng hông lưng ( T )</span> , tiểu bình_thường , váo viện : <span class="selected test". start="38" end="38" line="16">Siêu_âm</span> kết_quả : <span class="selected problem". start="41" end="46" line="16">thận ( T ) có sỏi</span> , <span class="selected problem". start="48" end="58" line="16">ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên</span> , <span class="selected problem". start="60" end="64" line="16">nang thận ( P )</span> .
+<span class="selected test". start="1" end="3" line="17">chụp CT bụng</span> : <span class="selected problem". start="5" end="9" line="17">sỏi kẹt niệu_quản đoạn 1/3</span> .
+Bệnh_nhân có tiền_sử <span class="selected problem". start="4" end="5" line="18">tăng huyết_áp</span> , <span class="selected problem". start="7" end="7" line="18">tiểu_đường</span> đang điều_trị .
+Chẩn_đoán : <span class="selected problem". start="3" end="11" line="19">Sỏi kẹt niệu_quản ( T ) đoạn 1/3 trên</span> .
+<span class="selected treatment". start="1" end="10" line="20">Phẫu_thuật nội_soi tán sỏi niệu_quản + đặt sonde JJ niệu_quản</span> , sau phẫu_thuật bệnh ổn_định , cho bệnh_nhân xuất_viện , hẹn tái khám
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="22">Phẫu_thuật</span>

@@ -1,0 +1,7 @@
+Bệnh Lý
+Bệnh_nhân đang bình_thường trước khi <span class="selected treatment". start="6" end="7" line="2">lọc máu</span> trưa nay , không sốt , không ho , tiểu bình_thường ( 1 ngày bệnh_nhân còn tiểu được 1 lít / ngày ) , trưa nay , ăn khô cá sặc chiên , sau ăn khoảng 2-3 giờ ( lọc máu 1.5 giờ ) cách vào cấp_cứu 1 giờ , bệnh_nhân <span class="selected problem". start="59" end="65" line="2">ói 4-5 la62nra thức_ăn buoi 6433 trưa</span> , không tiêu lỏng , không đau bụng , sau đó <span class="selected problem". start="77" end="82" line="2">lạnh run sốt 38 độ 5</span> - - > gia_đình đưa bệnh_nhân vào cấp cưu .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="4">Tăng huyết_áp</span> .
+<span class="selected problem". start="1" end="2" line="5">Viêm dạ_dày</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">nội_khoa</span>

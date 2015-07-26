@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span>
+Bệnh Lý
+Cháu bệnh 3 ngày_nay , với <span class="selected problem". start="7" end="9" line="4">sốt cao liên_tục</span> , không giảm , kèm <span class="selected problem". start="15" end="15" line="4">mệt</span> , <span class="selected problem". start="17" end="18" line="4">nhức đầu</span> , ăn_uống kém . Hôm_nay bé vẩn còn sốt cao , mệt , ăn_uống kém , nôn ói , đau bụng , tiêu phân lỏng
+Tiền Sử Bệnh
+thủy_đậu 2 tuần
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">hạ sốt</span> , <span class="selected treatment". start="4" end="6" line="8">điều_trị nâng đở</span>

@@ -1,0 +1,5 @@
+Bệnh Lý
+Bệnh_nhân đang sinh_hoạt bình_thường , khoảng 3 giờ sáng nay <span class="selected problem". start="11" end="13" line="2">yếu hai chân</span> ( bệnh_nhân thức_giấc đi_tiểu phát_hiện , sau đó ngủ lại .
+Cách 3 giờ khi thức_giấc <span class="selected problem". start="6" end="9" line="3">liệt hoàn_toàn 2 chân</span> , không té , không đau , gia_đình đưa bệnh_nhân vào cấp_cứu bệnh_viện Vũ_Anh
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="5">nội_khoa</span>

@@ -1,0 +1,6 @@
+Tiền Sử Bệnh
+Bình_thường
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nữ 31 tuổi
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Phẫu_thuật</span>

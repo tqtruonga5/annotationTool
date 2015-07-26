@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+Bé bị bệnh ở nhà khoảng 2 ngày_nay , <span class="selected problem". start="10" end="11" line="4">sốt cao</span> có dùng hạ sốt , có đi <span class="selected treatment". start="19" end="19" line="4">khám</span> bác_sĩ tư <span class="selected treatment". start="22" end="23" line="4">uống thuốc</span> không rõ thuốc gì , nay bé <span class="selected problem". start="31" end="34" line="4">sốt cao 39,2 độ</span> , không co_giật , <span class="selected problem". start="39" end="39" line="4">ói</span> , <span class="selected problem". start="41" end="41" line="4">buồn_nôn</span> , <span class="selected problem". start="43" end="44" line="4">đau bụng</span> , không tiêu lỏng - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">giảm ói</span> , <span class="selected treatment". start="4" end="6" line="8">chống đầy hơi</span> , <span class="selected treatment". start="8" end="9" line="8">hạ sốt</span> , <span class="selected treatment". start="11" end="13" line="8">nâng_đỡ tổng trạng</span>

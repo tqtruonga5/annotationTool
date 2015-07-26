@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="6" line="4">sốt cao liên_tục 3 ngày</span> kèm <span class="selected problem". start="8" end="8" line="4">ho</span> , <span class="selected problem". start="10" end="11" line="4">đau họng</span> , <span class="selected problem". start="13" end="14" line="4">nhức đầu</span> - - - - > nhập_viện
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn - - - - > xuất_viện

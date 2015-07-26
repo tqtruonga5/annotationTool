@@ -1,0 +1,4 @@
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">Lợi_tiểu</span>
+<span class="selected treatment". start="1" end="3" line="3">Ức_chế bơm proton</span>
+<span class="selected treatment". start="1" end="2" line="4">Bù đạm</span>

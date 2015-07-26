@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">hồng ban</span>
+Bệnh Lý
+bệnh 02 ngày , mẹ khai bé <span class="selected problem". start="8" end="8" line="4">sốt</span> từ chiều_hôm qua khoảng 16h , <span class="selected problem". start="15" end="15" line="4">sốt</span> vừa đến chiều nay .
+chiều_tối nay bé <span class="selected problem". start="4" end="5" line="5">chán ăn</span> kèm phát_hiện <span class="selected problem". start="8" end="11" line="5">hồng ban bóng_nước tay_chân</span> - > mẹ xin nv .
+bé uống nước , tiêu tiểu_tốt , không giật_mình , không quấy khóc .
+Tiền Sử Bệnh
+chưa phát_hiện bất_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">nội</span>

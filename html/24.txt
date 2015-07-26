@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span> , <span class="selected problem". start="5" end="6" line="2">đau bụng</span>
+Bệnh Lý
+cháu <span class="selected problem". start="2" end="2" line="4">ho</span> 3 ngày_nay , ở nhà <span class="selected treatment". start="8" end="10" line="4">uống thuốc ho</span> , bệnh chưa giảm , sáng nay cháu than <span class="selected problem". start="20" end="21" line="4">đau bụng</span> , <span class="selected problem". start="23" end="23" line="4">sốt</span> , <span class="selected problem". start="25" end="27" line="4">ăn_uống không được</span>
+Tiền Sử Bệnh
+thỉnh_thoảng <span class="selected problem". start="2" end="3" line="6">viêm hô_hấp</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span> , <span class="selected treatment". start="3" end="5" line="8">men tiêu viêm</span> , <span class="selected treatment". start="7" end="8" line="8">men vi_sinh</span> , <span class="selected treatment". start="10" end="13" line="8">làm Bilan viêm ruột_thừa</span>

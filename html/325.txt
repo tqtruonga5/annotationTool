@@ -1,0 +1,3 @@
+Tổng Kết Bệnh Lý
+03 ngày_nay Bn than <span class="selected problem". start="5" end="7" line="2">đau ngực trái</span> , <span class="selected problem". start="9" end="9" line="2">hồi_hộp</span> , <span class="selected problem". start="11" end="11" line="2">mất_ngủ</span> , <span class="selected problem". start="13" end="13" line="2">sốt</span> , <span class="selected problem". start="15" end="16" line="2">đau họng</span> nên đi khám và xin vào nhập_viện .
+Sau 3 ngày <span class="selected treatment". start="4" end="4" line="3">điều_trị</span> BN hết đau ngực , Giảm đau họng nên xuất_viện .

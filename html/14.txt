@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="5" line="2">run giật tay</span>
+Bệnh Lý
+Bé <span class="selected problem". start="2" end="2" line="4">sốt</span> cách nhập_viện 1 ngày , <span class="selected problem". start="8" end="10" line="4">sốt không liên_tục</span> , ở nhà chưa điều_trị gì , 4g sáng nay trẻ <span class="selected problem". start="22" end="27" line="4">sốt kèm run giật ở tay</span> - - > khám - - > nhập_viện
+Tiền Sử Bệnh
+Không có tiền_sử co_giật
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">Hạ sốt</span> , <span class="selected treatment". start="4" end="5" line="8">bù nước</span> , <span class="selected treatment". start="7" end="7" line="8">vitamin</span>

@@ -1,0 +1,14 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span> , <span class="selected problem". start="3" end="3" line="2">ho</span>
+Bệnh Lý
+bệnh 05 ngày , mẹ khai bé <span class="selected problem". start="8" end="8" line="4">sốt</span> từ 22h đêm 3/9 , <span class="selected problem". start="14" end="14" line="4">sốt</span> mỗi ngày - > hôm_qua bé hết sốt , chỉ <span class="selected problem". start="25" end="26" line="4">ấm người</span> đến trưa nay bé <span class="selected problem". start="31" end="32" line="4">sốt cao</span> lại , <span class="selected problem". start="35" end="37" line="4">sốt khó hạ</span> - > nv .
+Bé <span class="selected problem". start="2" end="5" line="5">ho nhiều qua nay</span> , <span class="selected problem". start="7" end="9" line="5">ho đàm đặc</span> .
+Bé <span class="selected problem". start="2" end="11" line="6">tiêu phân lỏng 3 ngày_nay nhiều nước không đàm máu</span> .
+Bé tiểu khá .
+Bé qua nay <span class="selected problem". start="4" end="6" line="8">ăn_uống rất ít</span> .
+Bé <span class="selected problem". start="2" end="4" line="9">khó uống thuốc</span> .
+Bé đã <span class="selected treatment". start="3" end="5" line="10">điều_trị augmentin 250</span> từ 4/9 .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="14">nội</span>

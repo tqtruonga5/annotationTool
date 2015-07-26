@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt co_giật</span>
+Bệnh Lý
+bệnh 01 ngày , ba bé khai bé <span class="selected problem". start="9" end="9" line="4">sốt</span> từ chiều nay , <span class="selected problem". start="14" end="26" line="4">sốt nhẹ đến sốt cao lên_cơn co_giật ( mắt trợn , tay_chân gồng</span> , <span class="selected problem". start="28" end="30" line="4">sùi bọt mép</span> hết trước lúc nhập_viện không rõ thời_gian lên_cơn ) - > nv .
+bé có <span class="selected problem". start="3" end="5" line="5">ho ít thỉnh_thoảng</span> .
+Bé bú tiêu tiểu bình_thường .
+Tiền Sử Bệnh
+chưa sốt cao co_giật lần nào
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">nội</span>

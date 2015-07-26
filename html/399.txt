@@ -1,0 +1,3 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="15" line="2">đau nhiều ngang sột sống thắt_lưng , lan hai chân</span> , <span class="selected problem". start="17" end="18" line="2">đi_lại khó_khăn</span> .
+BN <span class="selected treatment". start="2" end="4" line="3">điều_trị không giảm</span> khám nhập_viện - - - > Sau <span class="selected treatment". start="12" end="12" line="3">điều_trị</span> bệnh_nhân bớt đau lưng , có chỉ_định <span class="selected treatment". start="20" end="20" line="3">phẫu_thuật</span> đã mời BS Khoa_Ngoại giải_thích .

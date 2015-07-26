@@ -1,0 +1,21 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Sỏi túi_mật</span>
+Bệnh Lý
+Bệnh_nhân khai đã khám ở BV Khánh_Hòa với chẩn_đoán : <span class="selected problem". start="11" end="12" line="4">Sỏi túi_mật</span> .
+Nhập_viện <span class="selected treatment". start="2" end="2" line="5">phẫu_thuật</span>
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="7">Cao HA</span>
+Điều Trị
+Ngoại_khoa
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nữ 71 tuổi vào viện với lí_do : Bệnh_nhân khai đã khám ở BV Khánh_Hòa với chẩn_đoán : <span class="selected problem". start="20" end="21" line="11">Sỏi túi_mật</span> .
+Nhập_viện <span class="selected treatment". start="2" end="2" line="12">phẫu_thuật</span>
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="13">sỏi túi_mật</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 71 tuổi vào viện với lí_do : Bệnh_nhân khai đã khám ở BV Khánh_Hòa với chẩn_đoán : <span class="selected problem". start="20" end="21" line="15">Sỏi túi_mật</span> .
+Nhập_viện <span class="selected treatment". start="2" end="2" line="16">phẫu_thuật</span>
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="17">sỏi túi_mật</span>
+<span class="selected treatment". start="1" end="3" line="18">Phẫu_thuật cắt túi_mật</span> nội_soi .
+Sau điều_trị , bệnh ổn đi_cầu được , VM khô - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="4" line="21">Phẫu_thuật cắt túi_mật nội_soi</span>

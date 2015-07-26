@@ -1,0 +1,6 @@
+Bệnh Lý
+Bé bị bệnh khoảng 1 tuần nay , ban_đầu <span class="selected problem". start="10" end="10" line="2">sổ_mũi</span> , <span class="selected treatment". start="12" end="13" line="2">dùng thuốc</span> có giảm , cách đây 3 ngày bé <span class="selected problem". start="22" end="23" line="2">sốt cao</span> được khám cấp_cứu cho thuốc <span class="selected treatment". start="29" end="29" line="2">Augmentin</span> dùng không đỡ , ngày_nay bé <span class="selected problem". start="36" end="37" line="2">tiêu lỏng</span> , <span class="selected problem". start="39" end="41" line="2">ói nhiều lần</span> , quấy khóc <span class="selected problem". start="45" end="45" line="2">sổ_mũi</span> - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="6">truyền dịch</span> , <span class="selected treatment". start="4" end="4" line="6">kháng_sinh</span> , <span class="selected treatment". start="6" end="6" line="6">kháng_viêm</span> , <span class="selected treatment". start="8" end="9" line="6">khí dung</span> , <span class="selected treatment". start="11" end="12" line="6">men vi_sinh</span> , <span class="selected treatment". start="14" end="15" line="6">chống ói</span> , <span class="selected treatment". start="17" end="19" line="6">nâng cao thể_trạng</span>

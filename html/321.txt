@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Xuất_hiện cách vào viện 03 ngày với <span class="selected problem". start="8" end="8" line="2">chóng_mặt</span> , <span class="selected problem". start="10" end="11" line="2">khó ngủ</span> , <span class="selected problem". start="13" end="16" line="2">hồi hợp ngực trái</span> sau khi người con trong gia_đình mất .
+Bệnh_nhân <span class="selected problem". start="2" end="4" line="3">mua thuốc uống</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện

@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="3" line="2">mệt</span>
+Tổng Kết Bệnh Lý
+Mấy ngày_nay bệnh_nhân <span class="selected problem". start="4" end="6" line="4">sốt ớn lạnh</span> , <span class="selected problem". start="8" end="9" line="4">yếu tay_chân</span> , <span class="selected problem". start="11" end="11" line="4">lú_lẫn</span> , <span class="selected problem". start="13" end="13" line="4">nói_sảng</span> , <span class="selected problem". start="15" end="16" line="4">tiểu khó</span> , <span class="selected problem". start="18" end="19" line="4">tiêu phân_bón</span> , <span class="selected problem". start="21" end="23" line="4">đau_nhức các khớp</span> , <span class="selected problem". start="25" end="26" line="4">ăn_uống kém</span> , <span class="selected problem". start="28" end="28" line="4">mệt</span> - - > khám vào viện
+Sau điều tr 5i bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="2" line="8">Hạ đường_huyết</span>

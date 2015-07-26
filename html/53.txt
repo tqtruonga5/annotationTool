@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Quấy khóc</span>
+Bệnh Lý
+Người_nhà khai hôm Chủ_nhật cháu có_ăn sữa_chua sau đó cháu <span class="selected problem". start="11" end="14" line="4">quấy khóc từng cơn</span> , không ói , người_nhà đã cho đi <span class="selected treatment". start="23" end="23" line="4">khám</span> và điều_trị <span class="selected problem". start="26" end="27" line="4">Rối_loạn tiêu_hóa</span> , sau 1 ngày cháu <span class="selected problem". start="33" end="33" line="4">sốt</span> , <span class="selected problem". start="35" end="38" line="4">đi lỏng 1 lần</span> , tối nay cháu <span class="selected problem". start="43" end="44" line="4">quấy khóc</span> nhiều - > Nhập_viện
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">Men tiêu_hóa</span> , <span class="selected treatment". start="4" end="6" line="8">giảm co thắt</span> , <span class="selected treatment". start="8" end="8" line="8">sinh_tố</span> , <span class="selected treatment". start="10" end="14" line="8">hạ sốt nếu còn sốt</span>

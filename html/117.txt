@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Ho</span>
+Bệnh Lý
+Khoảng 1 tuần nay bệnh_nhân <span class="selected problem". start="6" end="11" line="4">ho khạc đàm màu trắng đục</span> , đi <span class="selected treatment". start="14" end="15" line="4">khám thuốc</span> với chẩn_đoán <span class="selected problem". start="18" end="22" line="4">viêm họng cấp không giảm</span> , còn <span class="selected problem". start="25" end="26" line="4">ho nhiều</span> , <span class="selected problem". start="28" end="30" line="4">khạc đàm vàng</span> .
+Tối_qua <span class="selected problem". start="2" end="4" line="5">sốt ớn lạnh</span> .
+<span class="selected problem". start="1" end="1" line="6">khò_khè</span> , <span class="selected problem". start="3" end="4" line="6">nặng ngực</span> , <span class="selected problem". start="6" end="6" line="6">mệt</span> - - > khám vào viện
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="8">long đàm</span> , <span class="selected treatment". start="6" end="7" line="8">dãn phế_quản</span> , <span class="selected treatment". start="9" end="10" line="8">ổn_định huyết_áp</span> .

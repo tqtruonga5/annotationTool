@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">co_giật</span>
+Bệnh Lý
+cháu <span class="selected problem". start="2" end="2" line="4">sốt</span> từ sáng , <span class="selected problem". start="6" end="6" line="4">ho</span> , ở nhà <span class="selected treatment". start="10" end="13" line="4">uống thuốc hạ sốt</span> không giảm .
+đêm nay cháu <span class="selected problem". start="4" end="5" line="5">co_giật toàn_thân</span> gần 2 phút , vào bệnh_viện Q.Gò Vấp lau mát , <span class="selected treatment". start="17" end="20" line="5">dùng thuốc hạ sốt</span> rồi chuyễn qua nhập_viện .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="9">hạ sốt</span>

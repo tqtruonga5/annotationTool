@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tổng Kết Bệnh Lý
+Bệnh hai tuần nay , BN <span class="selected problem". start="7" end="10" line="4">sốt cao về chiều</span> , kèm theo <span class="selected problem". start="14" end="16" line="4">tiểu sậm màu</span> , <span class="selected problem". start="18" end="27" line="4">đau tức bụng thượng_vị và hạ sườn ( P )</span> , <span class="selected problem". start="29" end="30" line="4">ăn_uống kém</span> , <span class="selected problem". start="32" end="33" line="4">mệt nhiều</span> .
+BN <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> không rõ bệnh không giảm khám nhập_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>

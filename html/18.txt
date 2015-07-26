@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">phát_ban</span>
+Bệnh Lý
+- cha khai bệnh .
+- cháu <span class="selected problem". start="3" end="3" line="5">sốt</span> 3-4 ngày_nay kèm <span class="selected problem". start="7" end="7" line="5">ho</span> , <span class="selected problem". start="9" end="10" line="5">ăn kém</span> .
+người_nhà khám bs tư 2 toa không giảm , từ qua cháu <span class="selected problem". start="13" end="19" line="6">phát_ban từ lưng - - > bụng</span> , nay <span class="selected problem". start="22" end="26" line="6">mọc ban nhiều vùng mặt</span> - - > nhập_viện
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="10">điều_trị triệu_chứng</span>

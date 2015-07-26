@@ -1,0 +1,9 @@
+Tổng Kết Bệnh Lý
+Bệnh tối_qua <span class="selected problem". start="3" end="8" line="2">đau lói ngực ( T )</span> , kèm theo <span class="selected problem". start="12" end="15" line="2">mệt cảm_giác khó thở</span> .
+<span class="selected problem". start="1" end="3" line="3">Đau không lan</span> , không vã mồ_hôi .
+<span class="selected problem". start="1" end="3" line="4">Đau không lan</span> , không vã mồ_hôi .
+BN <span class="selected treatment". start="2" end="3" line="5">uống thuốc</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Hạ_áp</span>
+<span class="selected treatment". start="1" end="2" line="9">Hạ đường_huyết</span>

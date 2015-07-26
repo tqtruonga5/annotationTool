@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">ho</span> , <span class="selected problem". start="3" end="3" line="2">khò_khè</span>
+Bệnh Lý
+Cháu bệnh 4 ngày_nay , với <span class="selected problem". start="7" end="7" line="4">sốt</span> , <span class="selected problem". start="9" end="10" line="4">sốt cao</span> , <span class="selected problem". start="12" end="12" line="4">dao_động</span> , <span class="selected problem". start="14" end="14" line="4">mệt</span> .
+2 ngày_nay , cháu kèm theo <span class="selected problem". start="7" end="7" line="5">nôn</span> , <span class="selected problem". start="9" end="11" line="5">ói nhiều lần</span> , <span class="selected problem". start="13" end="14" line="5">ho nhiều</span> . Hôm_nay , cháu giảm <span class="selected problem". start="20" end="20" line="5">sốt</span> , <span class="selected problem". start="22" end="24" line="5">ho nhiều hơn</span> , <span class="selected problem". start="26" end="26" line="5">khò_khè</span> , <span class="selected problem". start="28" end="29" line="5">khó ngủ</span> , <span class="selected problem". start="31" end="32" line="5">nôn ói</span>
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="9">khí dung</span> , <span class="selected treatment". start="8" end="10" line="9">điều_trị nâng đở</span>

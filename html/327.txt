@@ -1,0 +1,3 @@
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="2" line="2">sốt</span> ngày 3 sau khi đi ngoại_khóa ở Cần_Thơ , <span class="selected problem". start="12" end="14" line="2">Sốt cao liên_tục</span> , kem <span class="selected problem". start="17" end="18" line="2">đau_nhức mắt</span> , <span class="selected problem". start="20" end="22" line="2">dau đàu nhiều</span> , không <span class="selected problem". start="25" end="25" line="2">ói</span> , <span class="selected treatment". start="27" end="29" line="2">uống hạ sốt</span> nhưng không hạ vẫn <span class="selected problem". start="34" end="35" line="2">sốt cao</span> nên xin vào nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> bệnh ổn cho xuất_viện

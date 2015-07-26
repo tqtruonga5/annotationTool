@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">khó thở</span>
+Bệnh Lý
+cháu <span class="selected problem". start="2" end="3" line="4">ho khò_khè</span> 3 ngày_nay , khám BS tư <span class="selected treatment". start="10" end="11" line="4">uống thuốc</span> không rỏ loại , bệnh không giảm .
+tối nay cháu <span class="selected problem". start="4" end="5" line="5">ho khò_khè</span> nhiều , <span class="selected problem". start="8" end="9" line="5">khó thở</span> , <span class="selected treatment". start="11" end="18" line="5">khám PK Tư xông khí dung 3 cữ</span> rồi giới_thiệu nhập_viện .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="7">hay_ho khò_khè</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="9">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="9">giãn phế_quản</span>

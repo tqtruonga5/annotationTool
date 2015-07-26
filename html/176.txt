@@ -1,0 +1,5 @@
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 53 tuổi .
+K <span class="selected treatment". start="2" end="5" line="3">tuyến ức đã phẫu_thuật</span> , đang <span class="selected treatment". start="8" end="9" line="3">điều_trị hóa_trị</span>
+Theo_dõi k <span class="selected problem". start="3" end="5" line="4">tuyến ức di_căn</span> .
+<span class="selected test". start="1" end="1" line="5">Siêu_âm</span> Khối_u gan phải , khối_u vùng cơ_hoành trái - Màng phồi trái - Dịch màng phổi trái lượng ít

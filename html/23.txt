@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Khó thở</span> , <span class="selected problem". start="4" end="4" line="2">mệt</span>
+Bệnh Lý
+2 ngày_nay bệnh_nhân <span class="selected problem". start="4" end="4" line="4">ho</span> , <span class="selected problem". start="6" end="7" line="4">khò_khè nhiều</span> , <span class="selected problem". start="9" end="10" line="4">khó thở</span> , <span class="selected problem". start="12" end="12" line="4">mệt</span> - - > khám vào viện
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="1" line="6">COPD</span> - <span class="selected problem". start="3" end="4" line="6">HC dạ_dày</span> - <span class="selected problem". start="6" end="6" line="6">Lão_suy</span>
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">Dãn phế_quản</span> - <span class="selected treatment". start="4" end="4" line="8">Kháng_sinh</span> - <span class="selected treatment". start="6" end="6" line="8">Oxy</span> - <span class="selected treatment". start="8" end="9" line="8">Long đàm</span> - <span class="selected treatment". start="11" end="11" line="8">Hạ_áp</span> - <span class="selected treatment". start="13" end="15" line="8">Ức_chế bơm proton</span>

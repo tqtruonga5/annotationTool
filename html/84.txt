@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">khó thở</span>
+Bệnh Lý
+bệnh 03 ngày , ba bé khai bé <span class="selected problem". start="9" end="9" line="4">ho</span> , <span class="selected problem". start="11" end="13" line="4">ho nhiều liên_tục</span> từ tối_qua đến giờ , <span class="selected problem". start="19" end="22" line="4">khó thở sáng giờ</span> đã PKD ở BV Nhi_Đồng không giảm - > nv .
+Bé <span class="selected problem". start="2" end="4" line="5">ăn_uống được ít</span> .
+Bé <span class="selected problem". start="2" end="3" line="6">sốt nhẹ</span> từ tối_qua .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="4" line="8">dị_ứng không rõ loại</span> , <span class="selected problem". start="6" end="7" line="8">thỉnh_thoảng khò_khè</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">nội</span>

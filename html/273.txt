@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+BN bị <span class="selected problem". start="3" end="8" line="2">đau bụng tiêu lỏng 2 ngày</span> kèm <span class="selected problem". start="10" end="11" line="2">nôn ói</span> , <span class="selected problem". start="13" end="13" line="2">ho</span> , <span class="selected problem". start="15" end="15" line="2">mệt</span> - - - > Nhập_viện - - > Sau <span class="selected treatment". start="25" end="25" line="2">điều_trị</span> BN hết tiêu lỏng , bớt ho , xin xuất_viện .

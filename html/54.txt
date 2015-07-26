@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span>
+Bệnh Lý
+Cháu bệnh 3 ngày_nay , với <span class="selected problem". start="7" end="7" line="4">sốt</span> diễn_tiến như sau : 2 ngày đầu <span class="selected problem". start="15" end="16" line="4">sốt nhẹ</span> , từ chiều_tối hôm_qua bé <span class="selected problem". start="22" end="23" line="4">sốt cao</span> , khó giảm , kèm <span class="selected problem". start="29" end="33" line="4">tiêu phân lỏng 2 lần</span> , phân không nhầy máu , <span class="selected problem". start="40" end="41" line="4">ăn_uống kém</span> , <span class="selected problem". start="43" end="44" line="4">quấy nhiều</span> , <span class="selected problem". start="46" end="47" line="4">khó ngủ</span> . <span class="selected problem". start="49" end="56" line="4">lòng bàn_chân ( T ) nổi mẩn đỏ</span> từ hôm_qua .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Nội_khoa</span>
