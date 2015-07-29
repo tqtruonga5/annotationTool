@@ -2,7 +2,6 @@
 
 function getNumWordInStr(str){
 	var words = $.trim(str).split(/\s+/);
-	// alert(words.length);
 	return words.length;
 }
 
@@ -20,7 +19,7 @@ function getSelected(element) {
 		priorRange = range.cloneRange();
 		priorRange.selectNodeContents(element);
 		priorRange.setEnd(range.startContainer, range.startOffset);
-		console.log(priorRange);
+		// console.log(priorRange);
 		// start = priorRange.toString().length;
 		start = getNumWordInStr(priorRange) + 1;
 		// end = start + range.toString().length - 1;
@@ -55,8 +54,43 @@ $("#emr-doc").on("mouseup", ".sentence",function(){
 
 
 /////////////////////////////////Add Label///////////////////////////////////
-$("#emr-doc").on("click", ".sentence .selected",function(){
-	$("#dialog").data("obj",$(this)).dialog("open");
+var relation_list = [];
+$("#emr-doc").on("click", ".sentence .selected",function(e){
+	if(e.ctrlKey){
+		if(relation_list.length == 1)
+		{
+			relation_list[relation_list.length] = $(this);
+			var type1 = relation_list[0].attr('class').split(/\s+/)[1];
+			var type2 = relation_list[1].attr('class').split(/\s+/)[1];
+
+			if(type1 !="problem" && type2!="problem"){
+				relation_list= [];
+			}
+			else if(type1 == "treatment" || type2=="treatment"){
+				relation_list[relation_list.length] = 'tr-p';
+				$("#tr-p-dialog").data("obj",relation_list).dialog("open");
+				relation_list= [];
+			}
+			else if(type1 == "test" || type2=="test"){
+				relation_list[relation_list.length] = 'te-p';
+				$("#te-p-dialog").data("obj",relation_list).dialog("open");
+				relation_list= [];
+			}
+			else if(type1 == "problem" || type2=="problem"){
+				relation_list[relation_list.length] = 'p-p';
+				$("#p-p-dialog").data("obj",relation_list).dialog("open");
+				relation_list= [];
+			}
+		}
+		else
+		{
+			relation_list[relation_list.length] = $(this);
+		}
+	}
+	else{
+		$("#dialog").data("obj",$(this)).dialog("open");
+	}
+	// console.log($(this));
 })
 
 $("#dialog").dialog({
@@ -81,6 +115,61 @@ $("#dialog").dialog({
 		}
 	}
 })
+
+//======================= Relation Dialog ================================
+$("#tr-p-dialog").dialog({
+	resizable: false,
+	draggable: false,
+	autoOpen: false,
+	modal: true,
+	width: 500,
+	buttons:{
+		OK: function(){
+			var label = $("input[name=label]:checked").val();
+			insertRelation($("#tr-p-dialog").data("obj"), label);
+			$(this).dialog("close");
+		},
+		Cancel: function(){
+			$(this).dialog("close");
+		}
+	}
+});
+
+$("#te-p-dialog").dialog({
+	resizable: false,
+	draggable: false,
+	autoOpen: false,
+	modal: true,
+	width: 500,
+	buttons:{
+		OK: function(){
+			var label = $("input[name=label]:checked").val();
+			insertRelation($("#tr-e-dialog").data("obj"), label);
+			$(this).dialog("close");
+		},
+		Cancel: function(){
+			$(this).dialog("close");
+		}
+	}
+});
+
+$("#p-p-dialog").dialog({
+	resizable: false,
+	draggable: false,
+	autoOpen: false,
+	modal: true,
+	width: 500,
+	buttons:{
+		OK: function(){
+			var label = $("input[name=label]:checked").val();
+			insertRelation($("#p-p-dialog").data("obj"), label);
+			$(this).dialog("close");
+		},
+		Cancel: function(){
+			$(this).dialog("close");
+		}
+	}
+});
 ////////////////////////////////////// End //////////////////////////////////
 
 
@@ -111,6 +200,69 @@ function insertMention(element, label){
 		}
 		if(found==false && label!="clear"){
 			scope.mentions.push(mention);
+		}
+	})
+}
+
+/////////////////////////////Add Relation  /////////////////////////
+function insertRelation(elements, label){
+//	c="a amiodarone gtt" 75:11 75:13||r="TrAP"||c="burst of atrial fibrillation" 75:3 75:6
+
+	var line1 = elements[0].attr("line");
+	var start1 = elements[0].attr("start");
+	var end1 = elements[0].attr("end");
+	var string1 = elements[0].text();
+	var type1 = elements[0].attr('class').split(/\s+/)[1];
+
+
+	var line2 = elements[1].attr("line");
+	var start2 = elements[1].attr("start");
+	var end2 = elements[1].attr("end");
+	var string2 = elements[1].text();
+	var type2 = elements[1].attr('class').split(/\s+/)[1];
+
+
+
+	var selected1 = 'c="'+string1+'" '+line1+":"+start1+" "+line1+":"+end1;
+	var selected2 = 'c="'+string2+'" '+line2+":"+start2+" "+line2+":"+end2;
+	var relation = '';
+
+	if(type1 == "problem" && type2 == "problem")
+	{
+		relation = selected1 +'||r="'+label+'"||'+selected2;
+	}
+	else if(type1 == "problem"){
+		relation = selected2 +'||r="'+label+'"||'+selected1;
+	}
+	else if(type2 == "problem")
+	{
+		relation = selected1 +'||r="'+label+'"||'+selected2;
+	}
+	else
+	{
+		return;
+	}
+	console.log("\n"+ relation +"\n"  );
+
+	//Get angular scope of emrList controller
+	var scope = angular.element(document.getElementById("wrap")).scope();
+	scope.$apply(function(){
+		var found = false;
+		for(var i=0; i<scope.relations.length; i++){
+			var exist1 = scope.relations[i].indexOf(selected1);
+			var exist2 = scope.relations[i].indexOf(selected2);
+			// console.log(exist);
+			if(exist1 > -1 && exist2 > -1) {
+				found = true;
+				if(label!="clear"){
+					scope.relations[i] = relation;
+				} else {
+					scope.relations.splice(i, 1);
+				}
+			}
+		}
+		if(found==false && label!="clear"){
+			scope.relations.push(relation);
 		}
 	})
 }

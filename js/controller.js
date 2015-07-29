@@ -13,7 +13,9 @@ labeler.controller('emrList', function($scope, $http){
 	})
 	$scope.content = [];
 	$scope.mentions = [];
-	$scope.filename = ""
+	$scope.relations = [];
+
+	$scope.filename = "";
 
 	$scope.getContent = function(filename){
 		$scope.filename = filename;
@@ -21,6 +23,8 @@ labeler.controller('emrList', function($scope, $http){
 			$scope.content = data.content;
 			$scope.mentions = data.mention;
 			$scope.msg = "";
+			$scope.relations = data.relation;
+			// console.log(data);
 		})
 	}
 
@@ -36,7 +40,8 @@ labeler.controller('emrList', function($scope, $http){
 				data:{
 					file: $scope.filename,
 					mentions: $scope.mentions,
-					html: html
+					html: html,
+					relations: $scope.relations
 				},
 				headers: { 'Content-Type': 'application/json;' },
 			})

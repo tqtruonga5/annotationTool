@@ -1,0 +1,6 @@
+Lý Do
+Bn tái khám khi thấy <span class="selected problem" start="6" end="6" line="2">chóng_mặt</span>
+Bệnh Lý
+Bn 2 ngày_nay <span class="selected problem" start="4" end="4" line="4">chóng_mặt </span>nhiều kèm <span class="selected problem" start="7" end="7" line="4">buồn_nôn </span>, <span class="selected problem" start="9" end="11" line="4">đau nhứt cơ</span> , <span class="selected problem" start="13" end="17" line="4">đau nhiều vùng vai gáy</span> = = &gt; NV
+Tiền Sử Bệnh
+<span class="selected problem" start="2" end="2" line="6">RLTĐ </span>- <span class="selected problem" start="3" end="3" line="6">THA </span>- <span class="selected problem" start="5" end="5" line="6">VDD </span>- <span class="selected problem" start="7" end="8" line="6">RLCH lipit</span> - <span class="selected problem" start="10" end="12" line="6">Rối_loạn dung_nạp gluco</span>

@@ -12,10 +12,10 @@
 </head>
 <body id="wrap" ng-controller="emrList">
 	<nav class="navbar navbar-default">
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header">
-				<a class="navbar-brand" href="#">Label Tool</a>
-			</div>
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<a class="navbar-brand" href="#">Label Tool</a>
+		</div>
 	</nav>
 
 	<div class="container-fluid">
@@ -38,64 +38,43 @@
 					</ul>
 				</div>
 			</div>
-			<div class="main col-md-10">
+			<div class="main col-md-6">
 				<div class="row">
-					<div class="col-md-2">
-						<div class="panel panel-default">
-							<div class="panel-heading clickable person">
-							<h3 class="panel-title">Person</h3>
-							</div>
-							<div class="panel-body" style="min-height:80px;">
-								Những chủ thể người hoặc nhóm người
-							</div>
-						</div>
-					</div>
-					<div class="col-md-2">
+					<div class="col-md-3">
 						<div class="panel panel-default">
 							<div class="panel-heading clickable problem">
-							<h3 class="panel-title">Problem</h3>
+								<h3 class="panel-title">Problem</h3>
 							</div>
 							<div class="panel-body" style="min-height:90px;">
 								Những bất thường về sức khỏe
 							</div>
 						</div>
 					</div>
-					<div class="col-md-2">
+					<div class="col-md-3">
 						<div class="panel panel-default">
 							<div class="panel-heading clickable treatment">
-							<h3 class="panel-title">Treatment</h3>
+								<h3 class="panel-title">Treatment</h3>
 							</div>
 							<div class="panel-body" style="min-height:90px;">
 								Những thủ tục chữa trị
 							</div>
 						</div>
 					</div>
-					<div class="col-md-2">
+					<div class="col-md-3">
 						<div class="panel panel-default">
 							<div class="panel-heading clickable test">
-							<h3 class="panel-title">Test</h3>
+								<h3 class="panel-title">Test</h3>
 							</div>
 							<div class="panel-body" style="min-height:90px;">
 								Những thủ tục xét nghiệm
 							</div>
 						</div>
 					</div>
-					<div class="col-md-2">
-						<div class="panel panel-default">
-							<div class="panel-heading clickable pronoun">
-							<h3 class="panel-title">Pronoun</h3>
-							</div>
-							<div class="panel-body" style="min-height:90px;">
-								Những đại từ tham chiếu tới 4 nhóm trên
-							</div>
-						</div>
-					</div>
 				</div>
-
 				<button class="btn btn-primary" ng-click="postMention()">Update</button>
 				<button class="btn btn-danger" ng-click="clearAllMention()">Clear All</button>
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-md-12">
 						<div class="panel panel-default">
 							<div class="panel-heading">
 								<h3 class="panel-title">File {{filename}}</h3>
@@ -105,14 +84,27 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-5">
-						<div class="panel panel-default">
-							<div class="panel-heading">
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="row">
+					<div class="panel panel-default">
+						<div class="panel-heading">
 							<h3 class="panel-title">Mention List</h3>
-							</div>
-							<div id="mention" class="doc panel-body">
-								<div ng-repeat="mention in mentions">{{mention}}</div>
-							</div>
+						</div>
+						<div id="mention" class="doc panel-body">
+							<div ng-repeat="mention in mentions">{{mention}}</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Relation List</h3>
+						</div>
+						<div id="relation" class="doc panel-body">
+							<div ng-repeat="relation in relations">{{relation}}</div>
 						</div>
 					</div>
 				</div>
@@ -120,11 +112,30 @@
 		</div>
 	</div>
 	<div id="dialog" title="Select Label" style="display:none;">
-		<input type="radio" name="label" value="person" checked="checked">Person<br>
+		<!-- <input type="radio" name="label" value="person" checked="checked">Person<br> -->
 		<input type="radio" name="label" value="problem">Problem<br>
 		<input type="radio" name="label" value="treatment">Treatment<br>
 		<input type="radio" name="label" value="test">Test<br>
-		<input type="radio" name="label" value="pronoun">Pronoun<br>
+		<!-- <input type="radio" name="label" value="pronoun">Pronoun<br> -->
+		<input type="radio" name="label" value="clear">Clear<br>
+	</div>
+
+	<div id="tr-p-dialog" class="rel-dialog" title="Select Relation" style="display:none;">
+		<input type="radio" name="label" value="TrIP">Treatment improves problem<br>
+		<input type="radio" name="label" value="TrNAP">Treatment is not administered because of medical problem<br>
+		<input type="radio" name="label" value="TrWP">Treatment worsens problem<br>
+		<input type="radio" name="label" value="TrCP">Treatment causes medical problem<br>
+		<input type="radio" name="label" value="TrAP">Treatment is administered for medical problem<br>
+		<input type="radio" name="label" value="clear">Clear<br>
+	</div>
+	<div id="te-p-dialog" class="rel-dialog" title="Select Relation" style="display:none;">
+		<input type="radio" name="label" value="TeCP">Test conducted to investigate medical problem<br>
+		<input type="radio" name="label" value="TeRP">Test reveals medical problem<br>
+		<input type="radio" name="label" value="clear">Clear<br>
+
+	</div>
+	<div id="p-p-dialog" class="rel-dialog" title="Select Relation" style="display:none;">
+		<input type="radio" name="label" value="PIP"> problem indicates problem<br>
 		<input type="radio" name="label" value="clear">Clear<br>
 	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
