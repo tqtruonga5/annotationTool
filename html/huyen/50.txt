@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="3" line="2">mệt</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai 3 ngày_nay <span class="selected problem". start="5" end="5" line="4">mệt_mỏi</span> , <span class="selected problem". start="7" end="7" line="4">sốt</span> , <span class="selected problem". start="9" end="9" line="4">đau_đầu</span> , <span class="selected problem". start="11" end="14" line="4">chóng_mặt khi thay_đổi tư_thế</span> , <span class="selected problem". start="16" end="18" line="4">đau_nhức 2 chân</span> , <span class="selected problem". start="20" end="25" line="4">nổi mẫn ngứa rải_rác roàn thân</span> - - > khám vào viện

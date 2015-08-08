@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai bị <span class="selected problem". start="4" end="10" line="4">đau bụng vùng hố_chậu ( P )</span> 3 ngày_nay , <span class="selected problem". start="14" end="16" line="4">đại tiểu_tiện bình_thường</span> , <span class="selected problem". start="18" end="23" line="4">SA ( ? ) viêm ruột_thừa</span> - - > khám vào viện .
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="3" line="7">Ức_chế bơm proton</span>

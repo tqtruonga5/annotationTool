@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tiền Sử Bệnh
+Khỏe
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="2" line="6">sốt</span> 5 ngày_nay , <span class="selected problem". start="6" end="8" line="6">đau rát họng</span> , <span class="selected problem". start="10" end="10" line="6">sổ_mũi</span> , <span class="selected problem". start="12" end="13" line="6">ho đàm</span> , hai hôm_nay bệnh_nhân còn <span class="selected problem". start="19" end="20" line="6">sốt cao</span> , <span class="selected problem". start="22" end="23" line="6">ho đàm</span> , <span class="selected problem". start="25" end="28" line="6">tiêu_chảy phân toàn nước</span> , <span class="selected problem". start="30" end="32" line="6">da môi khô</span> , <span class="selected problem". start="34" end="35" line="6">ăn_uống kém</span> , <span class="selected problem". start="37" end="37" line="6">mệt_mỏi</span> nhập_viện

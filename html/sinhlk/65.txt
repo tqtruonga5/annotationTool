@@ -1,0 +1,7 @@
+Điều Trị
+Ngoại_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 65 tuổi vào viện với lý_do : Bệnh_nhân hậu_phẫu <span class="selected problem". start="12" end="14" line="4">tán sỏi niệu_quản</span> ( T ) + <span class="selected treatment". start="19" end="21" line="4">Đặt sonde JJ</span> 1 tháng - - > vào viện rút sonde JJ theo hẹn
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="5">Sonde JJ niệu_quản</span> ( T ) + <span class="selected problem". start="10" end="13" line="5">Sỏi nhỏ bám JJ</span> / <span class="selected problem". start="15" end="18" line="5">Hậu_phẫu tán sỏi niệu_quản</span> ( T ) .
+<span class="selected treatment". start="1" end="3" line="6">Nội_soi rút JJ</span> + <span class="selected treatment". start="5" end="6" line="6">lôi sỏi</span> .
+Sau điều_trị , bệnh ốn , tiểu được , nước_tiểu trong - - > xuất_viện

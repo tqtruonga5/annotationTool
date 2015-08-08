@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+BN khai <span class="selected problem". start="3" end="3" line="2">đau_đầu</span> , <span class="selected problem". start="5" end="5" line="2">sốt</span> từ hôm_qua , hôm_nay xuất_hiện thêm <span class="selected problem". start="12" end="13" line="2">bỏng nước</span> nên xin vào nhập_viện - - - > Sau <span class="selected treatment". start="23" end="23" line="2">điều_trị</span> BN không mọc thêm mụn mới , các mụn cũ khô , hết sốt .

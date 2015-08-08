@@ -1,0 +1,7 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 75 tuổi vào viện với lý_do : Bệnh_nhân K đại_tràng <span class="selected treatment". start="13" end="14" line="2">đã phẫu_thuật</span> làm HMNT_T5 / 2011 .
+<span class="selected treatment". start="1" end="1" line="3">Hóa_trị</span> 06 chu_kỳ .
+Hiện_tại , <span class="selected problem". start="3" end="8" line="4">thành bụng quanh HMNT phồng lớn</span> - - > vào viện
+Chẩn_đoán : <span class="selected problem". start="3" end="8" line="5">Thoát_vị thành bụng quanh hậu_môn nhân_tạo</span> / <span class="selected problem". start="10" end="12" line="5">Đợt cấp COPD</span> - <span class="selected problem". start="14" end="15" line="5">Tăng HA</span> .
+<span class="selected treatment". start="1" end="2" line="6">Điều_trị nội_khoa</span> 7 ngày bệnh_nhân tạm ổn_định về tim_mạch và hô_hấp - - > <span class="selected treatment". start="15" end="18" line="6">Phẫu_thuật phục_hồi thành bụng</span>
+Sau điều_trị , bệnh ổn_định , VM khô , HMNT phân ra tốt - - > xuất_viện

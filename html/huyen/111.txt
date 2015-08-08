@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="3" line="2">đau thượng</span> 4 ngày_nay , có <span class="selected treatment". start="8" end="11" line="2">khám và dùng thuốc</span> nhưng không bớt , chiều nay <span class="selected problem". start="18" end="24" line="2">đau quặn bụng thượng_vị nhiều kèm buồn_nôn</span> , <span class="selected problem". start="26" end="32" line="2">tiêu lòng 2 lần không đàm máu</span> , <span class="selected problem". start="34" end="34" line="2">mệt</span> - > khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="3" line="5">Ức_chế bơm proton</span>

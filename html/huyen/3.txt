@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tổng Kết Bệnh Lý
+Mấy ngày_nay BN bị <span class="selected problem". start="5" end="9" line="4">sốt kèm đau_nhức lưng nhiều</span> dùng thuốc không giảm nên vào nhập_viện - - - > Sau điều_trị BN bớt sốt , bớt đau lưng

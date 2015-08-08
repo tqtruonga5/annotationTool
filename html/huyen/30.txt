@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Bệnh ngày qua bệnh_nhân đột_ngột <span class="selected problem". start="6" end="10" line="2">đau ngực sau xương ức</span> , kèm theo <span class="selected problem". start="14" end="15" line="2">tê tay_chân</span> , <span class="selected problem". start="17" end="18" line="2">tê mặt</span> , <span class="selected problem". start="20" end="22" line="2">cảm_giác khó thở</span> , <span class="selected problem". start="24" end="24" line="2">mệt</span> .
+BN <span class="selected treatment". start="2" end="3" line="3">uống thuốc</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện

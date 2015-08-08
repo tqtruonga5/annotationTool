@@ -1,0 +1,4 @@
+Bệnh Lý
+bé bệnh khoảng 1 năm nay , <span class="selected problem". start="8" end="12" line="2">đau bụng quặn từng cơn</span> , ngày khoãng 10 lần , lần kéo_dài 1 phút , bé <span class="selected problem". start="25" end="27" line="2">đi_cầu không tự_chủ</span> , ngày 3-4 lần , <span class="selected problem". start="33" end="34" line="2">phân sệt</span> , cứng , <span class="selected problem". start="38" end="39" line="2">táo_bón kéo_dài</span> , điều_trị Nhi_Đồng 2 không khỏi , khoảng 4 tháng nay bé <span class="selected problem". start="52" end="54" line="2">tiêu không tự_chủ</span> , <span class="selected problem". start="56" end="59" line="2">sụt 4 kg =</span> > nhập_viện
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="4">men tiêu_hóa</span> , <span class="selected treatment". start="4" end="4" line="4">sinh_tố</span> . Nội_khoa - - - Ngoại_khoa

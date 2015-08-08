@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Ho</span>
+Tổng Kết Bệnh Lý
+Bệnh vài ngaỳ nay , BN <span class="selected problem". start="7" end="10" line="4">ho đàm khó khạc</span> , kèm theo <span class="selected problem". start="14" end="16" line="4">sốt ớn lạnh</span> , <span class="selected problem". start="18" end="19" line="4">ăn_uống kém</span> , <span class="selected problem". start="21" end="23" line="4">cảm_giác bủn_rủn tay_chân</span> .
+BN <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="2" line="9">Hạ đường_huyết</span>
+<span class="selected treatment". start="1" end="1" line="10">Hạ_áp</span>

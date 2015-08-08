@@ -1,0 +1,8 @@
+Tiền Sử Bệnh
+Khỏe
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 39 tuổi vào viện với lý_do : Bệnh_nhân khai <span class="selected problem". start="12" end="15" line="4">phát_hiện hạch vùng cổ</span> mấy tháng nay - - > vào khám
+Siêu_âm tuyến_giáp : <span class="selected test". start="4" end="5" line="5">Nhân_Giáp thùy</span> ( P )
+Chẩn_đoán : <span class="selected test". start="3" end="5" line="6">Nhân giáp thùy</span> ( P )
+<span class="selected treatment". start="1" end="4" line="7">Phẫu_thuật bóc nhân tuyến_giáp</span> .
+Sau điều_trị , bệnh ổn , VM khô , <span class="selected test". start="10" end="12" line="8">giọng nói trong</span> - - > xuất_viện

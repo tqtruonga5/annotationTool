@@ -31,9 +31,13 @@
 				</div>
 				<div class="file-list">
 					<h4>EMR List</h4>
+					<select ng-model="selected"
+							ng-options="folder for folder in folders"
+							ng-change="getFiles(selected)">
+					</select>
 					<ul class="nav nav-list">
-						<li ng-repeat="file in files | filter:query">
-							<a href="" ng-click="getContent(file)">{{file}}</a>
+						<li ng-repeat="file in files | filter: query">
+								<a href="" ng-click="getContent(selected, file)">{{file}}</a>
 						</li>
 					</ul>
 				</div>

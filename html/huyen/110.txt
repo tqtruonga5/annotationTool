@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Sáng nay BN <span class="selected problem". start="4" end="4" line="2">sốt</span> , <span class="selected problem". start="6" end="7" line="2">đau họng</span> , <span class="selected problem". start="9" end="9" line="2">ho_khan</span> , <span class="selected problem". start="11" end="12" line="2">đau_nhức toàn_thân</span> , <span class="selected problem". start="14" end="15" line="2">ăn_uống kém</span> , <span class="selected problem". start="17" end="18" line="2">mệt nhiều</span> .
+BN tự dùng thuốc không giảm nên xin vào nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện

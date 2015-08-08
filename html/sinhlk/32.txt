@@ -1,0 +1,9 @@
+Bệnh Lý
+bệnh 04 ngày , mẹ khai bé <span class="selected problem". start="8" end="10" line="2">đi_tiêu phẩn lỏng</span> nhiều lần / ngày kèm <span class="selected problem". start="16" end="16" line="2">ói</span> ít 1-2 lần/ngày không đàm máu , kèm <span class="selected problem". start="25" end="25" line="2">ho</span> tăng dần .
+Hôm_nay bé <span class="selected problem". start="3" end="5" line="3">đi_tiêu phần lỏng</span> 9-10 lần/ngày nhiều nước , <span class="selected problem". start="11" end="13" line="3">ho nhiều hơn</span> .
+Bé đang điều_trị <span class="selected treatment". start="4" end="4" line="4">cefixime</span> , <span class="selected treatment". start="6" end="6" line="4">prednisolone</span> , <span class="selected treatment". start="8" end="8" line="4">salnutamol</span> , <span class="selected treatment". start="10" end="10" line="4">pectol</span> , <span class="selected treatment". start="12" end="12" line="4">lactobacillus</span> , <span class="selected treatment". start="14" end="14" line="4">hidrasec</span> với chẩn_đoán <span class="selected problem". start="17" end="18" line="4">viêm phế_quản</span> , <span class="selected problem". start="20" end="21" line="4">rối_loạn tiêu_hóa</span> ở BV phu sản mekong .
+Bé tiểu khá , uống nước khá .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">nội</span>

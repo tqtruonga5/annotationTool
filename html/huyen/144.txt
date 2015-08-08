@@ -1,0 +1,11 @@
+Tiền Sử Bệnh
+Bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">Phẫu_thuật</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 49 tuổi , <span class="selected problem". start="6" end="9" line="6">sốt từ tối_ngày 24/03/2014</span> , <span class="selected problem". start="11" end="15" line="6">kèm theo đau bụng âm_ỉ</span> , <span class="selected problem". start="17" end="20" line="6">có ói 1 lần</span> , <span class="selected problem". start="22" end="24" line="6">tiêu tiểu bình_thường</span> = > Vào cấp_cứu khám , <span class="selected test". start="31" end="31" line="6">siêu_âm</span> kết_quả : Khả_năng ruột_thừa viêm vở , chướng hơi đường ruột , Đau bụng nhiều , đề_kháng hố_chậu ( P )
+Chẩn_đoán ban_đầu : Viêm ruột_thừa - <span class="selected treatment". start="7" end="9" line="7">Phẫu_thuật cắt ruột_thừa</span> .
+Trong quá trinh phẫu_thuật , phát_hiện ruột_thừa không viêm , theo_dõi nang tụy vỡ , phẫu_thuật cắt ruột_thừa + Khâu lỗ thủng , lau ổ_bụng .
+<span class="selected treatment". start="1" end="5" line="9">Sau phẫu_thuật sử_dụng kháng_sinh tích_cực</span> , 7 ngày hiện_tại bệnh ổn_định , cho bệnh_nhân xuất_viện , hẹn tái khám .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">Phẫu_thuật</span>

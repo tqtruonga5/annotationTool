@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai ngày 24/04 bệnh_nhân <span class="selected problem". start="6" end="11" line="2">đi_cầu thấy ra máu đỏ tươi</span> nhiều . Từ sáng thấy <span class="selected problem". start="17" end="18" line="2">mệt_mỏi sốt</span> , - - > vào khám .
+Chụp MRI : <span class="selected test". start="4" end="5" line="3">Sa trực_tràng</span> .
+Nội_soi : <span class="selected test". start="3" end="4" line="4">Sa trực_tràng</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="5">Sa trực_tràng</span> - <span class="selected problem". start="6" end="8" line="5">poluyp ống hậu_môn</span> .

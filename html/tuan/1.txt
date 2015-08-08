@@ -1,0 +1,26 @@
+Lý Do
+Dò hậu_môn
+Bệnh Lý
+Bệnh_nhân khai bị <span class="selected problem". start="4" end="6" line="4">abscess cạnh hậu_môn</span> cách đây khoảng 5-6 tháng .
+Đã <span class="selected test". start="2" end="5" line="5">chích rạch 2 lần</span> ( lần 1 tại BV Hóc_Môn , lần 2 tại BV Vũ_Anh ) .
+Hiện_tại bệnh_nhân than <span class="selected problem". start="4" end="12" line="6">cạnh hậu_môn sưng đau , chảy dịch vào khám</span> .
+Tiền Sử Bệnh
+Dò hậu_môn
+Điều Trị
+Ngoại_khoa
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 34 tuổi vào viện với lí_do : Bệnh_nhân khai bị abscess cạnh hậu_môn cách đây khoảng 5-6 tháng .
+Đã chích rạch 2 lần ( lần 1 tại BV Hóc_Môn , lần 2 tại BV Vũ_Anh ) .
+Hiện_tại bệnh_nhân than cạnh hậu_môn sưng đau , chảy dịch vào khám .
+Khám HMTT : Lỗ dò hậu_môn vị_trí 5h cách hậu_môn 3cm đang chảy dịch
+Chẩn_đoán : Dò hậu_môn
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 34 tuổi vào viện với lí_do : Bệnh_nhân khai bị <span class="selected problem". start="13" end="15" line="18">abscess cạnh hậu_môn</span> cách đây khoảng 5-6 tháng .
+Đã <span class="selected treatment". start="2" end="5" line="19">chích rạch 2 lần</span> ( lần 1 tại BV Hóc_Môn , lần 2 tại BV Vũ_Anh ) .
+Hiện_tại bệnh_nhân than <span class="selected problem". start="4" end="7" line="20">cạnh hậu_môn sưng đau</span> , <span class="selected problem". start="9" end="10" line="20">chảy dịch</span> vào khám .
+<span class="selected test". start="1" end="2" line="21">Khám HMTT</span> : <span class="selected problem". start="4" end="14" line="21">Lỗ dò hậu_môn vị_trí 5h cách hậu_môn 3cm đang chảy dịch</span>
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="22">Dò hậu_môn</span>
+<span class="selected treatment". start="1" end="4" line="23">Phẫu_thuật cắt đường dò</span> .
+Sau <span class="selected treatment". start="2" end="4" line="24">điều_trị VM khô</span> - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+Phẫu_thuật cắt đường dò

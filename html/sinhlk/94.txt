@@ -1,0 +1,8 @@
+Điều Trị
+Ngoại_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 78 tuổi vào viện với lý_do : Bệnh_nhân khai khoảng 1 tháng nay <span class="selected problem". start="16" end="17" line="4">tiểu khó</span> , <span class="selected problem". start="19" end="20" line="4">tiểu buốt</span> , <span class="selected problem". start="22" end="23" line="4">tiểu lắt_nhắt</span> , <span class="selected problem". start="25" end="28" line="4">tiểu nhiều về đêm</span> .
+Ngày_nay không tiểu được <span class="selected problem". start="5" end="7" line="5">bàng_quang căng cứng</span> , đã <span class="selected treatment". start="10" end="12" line="5">đặt sonde tiểu</span> - - > vào viện .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="6">U_xơ tuyến_tiền_liệt</span>
+<span class="selected treatment". start="1" end="5" line="7">Phẫu_thuật cắt đốt u_xơ Tuyến_Tiền_Liệt</span> + <span class="selected treatment". start="7" end="9" line="7">Cắt hai tinh_hoàn</span>
+Sau điều_trị , bệnh ổn , VM khô , tiểu được , nước_tiểu trong - - > xuất_viện .

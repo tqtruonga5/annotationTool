@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Khó thở</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai chiều nay khoảng 16 giờ sau khi ăn cơm với cá biển ( cá_chim ) thì bị <span class="selected problem". start="20" end="23" line="4">sưng mặt + mắt</span> , <span class="selected problem". start="25" end="26" line="4">khó thờ</span> , không nổi mề_đay , không ngứa , <span class="selected treatment". start="35" end="38" line="4">uống 2 viên Cezil</span> 10 mg , không đỡ - > cấp_cứu
+Diễn_tiến : bệnh ổn_định

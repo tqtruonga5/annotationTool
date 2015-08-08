@@ -1,0 +1,8 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">Nội_khoa</span>
+Tổng Kết Bệnh Lý
+BN nam 53 tuổi <span class="selected problem". start="5" end="6" line="4">ói nhiều</span> sau khi <span class="selected treatment". start="9" end="10" line="4">truyền hóa_chất</span> điều_trị <span class="selected problem". start="12" end="15" line="4">K tuyến ức di_căn</span> khám nhập_viện . <span class="selected problem". start="19" end="20" line="4">Sốt cao</span> , <span class="selected problem". start="22" end="23" line="4">người mệt</span> , <span class="selected problem". start="25" end="27" line="4">da xanh nhợt</span> , .
+Chẩn_đoán : <span class="selected problem". start="3" end="6" line="5">Rối_loạn nước điện giải</span> / <span class="selected problem". start="8" end="11" line="5">K tuyến ức di_căn</span> .
+<span class="selected treatment". start="1" end="3" line="6">Được điều_trị kháng_sinh</span> , <span class="selected treatment". start="5" end="5" line="6">đạm</span> , <span class="selected treatment". start="7" end="8" line="6">truyền tiểu_cầu</span> , <span class="selected treatment". start="10" end="12" line="6">nâng cao thể_trạng</span> , sau khi điều_trị BN ăn_uống được , hết sốt , bệnh ổn xuất_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Nội_khoa</span>

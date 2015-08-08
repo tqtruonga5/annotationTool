@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+Bệnh 02 ngày , mẹ khai bé <span class="selected problem". start="8" end="8" line="4">sốt</span> từ 15h chiều_hôm qua , <span class="selected problem". start="14" end="15" line="4">sốt vừa</span> - > <span class="selected problem". start="18" end="19" line="4">sốt cao</span> khó hạ sáng đền chiều_hôm nay - > nv .
+bé không giật_mình , <span class="selected problem". start="5" end="6" line="5">nhợn ói</span> ít từ sáng giờ .
+sáng đến giờ bé chưa ăn_uống gì .
+tiêu tiểu bình_thường , không ho .
+bé đang điều_trị <span class="selected treatment". start="4" end="4" line="8">Augmentine</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">kháng_sinh</span> , <span class="selected treatment". start="3" end="5" line="10">men tiêu viêm</span> , <span class="selected treatment". start="7" end="7" line="10">vitamin</span> , <span class="selected treatment". start="9" end="10" line="10">hạ sốt</span>

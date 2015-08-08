@@ -1,0 +1,7 @@
+Bệnh Lý
+mẹ khai bệnh
+cháu bệnh từ 3 ngày_nay :
+N1 - 2 : <span class="selected problem". start="5" end="5" line="4">ho_khan</span> , <span class="selected problem". start="7" end="9" line="4">sốt cơn nhẹ</span> - - > khám bv NĐ uống <span class="selected treatment". start="17" end="17" line="4">augmentin</span> 01 ngày không giảm ho giảm sốt .
+N3 : từ sáng cháu <span class="selected problem". start="6" end="6" line="5">ói</span> 3 lần , thức_ăn lợn_cợn ít máu , cháu <span class="selected problem". start="16" end="17" line="5">mệt nhiều</span> - - > nhập_viện
+Tiền Sử Bệnh
+khỏe

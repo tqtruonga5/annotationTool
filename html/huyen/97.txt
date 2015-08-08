@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+Bệnh xuất_hiện chiều nay với <span class="selected problem". start="6" end="6" line="2">sốt</span> , <span class="selected problem". start="8" end="12" line="2">ho nhiều khi thay_đổi tư_thế</span> , <span class="selected problem". start="14" end="18" line="2">cảm_giác khó thở khi nằm</span> , <span class="selected problem". start="20" end="21" line="2">ăn_uống kém</span> , <span class="selected problem". start="23" end="24" line="2">phù mặt</span> , <span class="selected problem". start="26" end="26" line="2">mệt</span> xin vào nhập_viện <span class="selected treatment". start="30" end="30" line="2">điều_trị</span> .
+Sau <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="5">Kháng_sinh</span>

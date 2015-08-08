@@ -1,0 +1,4 @@
+Tiền Sử Bệnh
+khỏe
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="5" line="4">đau hạn_chế vận_động vai</span> , <span class="selected problem". start="7" end="11" line="4">MRI rách gân trên gai</span> , vào viện nội_soi <span class="selected treatment". start="16" end="17" line="4">cắt ọc</span> , <span class="selected treatment". start="19" end="22" line="4">tạo_hình mõm cùng vai</span> , hậu_phẫu thuận_lợi

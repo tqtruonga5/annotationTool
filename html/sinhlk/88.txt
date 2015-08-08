@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="3" line="2">ngưng thở</span> , <span class="selected problem". start="5" end="6" line="2">ngừng tim</span> - - > nhập ICU - - > <span class="selected treatment". start="15" end="17" line="2">đặt nội khí_quản</span> - - > <span class="selected treatment". start="21" end="22" line="2">thở máy</span> - - > diện biến nặng - - > trên <span class="selected test". start="33" end="35" line="2">monitor đẳng điện</span> 5 giờ 40 phút - - > bệnh_nhân tử_vong

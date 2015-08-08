@@ -1,0 +1,7 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="4">Viêm ruột_thừa cấp</span> .
+Tổng Kết Bệnh Lý
+BN nữ 30 tuổi , <span class="selected problem". start="6" end="11" line="6">đau nhiều hố_chậu ( P )</span>
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="7">Viêm ruột_thừa cấp</span> . <span class="selected treatment". start="7" end="12" line="7">Được PT cắt ruột_thừa qua nội_soi</span> , sau PT bệnh ổn xuất_viện .

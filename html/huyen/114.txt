@@ -1,0 +1,6 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="3" line="2">Phì đại tiền_liệt_tuyến</span>
+Tổng Kết Bệnh Lý
+Bệnh khai <span class="selected problem". start="3" end="7" line="4">ho_khan khoảng 1 tuần nay</span> , <span class="selected problem". start="9" end="14" line="4">uống thuốc ngoại_trú nhưng không giảm</span> .
+<span class="selected problem". start="1" end="8" line="5">Tối_qua ho khạc đàm nhiều , khó ngủ</span> - - > nhập_viện .
+Sau đợt d 9eiu62 trị bệnh_nhân bớt ho đàm , gia_đình xin xuất_viện .

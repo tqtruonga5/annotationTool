@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tổng Kết Bệnh Lý
+Bệnh 4 ngày_nay , BN <span class="selected problem". start="6" end="8" line="4">sốt cao liên_tục</span> , kèm theo <span class="selected problem". start="12" end="13" line="4">nhức đầu</span> , <span class="selected problem". start="15" end="17" line="4">nhức mỏi toàn_thân</span> , <span class="selected problem". start="19" end="20" line="4">ăn_uống kém</span> , <span class="selected problem". start="22" end="24" line="4">buồn_nôn sau ăn</span> .
+Bn <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện

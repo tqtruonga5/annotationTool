@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tiền Sử Bệnh
+KHỏe
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="5" line="6">sốt cao 3 ngày</span> , <span class="selected problem". start="7" end="8" line="6">đau_đầu nhiều</span> , <span class="selected problem". start="10" end="12" line="6">nhức mỏi cơ</span> , ăn_uống kém <span class="selected problem". start="16" end="16" line="6">mệt_mỏi</span> ở nhà <span class="selected treatment". start="19" end="21" line="6">tự uống efferalgan</span> khi sốt nhưng không bớt , <span class="selected problem". start="28" end="30" line="6">mệt nhiều hơn</span> - - - > NV - - - > Sau <span class="selected treatment". start="41" end="41" line="6">điều_trị</span> BN bớt sốt , còn đau_đầu xin xuất_viện vì bận việc gia_đình .

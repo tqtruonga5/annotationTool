@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+Khởi bệnh cách nhập_viện 2 ngày , bệnh_nhân <span class="selected problem". start="9" end="12" line="2">ho đau rát họng</span> .
+Tối hôm_qua <span class="selected problem". start="3" end="3" line="3">chóng_mặt</span> , <span class="selected problem". start="5" end="5" line="3">buồn_nôn</span> và <span class="selected problem". start="7" end="7" line="3">nôn</span> , tăng khi thay_đổi tư_thế .
+Hôm_nay <span class="selected problem". start="2" end="2" line="4">mệt</span> , <span class="selected problem". start="4" end="5" line="4">ho nhiều</span> , ở nhà uống <span class="selected treatment". start="10" end="10" line="4">MgB6</span> không giảm - - > khám vào viện
+Qua quá_trình điều_trị , bệnh ổn_định , ra viện

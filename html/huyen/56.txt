@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Tối_qua BN đo huyết_áp <span class="selected problem". start="5" end="6" line="2">150/80 mmHg</span> , đi khám BS tư <span class="selected problem". start="12" end="22" line="2">uống thuốc không rõ sau uống thuốc thấy chóng_mặt khi đi_lại</span> , than <span class="selected problem". start="25" end="26" line="2">mệt nhiều</span> - - - > Khám và điều_trị - - - > Sau điều_trị BN bớt mệt , huyết_áp ổn , hết chóng_mặt - - - > XV

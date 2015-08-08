@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="3" line="4">đau bụng</span> từ tối , <span class="selected problem". start="7" end="7" line="4">ói</span> 3 lần , <span class="selected problem". start="11" end="13" line="4">tiêu phân vàng</span> , sốt không rõ , <span class="selected problem". start="19" end="22" line="4">đau lan khắp bụng</span> , gia_đình đưa bệnh_nhân vào cấp_cứu .
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="6">Tăng huyết_áp</span> .
+Điều Trị
+chuyển bệnh_nhân lên phòng mổ để phẫu_thuật

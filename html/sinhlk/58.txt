@@ -1,0 +1,10 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">Phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="4">Viêm ruột_thừa cấp</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 26 tuổi , Bệnh_nhân khai <span class="selected problem". start="8" end="9" line="6">đau thượng_vị</span> từ 16 giờ ngày 23/06 , đau liên_tục kèm theo <span class="selected problem". start="20" end="21" line="6">nôn ói</span> , vào cấp_cứu khám : đau <span class="selected problem". start="28" end="30" line="6">bụng vùng thượng_vị</span> , lan 1/4 bên ( P ) , <span class="selected problem". start="39" end="42" line="6">phan ứng bụng rõ</span> , <span class="selected problem". start="44" end="44" line="6">Macburney</span> ( + ) , <span class="selected test". start="49" end="49" line="6">siêu_âm</span> hình_ảnh ruột_thừa viêm , xét_nghiệm <span class="selected problem". start="55" end="57" line="6">bạch_cầu tăng cao</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="7">Viêm ruột_thừa cấp</span> .
+Phẫu_thuật cắt ruột_thừa qua nội_soi , sau phẫu_thuật bệnh ổn_định , vết mổ khô , cho bệnh_nhân xuất_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">Phẫu_thuật</span>

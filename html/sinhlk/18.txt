@@ -1,0 +1,2 @@
+Bệnh Lý
+2 ngày_nay bệnh_nhân <span class="selected problem". start="4" end="4" line="2">ho</span> , <span class="selected problem". start="6" end="8" line="2">khạc đàm vàng</span> kèm theo khò_khè , <span class="selected problem". start="13" end="15" line="2">sốt ớn lạnh</span> , <span class="selected problem". start="17" end="17" line="2">mệt</span> , <span class="selected problem". start="19" end="20" line="2">ăn_uống kém</span> - - > khám vào viện .

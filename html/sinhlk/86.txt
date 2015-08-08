@@ -1,0 +1,7 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > nhập ICU điều_trị - - > Bệnh_nhân được <span class="selected treatment". start="14" end="15" line="4">bù dịch</span> , <span class="selected treatment". start="17" end="20" line="4">nâng đở cơ thề</span> - - > <span class="selected treatment". start="24" end="25" line="4">điều_trị loãng_xương</span> - - - > <span class="selected treatment". start="30" end="32" line="4">mang nẹp lưng</span> .
+Sau 3 ngày điều_trị gia_đình xin về địa_phương điều_trị tiếp
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">nội_khoa</span>

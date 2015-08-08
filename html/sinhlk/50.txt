@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="3" line="2">mệt</span>
+Tổng Kết Bệnh Lý
+Hai ngày_nay bệnh_nhân <span class="selected problem". start="4" end="4" line="4">sốt</span> , <span class="selected problem". start="6" end="6" line="4">ho</span> , <span class="selected problem". start="8" end="8" line="4">sổ_mũi</span> , <span class="selected problem". start="10" end="10" line="4">đau_đầu</span> , <span class="selected problem". start="12" end="12" line="4">chóng_mặt</span> , <span class="selected problem". start="14" end="15" line="4">hoa mắt</span> khi thay_đổi tư_thế , <span class="selected problem". start="20" end="20" line="4">mệt</span> - - > khám vào viện - - - > Sau điều_trị bệnh_nhân hết chóng_mặt , hết đau_đầu , cảm_giác chủ_quan khỏe - - - > Xuất_viện .

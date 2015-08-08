@@ -1,0 +1,7 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân thấy <span class="selected problem". start="3" end="8" line="4">hai chi dưới không cử_động được</span> - - > <span class="selected treatment". start="12" end="15" line="4">nhập Icu diều trị</span>
+Bệnh_nhân tỉnh , đi_lại được , xin xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">nội_khoa</span>

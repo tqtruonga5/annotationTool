@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">co_giật</span>
+Bệnh Lý
+cháu đi tập bơi từ sáng , chiều nay <span class="selected problem". start="10" end="10" line="4">tiêu_chảy</span> 2 lần , <span class="selected problem". start="14" end="15" line="4">sốt cao</span> trên 39 độ C , lúc 18 giờ người_nhà cho uống thuốc <span class="selected treatment". start="28" end="29" line="4">hạ sốt</span> xong cháu <span class="selected problem". start="32" end="34" line="4">lên_cơn co_giật toàn_thân</span> , <span class="selected problem". start="36" end="37" line="4">trợn mắt</span> khoảng 2 phút - - > nhập_viện cấp_cứu : <span class="selected treatment". start="47" end="47" line="4">Efferalgan</span> 150 mg nhét HM , <span class="selected treatment". start="53" end="53" line="4">Seduxen</span> 10 mg 1/2 ống bơm HM
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="8">hạ sốt</span> , <span class="selected treatment". start="4" end="5" line="8">chống co_giật</span> , <span class="selected treatment". start="7" end="10" line="8">bù nước điện giải</span> , tìm nguyên_nhân điều_trị

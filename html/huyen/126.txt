@@ -1,0 +1,5 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">Phẫu_thuật</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ khai <span class="selected problem". start="4" end="10" line="4">1 tuần nay đi_cầu ra máu nhiều</span> , <span class="selected problem". start="12" end="14" line="4">chưa điều_trị gì</span> - - > vào khám .
+Chẩn_đoán : <span class="selected problem". start="3" end="6" line="5">Trĩ nội độ III</span> .

@@ -1,0 +1,7 @@
+Bệnh Lý
+bé bị bệnh khoảng 4 ngày_nay , ở nhà bé có <span class="selected problem". start="12" end="12" line="2">sốt</span> nhẹ , <span class="selected problem". start="15" end="16" line="2">thở khò_khè</span> , <span class="selected problem". start="18" end="18" line="2">sổ_mũi</span> , ho đã đi khám được chẩn_đoán <span class="selected problem". start="26" end="29" line="2">viêm mũi họng cấp</span> - <span class="selected problem". start="31" end="33" line="2">viêm phế_quản phổi</span> / <span class="selected problem". start="35" end="36" line="2">dị_ứng da</span> đang được điều_trị bằng <span class="selected treatment". start="41" end="41" line="2">zenodem</span> , <span class="selected treatment". start="43" end="43" line="2">solupred</span> , <span class="selected treatment". start="45" end="45" line="2">salbutamol</span> nhưng không đỡ .
+Ngày_nay bé ăn <span class="selected problem". start="4" end="6" line="3">ói nhiều lần</span> , <span class="selected problem". start="8" end="10" line="3">ho nặng tiếng</span> hơn - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="7">khí dung</span> , <span class="selected treatment". start="6" end="6" line="7">corticoid</span> , giảm ho

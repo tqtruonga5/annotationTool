@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tổng Kết Bệnh Lý
+Bệnh ngày qua , BN <span class="selected problem". start="6" end="9" line="4">đau quặn bụng hạ_vị</span> , kèm theo <span class="selected problem". start="13" end="13" line="4">mệt</span> , <span class="selected problem". start="15" end="17" line="4">không tiêu lỏng</span> , <span class="selected problem". start="19" end="22" line="4">không no 6o ói</span> , <span class="selected problem". start="24" end="25" line="4">không sốt</span> .
+BN tự <span class="selected treatment". start="3" end="5" line="5">mua thuốc uống</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện

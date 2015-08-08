@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân nah 65p viện vì <span class="selected problem". start="6" end="6" line="2">sốt</span> , <span class="selected problem". start="8" end="9" line="2">tiêu lỏng</span> , <span class="selected problem". start="11" end="12" line="2">ớn lạnh</span> , đau_đầu
+Diễn_tiến :
+- N1 : 2 giờ sau nhập_viện <span class="selected test". start="8" end="9" line="4">HA tụt</span> còn 70/40 mmHg - > Hồi_sức : <span class="selected treatment". start="17" end="18" line="4">truyền dịch</span> + <span class="selected treatment". start="20" end="21" line="4">vận mạch</span> + <span class="selected treatment". start="23" end="23" line="4">kháng_sinh</span>
+- N2 : Ngưng được thuốc vận mạch , BN hết sốt , hết đau bụng , hết tiêu lỏng
+- N6 : Bệnh_nhân ổn dịnh sau khi <span class="selected treatment". start="9" end="10" line="6">dùng kháng_sinh</span> được 7 ngày - > xuất_viện

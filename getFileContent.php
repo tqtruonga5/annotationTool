@@ -1,15 +1,15 @@
 <?php
-	if(!isset($_GET['file']) || empty($_GET['file'])){
+	if(!isset($_GET['file']) || empty($_GET['file']) || !isset($_GET['folder']) || empty($_GET['folder'])){
 		echo "Error";
 		return;
 	}
+	$folder = $_GET['folder'];
 	$file = $_GET["file"];
 
-	$doc = "doc/";
-	$mention = "mention/";
-	$html = "html/";
-	$relation = "relation/";
-
+	$doc = "doc/$folder/";
+	$mention = "mention/$folder/";
+	$html = "html/$folder/";
+	$relation = "relation/$folder/";
 	if(file_exists($html.$file))
 	{
 		$lines = file($html.$file, FILE_IGNORE_NEW_LINES);

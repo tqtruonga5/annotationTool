@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+bệnh 03 ngày , mẹ khai bé <span class="selected problem". start="8" end="8" line="4">sốt</span> từ 16h chiều 27/6 sau khi <span class="selected treatment". start="15" end="17" line="4">tiêm ngừa VNNB_B</span> sáng , <span class="selected problem". start="20" end="21" line="4">sốt nhẹ</span> đến <span class="selected problem". start="23" end="24" line="4">sốt vừa</span> đến 2h sáng 28/6 - > chiều 16h 29/6 bé sốt lại , đến 20h30 bé <span class="selected problem". start="41" end="42" line="4">sốt cao</span> 39.9 , mẹ bé <span class="selected treatment". start="47" end="51" line="4">nhét HM 1 viên efferalgan</span> 150mg - > nv .
+Bé ói 2 lần trước lúc 1 nv và lúc nv không đàm máu .
+bé không ho .
+bé ăn bú tiêu tiểu khá .
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">nội</span>

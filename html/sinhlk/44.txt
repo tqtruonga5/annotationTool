@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Khởi bệnh sáng nay , bệnh_nhân <span class="selected problem". start="7" end="7" line="2">chóng_mặt</span> ( nhà xoay ) , <span class="selected problem". start="13" end="13" line="2">đau_đầu</span> , <span class="selected problem". start="15" end="15" line="2">buồn_nôn</span> , ở nhà uống thuốc không giảm - - > khám vào viện - - - > Sau điều_trị BN hết chóng_mặt , buồn_nôn , cảm_giác chủ_quan khỏe - - - > XV .

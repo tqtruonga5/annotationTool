@@ -1,0 +1,6 @@
+c="nhập ICU" 6:2 6:3||r="PIP"||c="Viêm sung_huyết phình vị" 6:9 6:12
+c="nhập ICU" 6:2 6:3||r="PIP"||c="mức_độ nhẹ" 6:14 6:15
+c="điều_trị thuốc" 6:19 6:20||r="TrWP"||c="nhập ICU" 6:2 6:3
+c="Viêm sung_huyết phình vị" 6:9 6:12||r="PIP"||c="mức_độ nhẹ" 6:14 6:15
+c="điều_trị thuốc" 6:19 6:20||r="TrWP"||c="Viêm sung_huyết phình vị" 6:9 6:12
+c="điều_trị thuốc" 6:19 6:20||r="TrWP"||c="mức_độ nhẹ" 6:14 6:15

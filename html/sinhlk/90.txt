@@ -1,0 +1,4 @@
+Tiền Sử Bệnh
+Chưa rõ
+Tổng Kết Bệnh Lý
+Khoảng 4 ngày_nay bệnh_nhân <span class="selected problem". start="5" end="6" line="4">đau bụng</span> nhiều vùng thượng_vị , <span class="selected problem". start="11" end="14" line="4">chướng bụng sau ăn</span> , <span class="selected problem". start="16" end="17" line="4">ợ hơi</span> , tối_qua bệnh_nhân <span class="selected problem". start="21" end="22" line="4">đau bụng</span> nhiều hơn , <span class="selected problem". start="26" end="31" line="4">nôn ói ra dịch màu hồng</span> , <span class="selected problem". start="33" end="34" line="4">ăn_uống kém</span> , <span class="selected problem". start="36" end="36" line="4">mệt_mỏi</span> - - - > Nhập_viện - - - > Sau điều_trị BN bớt đau bụng , không nôn ói , bớt mệt - - - - > Xuất_viện

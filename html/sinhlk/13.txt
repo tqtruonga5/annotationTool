@@ -1,0 +1,6 @@
+Bệnh Lý
+Cháu bệnh 6 ngày_nay <span class="selected problem". start="5" end="5" line="2">sốt</span> , <span class="selected problem". start="7" end="10" line="2">ho có đàm nhiều</span> , <span class="selected problem". start="12" end="13" line="2">ói nhiều</span> , <span class="selected problem". start="15" end="16" line="2">quấy khóc</span> , <span class="selected problem". start="18" end="19" line="2">bỏ ăn</span> có khám BV Nhi_đồng có làm XN , Chụp XQ cấp toa nhưng cháu uồng thuốc không được , hôm_qua <span class="selected problem". start="40" end="42" line="2">tiêu phân lỏng</span> - - > khám
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="6">kháng_viêm</span> , men vi_sinh <span class="selected treatment". start="7" end="9" line="6">, chống ói</span>

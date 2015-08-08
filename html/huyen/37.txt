@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Bệnh tuần nay , BN <span class="selected problem". start="6" end="12" line="2">đau dọc mạn sườn ( T )</span> , <span class="selected problem". start="14" end="18" line="2">kèm theo chóng_mặt khi đi_lại</span> , <span class="selected problem". start="20" end="22" line="2">buồn_nôn sau ăn</span> , <span class="selected problem". start="24" end="25" line="2">mệt nhiều</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau điều_trị bệnh còn sốt cao liên_tục , cho BN xuất_viện theo yêu_cầu điều_trị tự_túc
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span>

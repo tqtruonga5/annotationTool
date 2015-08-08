@@ -1,0 +1,1 @@
+c="đau lưng" 9:2 9:3||r="PIP"||c="đau vùng hạ sườn phải lan ra sau lưng" 9:8 9:16

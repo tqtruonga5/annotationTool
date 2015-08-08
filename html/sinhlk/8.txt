@@ -1,0 +1,6 @@
+Bệnh Lý
+Bé ở nhà quấy khóc , bú ọc ít , <span class="selected problem". start="11" end="14" line="2">rốn rỉ dịch vàng</span> , không sốt .
+Được chăm_sóc rốn mỗi ngày bằng <span class="selected treatment". start="7" end="7" line="3">cồn</span> và <span class="selected treatment". start="9" end="9" line="3">milian</span> , uống <span class="selected treatment". start="12" end="13" line="3">vitamin D</span> .
+Đến kì khám định_kỳ người_nhà đưa bé đi khám - - > nhập_viện
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span> , <span class="selected treatment". start="3" end="4" line="6">chăm_sóc rốn</span> , <span class="selected treatment". start="6" end="7" line="6">nhỏ mũi</span> , <span class="selected treatment". start="9" end="10" line="6">chống ọc</span>

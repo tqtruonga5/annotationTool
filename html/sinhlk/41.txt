@@ -1,0 +1,5 @@
+Tiền Sử Bệnh
+bình_thường
+Tổng Kết Bệnh Lý
+Bệnh 2 ngày_nay <span class="selected problem". start="4" end="6" line="4">sưng dưới hàm</span> ( P ) , <span class="selected problem". start="11" end="14" line="4">sưng vùng má trái</span> , <span class="selected problem". start="16" end="17" line="4">nuốt đau</span> , <span class="selected problem". start="19" end="19" line="4">sốt</span> .
+Sau điều_trị BN ổn - - > ra viện

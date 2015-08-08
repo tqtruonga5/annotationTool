@@ -1,0 +1,2 @@
+c="PT tán sỏi niệu_quản" 12:11 12:14||r="TrWP"||c="Soỉ kẹt niệu_quản" 12:3 12:5
+c="sonde JJ" 12:20 12:21||r="TrWP"||c="Soỉ kẹt niệu_quản" 12:3 12:5

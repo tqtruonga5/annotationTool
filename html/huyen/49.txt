@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Viêm dạ_dày</span>
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="9" line="4">đau nhiều vùng thượng_vị</span> , kèm theo <span class="selected problem". start="13" end="17" line="4">nôn ói thức_ăn sau ăn</span> , <span class="selected problem". start="19" end="25" line="4">tiêu lỏng 5 lần không đàm máu</span> , <span class="selected problem". start="27" end="28" line="4">mệt nhiều</span> .
+BN điều tr 5i không rõ bệnh không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="3" line="9">Ức_chế bơm proton</span>

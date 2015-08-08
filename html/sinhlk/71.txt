@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Khoảng 7h30 sáng nay sau khi ngủ dậy bệnh_nhân đột_ngột <span class="selected problem". start="11" end="11" line="2">chóng_mặt</span> ( nhà xoay ) , <span class="selected problem". start="17" end="17" line="2">buồn_nôn</span> , <span class="selected problem". start="19" end="19" line="2">mệt</span> .
+Ở nhà uống thuốc ( <span class="selected treatment". start="6" end="7" line="3">hạ huyết_áp</span> , <span class="selected treatment". start="9" end="9" line="3">betaserc</span> , <span class="selected treatment". start="11" end="11" line="3">cinnarizin</span> , <span class="selected treatment". start="13" end="13" line="3">piracetam</span> , <span class="selected treatment". start="15" end="15" line="3">tanganil</span> ) - - > khám vào viện . - - - >
+Sau điều_trị BN bớt chóng_mặt cảm_giác chủ_quan khỏe - - - > XV

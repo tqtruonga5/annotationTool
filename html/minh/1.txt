@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Ho</span> , <span class="selected problem". start="3" end="3" line="2">khò_khè</span>
+Bệnh Lý
+Bé <span class="selected problem". start="2" end="2" line="4">sốt</span> , <span class="selected problem". start="4" end="4" line="4">ho</span> 6 ngày_nay , khám điều_trị <span class="selected problem". start="10" end="11" line="4">Viêm phế_quản</span> với <span class="selected treatment". start="13" end="13" line="4">Zenodem</span> 3 ngày , nay bé hết <span class="selected problem". start="20" end="20" line="4">sốt</span> , <span class="selected problem". start="22" end="23" line="4">ho nhiều</span> , khò_khè - - - > tái khám - - - > nhập_viện
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="6">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="6">long đàm</span> , <span class="selected treatment". start="8" end="9" line="6">giãn phế_quản</span> ( KD ) .

@@ -1,0 +1,4 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Tăng huyết_áp</span>
+Tổng Kết Bệnh Lý
+Chiều nay bệnh_nhân <span class="selected problem". start="4" end="4" line="4">mệt</span> , tự đo huyết_áp thấy <span class="selected problem". start="10" end="10" line="4">huyết_áp_cao</span> , <span class="selected problem". start="12" end="13" line="4">mệt nhiều</span> - - - > Nhập_viện - - - > Sau điều_trị Bn cảm_giác chủ_quan khỏe xuất_viện theo yêu_cầu của BN .

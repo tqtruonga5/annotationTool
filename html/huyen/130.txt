@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Khó thở</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 44 tuổi , <span class="selected problem". start="6" end="16" line="4">Bệnh_nhân bị K phổi đã phẫu_thuật cách đây # 01 năm</span> , <span class="selected problem". start="18" end="21" line="4">hom qua làm mệt</span> , <span class="selected problem". start="23" end="25" line="4">bị khó thở</span> , vào viện .
+<span class="selected treatment". start="1" end="2" line="5">Điều_trị nội_khoa</span> , bệnh ổn_định , thở đều , da niêm hồng , cho bệnh_nhân xuất_viện .

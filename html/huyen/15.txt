@@ -1,0 +1,8 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Viêm dạ_dày</span>
+Tổng Kết Bệnh Lý
+Bệnh 2 ngày_nay , BN <span class="selected problem". start="6" end="7" line="4">đau_đầu nhiều</span> , kèm theo <span class="selected problem". start="11" end="12" line="4">nghẹt mũ</span> , <span class="selected problem". start="14" end="18" line="4">sốt ớn lạnh về chiều</span> , <span class="selected problem". start="20" end="20" line="4">mệt</span> .
+BN điều tri không giảm khám nhập_viện .
+Sau điều_trị bệnh ổn xuất_viện theo yêu_cầu
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span>

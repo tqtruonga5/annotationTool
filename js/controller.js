@@ -8,18 +8,29 @@ labeler.filter('unsafe', function($sce) {
 
 
 labeler.controller('emrList', function($scope, $http){
-	$http.get('getFileList.php').success(function(data){
-		$scope.files = data;
+	$http.get('getFolderList.php').success(function(data){
+		$scope.folders = data;
 	})
+	//$http.get('getFileList.php').success(function(data){
+	//	$scope.files = data;
+	//})
+	$scope.getFiles = function(folderSel){
+		var foSelected = document.getElementById('folder');
+		var folder = (folderSel == null)? 'diepdt': folderSel;
+		$http.get('getFileList.php?folder='+folder).success(function(data){
+			$scope.files = data;
+		})
+	}
+	
 	$scope.content = [];
 	$scope.mentions = [];
 	$scope.relations = [];
 
 	$scope.filename = "";
 
-	$scope.getContent = function(filename){
+	$scope.getContent = function(folder, filename){
 		$scope.filename = filename;
-		$http.get('getFileContent.php?file='+filename).success(function(data){
+		$http.get('getFileContent.php?folder='+folder+'&file='+filename).success(function(data){
 			$scope.content = data.content;
 			$scope.mentions = data.mention;
 			$scope.msg = "";

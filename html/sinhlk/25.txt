@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">khó thở</span>
+Bệnh Lý
+Ngày_nay bé <span class="selected problem". start="3" end="3" line="4">khò_khè</span> nhiều đã đi khám được chẩn_đoán <span class="selected problem". start="10" end="12" line="4">Viêm phổi nặng</span> đề_nghị nhập_viện nhưng gia_đình không đồng_ý .
+Tối nay sau khi uống xong cữ <span class="selected treatment". start="8" end="9" line="5">thuốc Zenodem</span> và <span class="selected treatment". start="11" end="11" line="5">solupred</span> bé <span class="selected treatment". start="13" end="15" line="5">khó thở nhiều</span> - - > khám
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="7">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="7">khí dung</span> , <span class="selected treatment". start="8" end="10" line="7">nâng_đỡ tổng trạng</span>

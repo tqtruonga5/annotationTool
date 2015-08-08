@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">sốt</span>
+Bệnh Lý
+Cháu bệnh 3 ngày_nay , với <span class="selected problem". start="7" end="7" line="4">sốt</span> , <span class="selected problem". start="9" end="10" line="4">sốt vừa</span> , không liên_tục , thỉnh thoãng than <span class="selected problem". start="18" end="19" line="4">đau hong</span> ( P ) . Có điều_trị nhưng chưa giảm . Hôm_nay , bé <span class="selected problem". start="33" end="33" line="4">sốt</span> , sốt cao , <span class="selected problem". start="38" end="41" line="4">đau nhiều hong (</span> P ) , kèm <span class="selected problem". start="46" end="47" line="4">thở mệt</span> , <span class="selected problem". start="49" end="50" line="4">thở nhanh</span>
+Tiền Sử Bệnh
+khỏe

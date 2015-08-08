@@ -1,0 +1,6 @@
+Bệnh Lý
+Cháu bệnh khoãng nửa tháng nay , với <span class="selected problem". start="9" end="9" line="2">sốt</span> , <span class="selected problem". start="11" end="12" line="2">sốt vừa</span> , dao_động kéo_dài , kèm <span class="selected problem". start="18" end="20" line="2">tiêu phân lỏng</span> , ngày vài lần , không nhầy máu , <span class="selected problem". start="30" end="30" line="2">ho</span> , <span class="selected problem". start="32" end="32" line="2">sổ_mũi</span> . Cháu có khám bệnh ND 2 <span class="selected problem". start="40" end="42" line="2">Viêm_Mũi họng cấp</span> , nhưng chưa giảm . Hôm_nay , cháu vẩn còn <span class="selected problem". start="53" end="53" line="2">sốt</span> , <span class="selected problem". start="55" end="55" line="2">sổ_mũi</span> , <span class="selected problem". start="57" end="59" line="2">tiêu phân lỏng</span> , <span class="selected problem". start="61" end="61" line="2">mệt</span> , <span class="selected problem". start="63" end="64" line="2">ăn kém</span>
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="6">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="6">khí dung</span> , <span class="selected treatment". start="8" end="10" line="6">điều_trị nâng đở</span>

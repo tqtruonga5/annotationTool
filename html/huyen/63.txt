@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Khởi bệnh cách nhập_viện 03 ngày , bệnh_nhân <span class="selected problem". start="9" end="12" line="2">đau tức vùng thượng_vị</span> , <span class="selected problem". start="14" end="15" line="2">ợ hơi</span> .
+Tối nay <span class="selected problem". start="3" end="5" line="3">đau bụng nhiều</span> kèm <span class="selected problem". start="7" end="7" line="3">đau_đầu</span> , <span class="selected problem". start="9" end="9" line="3">chóng_mặt</span> , ở nhà <span class="selected problem". start="13" end="16" line="3">uống thuốc không giảm</span> - - > vào viện .
+Sau điều tr 5i bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Hạ_áp</span>

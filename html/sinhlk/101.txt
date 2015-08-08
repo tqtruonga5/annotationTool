@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bn khai hôm_qua bị <span class="selected problem". start="5" end="5" line="2">bón</span> có <span class="selected treatment". start="7" end="10" line="2">uống 1 gói Duphalac</span> , hôm_nay sau khi ăn dưa_hấu khoảng 6 giờ , <span class="selected problem". start="21" end="22" line="2">tiêu lỏng</span> 4 lần + <span class="selected problem". start="26" end="26" line="2">Nôn</span> , <span class="selected problem". start="28" end="32" line="2">đau quặn bụng từng cơn</span> - - > Nhập_viện - - - > Sau điều_trị Bn hết tiêu lỏng , bớt đau bụng , không nôn ói .

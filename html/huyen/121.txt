@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Ho</span>
+Bệnh Lý
+Bệnh_nhân ho kéo_dài 3 tháng nay , <span class="selected problem". start="8" end="11" line="4">ho nhiều về đêm</span> , <span class="selected problem". start="13" end="17" line="4">nặng ngực ( T )</span> , <span class="selected problem". start="19" end="21" line="4">khó thở nhẹ</span> , <span class="selected problem". start="23" end="25" line="4">nhiều đàm nhớt</span> , <span class="selected problem". start="27" end="27" line="4">mệt_mỏi</span> - - - > Nhập_viện .
+Tổng Kết Bệnh Lý
+<span class="selected problem". start="1" end="6" line="6">Bệnh_nhân ho kéo_dài 3 tháng nay</span> , <span class="selected problem". start="8" end="11" line="6">ho nhiều về đêm</span> , <span class="selected problem". start="13" end="17" line="6">nặng ngực ( T )</span> , <span class="selected problem". start="19" end="21" line="6">khó thở nhẹ</span> , <span class="selected problem". start="23" end="25" line="6">nhiều đàm nhớt</span> , <span class="selected problem". start="27" end="27" line="6">mệt_mỏi</span> - - - > Nhập_viện - - - > Sau điều_trị bệnh_nhân bớt ho , không khó thở , không đau ngực , cảm_giác chủ_quan khỏe - - - > Xuất_viện

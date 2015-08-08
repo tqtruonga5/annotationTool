@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Bệnh đang điều_trị <span class="selected problem". start="4" end="9" line="2">đau khớp gối ( T )</span> , <span class="selected problem". start="11" end="13" line="2">đau thần_kinh tọa</span> tại khoa_ngoại .
+Hiện tạn bệnh_nhân <span class="selected problem". start="4" end="5" line="3">chóng_mặt nhiều</span> , <span class="selected problem". start="7" end="10" line="3">HA dao_động không ổn_định</span> được <span class="selected treatment". start="12" end="16" line="3">hội_chẩn chuyển khoa_nội điều_trị tiếp</span> .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Hạ_áp</span>

@@ -1,0 +1,7 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="11" line="2">đau ngực nhiều sau xương ức</span> , <span class="selected problem". start="13" end="17" line="2">kèm theo cảm_giác khó thở</span> , <span class="selected problem". start="19" end="20" line="2">ăn_uống kém</span> , <span class="selected problem". start="22" end="22" line="2">chóng_mặt</span> , <span class="selected problem". start="24" end="28" line="2">đau_nhức khớp cổ_chân khi đi_lại</span> , <span class="selected problem". start="30" end="31" line="2">mệt nhiều</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="2" line="6">Hạ đường_huyết</span>
+<span class="selected treatment". start="1" end="1" line="7">Hạ_áp</span>

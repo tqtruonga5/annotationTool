@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+bệnh 08 ngày , mẹ khai bé <span class="selected problem". start="8" end="9" line="4">sốt vừa</span> , <span class="selected problem". start="11" end="12" line="4">sốt cao</span> mỗi ngảy , đã điều_trị bệnh_viện Nhi_Đồng 2 toa nhưng vẫn sốt mỗi ngày ( mẹ bé không mang theo toa , xet nghiệm cũ , không rõ chẩn_đoán ) .
+sáng đến chiều 1/5 bé <span class="selected problem". start="6" end="7" line="5">sốt cao</span> kèm <span class="selected problem". start="9" end="9" line="5">ói</span> 1 lần lúc trưa , kèm <span class="selected problem". start="16" end="17" line="5">ăn_uống ít</span> - > nv .
+bé tiêu tiểu bình_thường .
+Tiền Sử Bệnh
+chưa phát_hiện bất_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">nội</span>

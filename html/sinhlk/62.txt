@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">khó thở</span>
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="4">Tăng huyết_áp</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bênh nhân <span class="selected problem". start="3" end="4" line="8">thở yếu</span> - - > nhập Icu điều_trị - - > <span class="selected treatment". start="14" end="15" line="8">hút đàm</span> , ổn_định huyết_áp , <span class="selected treatment". start="20" end="22" line="8">dinh_dưỡng đường tĩnh_mạch</span> , <span class="selected treatment". start="24" end="28" line="8">nuôi ăn qua sonde dạ_dày</span> .
+Hiện bệnh_nhân tạm ổn_định , cho bệnh_nhân xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">nội_khoa</span>

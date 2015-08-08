@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Ho</span>
+<span class="selected problem". start="1" end="1" line="3">Ho</span>
+Bệnh Lý
+Khoảng 2 tuần nay bệnh_nhân <span class="selected problem". start="6" end="10" line="5">ho khạc đàm vàng nhạt</span> , 2 ngày_nay <span class="selected problem". start="14" end="15" line="5">ho nhiều</span> , khạc <span class="selected problem". start="18" end="21" line="5">đàm màu vàng đặc</span> kèm <span class="selected problem". start="23" end="26" line="5">chảy mũi nước_màu vàng</span> , <span class="selected problem". start="28" end="28" line="5">ngạt_mũi</span> , <span class="selected problem". start="30" end="30" line="5">mệt</span> - - > khám vào viện

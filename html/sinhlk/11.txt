@@ -1,0 +1,3 @@
+Bệnh Lý
+Khoảng 1 tuần nay bệnh_nhân than <span class="selected problem". start="7" end="11" line="2">đau ngực sau xương ức</span> khi mệt , <span class="selected problem". start="15" end="15" line="2">căng_thẳng</span> , <span class="selected problem". start="17" end="17" line="2">tức_giận</span> , kéo_dài khoảng 15 phút , không lan , tự hết , không kèm sốt , ho .
+Hôm_nay <span class="selected problem". start="2" end="4" line="3">Đau ngực nhiều</span> , <span class="selected problem". start="6" end="6" line="3">mệt</span> - - > khám vào viện

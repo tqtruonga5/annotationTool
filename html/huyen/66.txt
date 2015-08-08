@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân vừa xuất_viện buổi chiều BV Vũ_Anh về nhà <span class="selected problem". start="10" end="11" line="2">đau_đầu chóng_mặt</span> - - - > NV - - - > Sau <span class="selected treatment". start="22" end="22" line="2">điều_trị</span> BN hết chóng_mặt , bớt đau_đầu , bớt mệt .

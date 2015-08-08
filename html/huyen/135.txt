@@ -1,0 +1,7 @@
+Tiền Sử Bệnh
+bình_thường
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="7" line="4">đau hông lưng ( P )</span>
+Chẩn_đoán : <span class="selected problem". start="3" end="7" line="5">Sỏi niệu_quản ( P )</span> . Được <span class="selected treatment". start="10" end="16" line="5">PT tán sỏi niệu_quản ( P )</span> + <span class="selected treatment". start="18" end="21" line="5">đặt sonde JJ niệu_quản</span> , sau PT bệnh ổn xuất_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="4" line="7">PT tán sỏi Laser</span> + <span class="selected treatment". start="6" end="7" line="7">đặt JJ</span>

@@ -1,0 +1,7 @@
+Bệnh Lý
+Bé bị bệnh khoảng 5 ngày_nay , <span class="selected problem". start="8" end="10" line="2">nổi ban đỏ</span> ngày_càng lan_rộng , ngứa , <span class="selected problem". start="16" end="16" line="2">ho</span> , <span class="selected problem". start="18" end="19" line="2">tiêu lỏng</span> , đã đi khám được chẩn_đoán <span class="selected problem". start="26" end="27" line="2">viêm họng</span> / <span class="selected problem". start="29" end="30" line="2">ban siêu_vi</span> .
+Ngày_nay ban lan_rộng hơn , <span class="selected problem". start="6" end="7" line="3">ngứa_ngáy khó_chịu</span> , bé <span class="selected problem". start="10" end="10" line="3">ho</span> , giảm tiêu lỏng - - > khám
+Tiền Sử Bệnh
+bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="7">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="7">kháng histamin</span> , <span class="selected treatment". start="8" end="10" line="7">nâng_đỡ tổng trạng</span> , <span class="selected treatment". start="12" end="13" line="7">men vi_sinh</span>

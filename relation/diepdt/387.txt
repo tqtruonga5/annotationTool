@@ -1,0 +1,4 @@
+c="khám" 2:11 2:11||r="TrWP"||c="ho" 2:2 2:2
+c="điều_trị" 2:13 2:13||r="TrWP"||c="ho" 2:2 2:2
+c="khám và viện" 3:10 3:12||r="TrWP"||c="ho nhiều" 3:5 3:6
+c="điều_trị" 3:18 3:18||r="TrWP"||c="ho nhiều" 3:5 3:6

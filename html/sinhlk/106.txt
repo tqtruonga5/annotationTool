@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Tăng huyết_áp</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > nhập ICU - - > <span class="selected treatment". start="11" end="12" line="6">truyền máu</span> , <span class="selected treatment". start="14" end="15" line="6">truyền Nexium</span>
+Bệnh_nhân tạm ổn_định , <span class="selected test". start="5" end="7" line="7">hết nôn máu</span> , <span class="selected problem". start="9" end="13" line="7">soi dạ_dày loét tá_tràng D2</span> . - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="3" line="9">ức_chế bơm proton</span>

@@ -1,0 +1,6 @@
+Tiền Sử Bệnh
+Không bệnh_lý gì
+Tổng Kết Bệnh Lý
+Cách 4 giờ <span class="selected problem". start="4" end="14" line="4">tự uống 50 mL nước dưỡng tóc chứa nhiều chất bay_hơi</span> , sau uống <span class="selected problem". start="18" end="18" line="4">buồn_nôn</span> , <span class="selected problem". start="20" end="21" line="4">không nôn</span> - > nhập_viện
+<span class="selected test". start="1" end="1" line="5">Khám</span> : <span class="selected problem". start="3" end="4" line="5">Tình táo</span> , <span class="selected problem". start="6" end="13" line="5">đồng_tử 2 mm , PXAS ( + )</span> , <span class="selected problem". start="15" end="17" line="5">sinh hiệu ổn_định</span> , <span class="selected problem". start="19" end="20" line="5">bụng mềm</span> , <span class="selected problem". start="22" end="25" line="5">không đau khú trú</span>
+Diễn_tiến : Bệnh ổn_định

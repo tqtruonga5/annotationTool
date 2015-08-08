@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai tối_qua <span class="selected problem". start="4" end="5" line="2">sốt_lạnh run</span> , <span class="selected problem". start="7" end="7" line="2">chóng_mặt</span> , <span class="selected problem". start="9" end="12" line="2">nhọt da vùng mu</span> , - - > khám vào viện - - - - > Sau điều_trị bệnh_nhân hết sốt , đường_huyết ổn - - - > Xuất_viện .

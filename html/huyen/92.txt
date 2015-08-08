@@ -1,0 +1,4 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">Kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="2">kháng_viêm</span> , <span class="selected treatment". start="5" end="7" line="2">nâng tổng trạng</span> .
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="2" line="4">sốt</span> 2 ngày chảy nước_mũi <span class="selected treatment". start="7" end="9" line="4">khám điều_trị ngoại_trú</span> BV Vũ_Anh nhưng <span class="selected problem". start="13" end="14" line="4">không bớt</span> nay <span class="selected problem". start="16" end="20" line="4">sốt cao kèm đau họng</span> - - > Nhập_viện

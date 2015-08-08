@@ -1,0 +1,6 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="2" line="4">mệt</span> - - > nhập ICU - - - > <span class="selected treatment". start="12" end="14" line="4">diều trị nội_khoa</span> - - > bệnh_nhân ổn_định - - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">nội_khoa</span>

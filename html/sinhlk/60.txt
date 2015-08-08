@@ -1,0 +1,13 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Sỏi túi_mật</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">phẫu_thuật</span>
+Tóm Tắt Khám Bệnh
+BN nữ 46 tuổi <span class="selected problem". start="5" end="9" line="6">đau quặn thận từng cơn</span> , <span class="selected test". start="11" end="11" line="6">siêu_âm</span> phát_hiện <span class="selected problem". start="13" end="14" line="6">sỏi túi_mật</span> khám nhập_viện .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="7">Sỏi túi_mật</span>
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="4" line="9">đau quặn thận</span> từng cơn , <span class="selected test". start="8" end="8" line="9">siêu_âm</span> phát_hiện <span class="selected problem". start="10" end="11" line="9">sỏi túi_mật</span> khám nhập_viện .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="10">Sỏi túi_mật</span> .
+Được <span class="selected treatment". start="2" end="5" line="11">PT cắt túi_mật nội_soi</span> , sau PT bệnh ổn xuất vện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected problem". start="1" end="4" line="13">PT cắt túi_mật nội_soi</span> .

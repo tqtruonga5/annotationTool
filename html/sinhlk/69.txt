@@ -1,0 +1,4 @@
+Tiền Sử Bệnh
+Khỏe
+Tổng Kết Bệnh Lý
+Khoảng 3 ngày_nay bệnh_nhân <span class="selected problem". start="5" end="6" line="4">sốt cao</span> liên_tục dao_động 39 - 40 độ , <span class="selected problem". start="14" end="14" line="4">đau_đầu</span> , <span class="selected problem". start="16" end="18" line="4">nhức mỏi cơ</span> , <span class="selected problem". start="20" end="21" line="4">đau họng</span> , <span class="selected problem". start="23" end="23" line="4">ho</span> , Chóng_mặt khi đi_lại kèm thêm <span class="selected problem". start="30" end="33" line="4">đau_nhức vùng khớp háng</span> ( T ) vận_động hạn_chế , <span class="selected problem". start="40" end="40" line="4">buồn_nôn</span> sau ăn , <span class="selected problem". start="44" end="47" line="4">đầy bụng khó tiêu</span> - - - > Khám và điều_trị - - - - > Sau điều_trị bệnh_nhân hết sốt , bớt ho , bớt đau khớp háng , bớt mệt - - - > Xuất_viện

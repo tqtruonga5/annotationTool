@@ -1,0 +1,5 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="2" line="4">sốt</span> 2 ngày_nay , kèm theo ho <span class="selected treatment". start="9" end="12" line="4">khám và điều_trị ngoại_trú</span> tại BV Quận 6 nhưng <span class="selected problem". start="18" end="20" line="4">không bớt sốt</span> và <span class="selected problem". start="22" end="24" line="4">ho nhiều hơn</span> -  Nhập_viện  <span class="selected problem". start="29" end="36" line="4">Bệnh_nhân sốt cao liên_tục kèm thêm đau họng</span> , <span class="selected problem". start="38" end="38" line="4">ho</span> , <span class="selected problem". start="40" end="41" line="4">ăn_uống kém</span> , <span class="selected problem". start="43" end="43" line="4">mệt_mỏi</span> .
+BN ổn xuất_viện .

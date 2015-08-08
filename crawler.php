@@ -131,9 +131,55 @@ function changeType($shortType){
     }
 
 }
-function createTextContent($arr,$order){
+
+function autoDeterRelation($section, $concepts, $line, $order){
+	$length = sizeof($concepts);
+	$textConceptRelation = '';
+	if ($length <= 1)
+		return;
+	switch ($section){
+		case 'LYDO':
+		case 'HB_BANTHAN':
+			for ($i=0; $i < $length-1; $i++){
+				for ($j=$i+1; $j < $length; $j++){
+					if ($concepts[$i]['type'] == 'PR' && $concepts[$j]['type'] == 'PR' && $concepts[$i]['content'] != $concepts[$j]['content']){
+						$textConceptRelation .= 'c="'.$concepts[$i]['content'].'" '.$line.':'.$concepts[$i]['fromWord'].
+							' '.$line.':'.$concepts[$i]['toWord'].'||r="PIP"||c="'.$concepts[$j]['content'].'" '.$line.':'.
+							$concepts[$j]['fromWord'].' '.$line.':'.$concepts[$j]['toWord']."\n";
+					}
+				}
+			}
+			break;
+		case 'HB_BENHLY':
+		case 'TK_BENHLY':
+		case 'KB_TOMTAT':
+			for ($i=0; $i < $length-1; $i++){
+				for ($j=$i+1; $j < $length; $j++){
+					if ($concepts[$i]['type'] == 'PR' && $concepts[$j]['type'] == 'PR' && $concepts[$i]['content'] != $concepts[$j]['content']){
+						$textConceptRelation .= 'c="'.$concepts[$i]['content'].'" '.$line.':'.$concepts[$i]['fromWord'].
+							' '.$line.':'.$concepts[$i]['toWord'].'||r="PIP"||c="'.$concepts[$j]['content'].'" '.$line.':'.
+							$concepts[$j]['fromWord'].' '.$line.':'.$concepts[$j]['toWord']."\n";
+					}
+					else if(($concepts[$i]['type'] == 'PR' && $concepts[$j]['type'] == 'TR' ||
+							$concepts[$j]['type'] == 'PR' && $concepts[$i]['type'] == 'TR') && $concepts[$i]['content'] != $concepts[$j]['content']){
+						$proConcept = ($concepts[$i]['type'] == 'PR') ? $i : $j;
+						$treatConcept = ($i +$j) - $proConcept;
+						$textConceptRelation .= 'c="'.$concepts[$treatConcept]['content'].'" '.$line.':'.$concepts[$treatConcept]['fromWord'].
+							' '.$line.':'.$concepts[$treatConcept]['toWord'].'||r="TrWP"||c="'.$concepts[$proConcept]['content'].'" '.$line.':'.
+							$concepts[$proConcept]['fromWord'].' '.$line.':'.$concepts[$proConcept]['toWord']."\n";
+					}
+				}
+			}
+			break;
+		default:
+	}
+	return $textConceptRelation;
+}
+
+function createTextContent($arr, $folder, $order){
     $textRecordContent = '';
     $textConceptContent = '';
+	$textConceptRelation = '';
     $htmlStr = '';
     $section = '';
     $countLine = 1;
@@ -147,7 +193,9 @@ function createTextContent($arr,$order){
             $htmlStr .= $changedSection."\n";
             $countLine++;
         }
-
+		
+		//relation
+		$textConceptRelation .= autoDeterRelation($sentence['section'], $sentence['concept'], $countLine, $order);
 
         $textRecordContent .= $sentence['content']."\n";
         $senArr = explode(" ",$sentence['content']);
@@ -170,16 +218,19 @@ function createTextContent($arr,$order){
         $countLine++;
     }
 
-    echo "Text : <hr/> ";
+    echo "Text ".$order." : <hr/> ";
     showData($textRecordContent);
-    writeToFile("doc/$order.txt",$textRecordContent);
+    writeToFile("doc/$folder/$order.txt",$textRecordContent);
     echo "Concept : <hr/> ";
     showData($textConceptContent);
-    writeToFile("mention/$order.txt",$textConceptContent);
+    writeToFile("mention/$folder/$order.txt",$textConceptContent);
+	echo "Relation : <hr/> ";
+	showData($textConceptRelation);
+	writeToFile("relation/$folder/$order.txt", $textConceptRelation);
 
     echo "html : <hr/> ";
     showData($htmlStr);
-    writeToFile("html/$order.txt",$htmlStr);
+    writeToFile("html/$folder/$order.txt",$htmlStr);
 }
 
 function writeToFile($fileName,$data){
@@ -189,13 +240,21 @@ function writeToFile($fileName,$data){
 }
 
 $arr_input = array(
-    'diepdt' => 418
+    array ('folder' => 'diepdt', 'num' => 418),
+	array ('folder' => 'huyen', 'num' => 148),
+	array ('folder' => 'khoi', 'num' => 8),
+	array ('folder' => 'minh', 'num' => 2),
+	array ('folder' => 'sinhlk', 'num' => 110),
+	array ('folder' => 'tuan', 'num' => 1)
     );
 // $content = getContent('diepdt','140506081955047000');
-for ($i = 1 ; $i <= $arr_input['diepdt']; $i++) {
-    $content = json_decode(file_get_contents("./json_data/diepdt/$i.json"),true);
+for ($i = 0 ; $i < sizeof($arr_input); $i++ ){
+	for ($j = 1; $j <= $arr_input[$i]['num']; $j++){
+		$folder = $arr_input[$i]['folder'];
+		$content = json_decode(file_get_contents("./json_data/$folder/$j.json"),true);
     // showData($content['listSentences']);
-    createTextContent($content['listSentences'],$i);
+		createTextContent($content['listSentences'],$folder,$j);
+	}   
 }
 
 

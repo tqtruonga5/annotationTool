@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="2" line="2">chóng_mặt</span> từ chiều , <span class="selected problem". start="6" end="10" line="2">chóng_mặt nhiều khi thay_đổi tư_thế</span> , <span class="selected problem". start="12" end="13" line="2">cảm_giác mệt_mỏi</span> - - - > Nhập_viện - - - > Sau điều_trị bệnh_nhân bớt mệt , hết chóng_mặt , cảm_giác chủ_quan khỏe - - - > Xuất_viện .

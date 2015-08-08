@@ -1,0 +1,6 @@
+Bệnh Lý
+bệnh 05 ngày , mẹ khai bé <span class="selected problem". start="8" end="8" line="2">sốt</span> từ chiều_tối 29/8 , <span class="selected problem". start="13" end="14" line="2">sốt cao</span> vừa mỗi ngày , qua nay sốt giảm , <span class="selected problem". start="24" end="26" line="2">ho tăng dần</span> , sáng giờ bé <span class="selected problem". start="31" end="32" line="2">ho nhiều</span> - > <span class="selected problem". start="35" end="35" line="2">ói</span> , kèm tự ói nhiều lần qua nay .
+Bé <span class="selected problem". start="2" end="3" line="3">ăn_uống ít</span> qua nay , bé tiểu bình_thường , <span class="selected problem". start="11" end="12" line="3">nước_tiểu vàng</span> , <span class="selected problem". start="14" end="16" line="3">phân lỏng ít</span> hôm_nay .
+Bé than <span class="selected problem". start="3" end="7" line="4">đau bụng ít vùng rốn</span> .
+Tiền Sử Bệnh
+khỏe

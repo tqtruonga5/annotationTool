@@ -1,0 +1,8 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Tăng huyết_áp</span> .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>
+Tổng Kết Bệnh Lý
+<span class="selected problem". start="1" end="2" line="6">Bệnh_nhân mệt</span> , <span class="selected test". start="4" end="5" line="6">tiểu ít</span> , <span class="selected test". start="7" end="8" line="6">xét_nghiệm máu</span> , <span class="selected treatment". start="10" end="11" line="6">điều_trị nội_khoa</span> , bệnh nặng , vượt quá chu 8ye6n môn , chuyển bệnh_nhân sang bệnh Viện_Chợ_Rẫy điều_trị tiếp
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">nội_khoa</span>

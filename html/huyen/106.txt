@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="4">Điều_trị triệu_chứng</span>
+Tổng Kết Bệnh Lý
+Bệnh 2 ngày_nay , BN <span class="selected problem". start="6" end="10" line="6">đau quặn bụng quanh rốn</span> , <span class="selected problem". start="12" end="15" line="6">lói ra sau lưng</span> , <span class="selected problem". start="17" end="22" line="6">kèm theo đầy bụng sau ăn</span> , <span class="selected problem". start="24" end="24" line="6">mệt</span> .
+BN <span class="selected treatment". start="2" end="2" line="7">điều_trị</span> không giảm khám nhập_viện .
+Sau điều tr 5i bệnh ổn cho xuất_viện

@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Khó thở</span>
+Tổng Kết Bệnh Lý
+Chiều ngày hôm trước BN <span class="selected problem". start="6" end="6" line="4">ho</span> , <span class="selected problem". start="8" end="10" line="4">đau rát họng</span> , <span class="selected problem". start="12" end="13" line="4">khó thở</span> , <span class="selected problem". start="15" end="16" line="4">thở khò_khè</span> , <span class="selected problem". start="18" end="19" line="4">không sốt</span> , không dùng thuốc .
+<span class="selected problem". start="1" end="3" line="5">Ho ra huyết</span> - - > cấp_cứu .
+BN bớt khó thở - - > xuất_viện

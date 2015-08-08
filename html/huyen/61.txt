@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Bệnh khoảng tuần nay , BN <span class="selected problem". start="7" end="10" line="2">ho đàm khó khạc</span> , kèm theo <span class="selected problem". start="14" end="17" line="2">tức ngực khi ho</span> , <span class="selected problem". start="19" end="21" line="2">sốt cao liên_tục</span> , <span class="selected problem". start="23" end="23" line="2">đau_đầu</span> , <span class="selected problem". start="25" end="26" line="2">ăn_uống kém</span> .
+BN tự <span class="selected treatment". start="3" end="5" line="3">mua thuốc uống</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="3" line="4">đều trị</span> bệnh ổn cho xuất_viện

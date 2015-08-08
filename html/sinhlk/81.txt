@@ -1,0 +1,10 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">Nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 36 tuổi , BN khai cách nhập_viện # 30 phút <span class="selected problem". start="13" end="17" line="6">đau quăn bụng từng cơn</span> , <span class="selected problem". start="19" end="21" line="6">bụng chướng nhẹ</span> , <span class="selected problem". start="23" end="26" line="6">tiêu phân ít_nhiều lần</span> , không sốt , vào khám : Bụng mềm , chướng hơi , <span class="selected problem". start="40" end="44" line="6">ấn đau bụng vùng hố_chậu</span> ( T ) .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="7">Viêm đại_tràng</span> .
+Điều_trị nội_khoa , bệnh ổn_định , cho bệnh_nhân xuất_viện , hẹn tái khám
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="10">Nội_khoa</span>

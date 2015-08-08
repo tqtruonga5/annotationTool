@@ -1,0 +1,11 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span> , <span class="selected problem". start="4" end="5" line="2">ho nhiều</span>
+Bệnh Lý
+Bệnh 03 ngày , mẹ bé khai bé <span class="selected problem". start="9" end="9" line="4">sốt</span> từ chiều_tối 29/4 kèm ho đàm .
+Qua nay bé ho nhiều - > ói , tự ói tăng dần , sốt cao khó hạ - > nv .
+Bé ăn_uống ít qua nay , tiểu được ít .
+phân không lỏng .
+Tiền Sử Bệnh
+chưa phát_hiện bất_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="11">nội</span>

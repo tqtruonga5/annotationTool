@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="3" line="2">đau bụng</span> kèm tiêu lõng nhiều lần <span class="selected problem". start="9" end="9" line="2">sốt</span> nên vào nhập_viện

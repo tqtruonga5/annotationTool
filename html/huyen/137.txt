@@ -1,0 +1,7 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">khó thở</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="2" line="4">ho</span> , <span class="selected problem". start="4" end="4" line="4">sốt</span> , <span class="selected problem". start="6" end="9" line="4">khó thở nhập ICU_</span> _ > điều_trị : <span class="selected treatment". start="14" end="15" line="4">khí dung</span> - - > <span class="selected treatment". start="19" end="19" line="4">kháng_sinh</span>
+Sau 2 ngày điều_trị , bệnh_nhân ổn_định cho bệnh_nhân xuất_viện .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>

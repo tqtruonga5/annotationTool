@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 71 tuổi vào viện với lý_do : Bệnh_nhân khai <span class="selected problem". start="12" end="13" line="2">cảm_thấy mệt_mỏi</span> , <span class="selected problem". start="15" end="16" line="2">sốt nhẹ</span> - - > vào viện tái khám
+<span class="selected problem". start="1" end="2" line="3">K tuyến_thượng_thận</span> ( P ) đã PT 2 lần năm 2010 , 2013 .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="4">K tuyến_thượng_thận</span> ( P ) tái_phát .
+<span class="selected treatment". start="1" end="2" line="5">Điều_trị nội_khoa</span> , <span class="selected treatment". start="4" end="6" line="5">nâng cao thể_trạng</span> .
+Sau điều_trị , bệnh đỡ mệt - - > xuất_viện .

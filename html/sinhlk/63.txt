@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Bn vừa xuất_viện chiều_qua với chẩn_đoán : <span class="selected problem". start="8" end="9" line="2">Nhiễm_trùng tiểu</span> - Di_chứng <span class="selected problem". start="12" end="14" line="2">nhồi máu não</span> cũ - <span class="selected problem". start="17" end="18" line="2">Hẹp thực_quản</span> .
+Tối nay <span class="selected problem". start="3" end="4" line="3">bí tiểu</span> - - > vào viện .
+Sau thời_gian d 9eiu62 trị Bn tạm ổn , xin xuất_viện .

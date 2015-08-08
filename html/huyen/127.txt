@@ -1,0 +1,15 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Nội_khoa</span>
+Tóm Tắt Khám Bệnh
+Chẩn_đoán : <span class="selected problem". start="3" end="6" line="8">Viêm túi_mật do sỏi</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 29 tuổi vào viện với lý_do : Bệnh_nhân <span class="selected problem". start="11" end="17" line="10">khai_sáng nay đau bụng quặn từng cơn</span> , <span class="selected problem". start="19" end="20" line="10">nôn ói</span> - - > vào viện
+<span class="selected test". start="1" end="2" line="11">Siêu_âm bụng</span> : <span class="selected problem". start="4" end="5" line="11">Sòi túi_mật</span> , <span class="selected problem". start="7" end="9" line="11">chướng hơi đại_tràng</span>
+Chẩn_đoán : <span class="selected problem". start="3" end="6" line="12">Viêm túi_mật do sỏi</span>
+<span class="selected treatment". start="1" end="2" line="13">Điều_trị nội_khoa</span> , Bệnh tạm ổn_định - - > xin về
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="15">Nội_khoa</span>

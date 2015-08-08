@@ -1,0 +1,8 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">viêm phế_quản</span>
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="9" line="4">ho đàm khó khạc</span> , kèm theo <span class="selected problem". start="13" end="16" line="4">thở khò_khè đàm nhớt</span> , <span class="selected problem". start="18" end="20" line="4">sốt ớn lạnh</span> , <span class="selected problem". start="22" end="23" line="4">ăn_uống kém</span> , <span class="selected problem". start="25" end="25" line="4">mệt</span> .
+BN <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span>

@@ -1,0 +1,2 @@
+Bệnh Lý
+Sáng nay bệnh_nhân <span class="selected problem". start="4" end="4" line="2">ho</span> , <span class="selected problem". start="6" end="6" line="2">sốt</span> có uống <span class="selected treatment". start="9" end="11" line="2">thuốc điều_trị cảm</span> ( không rỏ loại ) sau đó <span class="selected problem". start="19" end="20" line="2">ngứa toàn_thân</span> , <span class="selected problem". start="22" end="22" line="2">ói</span> - - > vào viện 175 - - > xin ra viện - - > Nhập_viện Vũ_Anh

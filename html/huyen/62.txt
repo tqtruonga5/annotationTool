@@ -1,0 +1,8 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="7" line="2">mệt nhiều</span> , kèm theo <span class="selected problem". start="11" end="12" line="2">ăn_uống kém</span> , <span class="selected problem". start="14" end="19" line="2">tiêu lỏng 3-4 lần / ngày</span> , <span class="selected problem". start="21" end="24" line="2">đau quặn bụng thượng_vị</span> .
+BN điều tri không giảm mệt nhiều hơn <span class="selected test". start="9" end="9" line="3">khám</span> nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="2" line="7">Hạ đường_huyết</span>
+<span class="selected treatment". start="1" end="1" line="8">Hạ_áp</span>

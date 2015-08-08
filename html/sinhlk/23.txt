@@ -1,0 +1,2 @@
+Bệnh Lý
+Bệnh_nhân té ngày 6/6 , <span class="selected problem". start="6" end="7" line="2">đau lưng</span> + <span class="selected problem". start="9" end="10" line="2">đau gồi</span> ( P ) có đi <span class="selected treatment". start="16" end="17" line="2">chích lể</span> ở bệnh_viện đông_y , nay <span class="selected problem". start="23" end="26" line="2">sưng đỏ đau gối</span> ( P ) uống thuốc không giảm - - - > NV

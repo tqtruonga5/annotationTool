@@ -1,0 +1,9 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">sốt cao</span>
+Bệnh Lý
+bệnh 03 ngày , ba bé khai bé <span class="selected problem". start="9" end="9" line="4">sốt</span> từ 22h đêm_tối 9/4/2014 , bé <span class="selected problem". start="16" end="17" line="4">sốt cao</span> qua nay .
+Bé <span class="selected problem". start="2" end="2" line="5">ho</span> ít từ 11/4/2014 , <span class="selected problem". start="7" end="7" line="5">ho</span> nhiều 3 ngày_nay kèm <span class="selected problem". start="12" end="13" line="5">bụng chướng</span> nhẹ 3 ngày_nay .
+bé sáng nay đi_đại_tiện bình_thường , <span class="selected problem". start="7" end="9" line="6">phân hơi sệt</span> .
+bé ăn bú tiêu tiểu bình_thường , không ói .
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">nội</span>

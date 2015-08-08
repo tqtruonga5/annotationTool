@@ -1,0 +1,7 @@
+Tổng Kết Bệnh Lý
+Bệnh tháng nay , BN <span class="selected problem". start="6" end="8" line="2">thường_xuyên tiêu bón</span> , kèm theo <span class="selected problem". start="12" end="18" line="2">đau quặn vùng hố_chậu ( T )</span> , <span class="selected problem". start="20" end="24" line="2">bụng chướng hơi sau ăn</span> , <span class="selected problem". start="26" end="26" line="2">mệt</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="3" line="6">Ức_chế bơm proton</span>
+<span class="selected treatment". start="1" end="2" line="7">Hạ đường_huyết</span>

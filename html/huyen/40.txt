@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Bệnh tháng nay , BN <span class="selected problem". start="6" end="7" line="2">mất_ngủ liên_tục</span> , kèm theo <span class="selected problem". start="11" end="13" line="2">HA tăng cao</span> , <span class="selected problem". start="15" end="15" line="2">mệt</span> , <span class="selected problem". start="17" end="17" line="2">đau_đầu</span> , <span class="selected problem". start="19" end="21" line="2">chóng_mặt khi đi_lại</span> , <span class="selected problem". start="23" end="27" line="2">tức ngực sau xương ức</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện

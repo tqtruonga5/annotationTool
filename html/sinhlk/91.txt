@@ -1,0 +1,12 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">đau bụng</span>
+Tiền Sử Bệnh
+Khỏe
+Tóm Tắt Khám Bệnh
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="6">Viêm ruột_thừa cấp</span> .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 66 tuổi , <span class="selected problem". start="6" end="7" line="8">đau bụng</span> từ 12 giờ trừa ngày 30/05 <span class="selected problem". start="14" end="15" line="8">đau lâm_râm</span> , sau đó đau lan xuống hố_chậu ( P ) , kèm theo <span class="selected problem". start="29" end="30" line="8">sốt nhẹ</span> , vào viện khám : <span class="selected test". start="36" end="39" line="8">Ấn đáu vùng hố_chậu</span> ( P ) , <span class="selected test". start="44" end="45" line="8">đề_kháng bụng</span> ( + ) , siêu_âm bụng kết_quả : Hình_ảnh <span class="selected problem". start="55" end="57" line="8">viêm ruột_thừa mủ</span> , xét_nghiệm <span class="selected problem". start="60" end="62" line="8">máu bạch_cầu tăng</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="9">Viêm ruột_thừa cấp</span> .
+<span class="selected treatment". start="1" end="5" line="10">Phẫu_thuật cắt ruột_thừa qua nội_soi</span> , sau phẫu_thuật bệnh ổn_định , vết mổ khô , bụng mềm , ăn_uống được , cho bệnh_nhân xuất_viện , hẹn tái khám
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="12">Phẫu_thuật</span>

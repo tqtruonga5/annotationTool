@@ -1,0 +1,5 @@
+Bệnh Lý
+Cách 1 giờ bệnh_nhân <span class="selected problem". start="5" end="5" line="2">mệt</span> , không đau ngực , không chóng_mặt , không ngất , đo <span class="selected test". start="18" end="18" line="2">huyết_áp</span> thấy <span class="selected test". start="20" end="20" line="2">huyết_áp</span> tối_đa khoảng 90 mmHg , người_nhà cho bệnh_nhân <span class="selected treatment". start="29" end="32" line="2">uống 1 ly sửa</span> , sau đó gọi xe cấp_cứu ngoại_viện .
+Tổng Kết Bệnh Lý
+Cách 1 giờ bệnh_nhân <span class="selected problem". start="5" end="5" line="4">mệt</span> , không đau ngực , không chóng_mặt , không ngất , đo <span class="selected test". start="18" end="18" line="4">huyết_áp</span> thấy <span class="selected test". start="20" end="20" line="4">huyết_áp</span> tối_đa khoảng 90 mmHg , người_nhà cho bệnh_nhân uống 1 ly sửa , sau đó gọi xe cấp_cứu ngoại_viện .
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn cho xuất_viện

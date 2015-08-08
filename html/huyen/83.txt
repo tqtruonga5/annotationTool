@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+BN <span class="selected problem". start="2" end="3" line="2">sốt liên_tục</span> 3 ngày , <span class="selected problem". start="7" end="8" line="2">đâu đầu</span> , <span class="selected problem". start="10" end="11" line="2">đau cơ</span> , <span class="selected problem". start="13" end="14" line="2">đau hong</span> , <span class="selected problem". start="16" end="17" line="2">nôn ói</span> - - - > Nhập_viện - - > Sau điều_trị Bn bớt đau họng , hết sốt , hết đau_đầu .

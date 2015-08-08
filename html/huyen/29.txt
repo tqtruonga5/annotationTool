@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="5" line="4">đau bụng âm ĩ</span> - - - > vào cấp_cứu .

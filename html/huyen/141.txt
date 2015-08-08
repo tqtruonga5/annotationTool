@@ -1,0 +1,8 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="6" line="2">ho khoảng 7-8 tháng nay</span> , <span class="selected problem". start="8" end="11" line="2">đã điều_trị nhiều đợt</span> , <span class="selected problem". start="13" end="16" line="2">1 tuần nay ho_khan</span> , <span class="selected problem". start="18" end="19" line="2">đau họng</span> , <span class="selected problem". start="21" end="25" line="2">có uống thuốc không giảm</span> .
+<span class="selected problem". start="1" end="3" line="3">Nay thấy mệt</span> , <span class="selected problem". start="5" end="8" line="3">ho nhiều về đêm</span> , <span class="selected problem". start="10" end="10" line="3">mất_ngủ</span> , <span class="selected problem". start="12" end="15" line="3">chóng_mặt khi thay_đổi tư_thế</span> , <span class="selected problem". start="17" end="18" line="3">ăn_uống kém</span> - - > khám vào viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="1" line="7">Hạ_áp</span>
+<span class="selected treatment". start="1" end="3" line="8">Ức_chế bơm proton</span>

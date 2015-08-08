@@ -1,0 +1,8 @@
+Tiền Sử Bệnh
+Khỏe
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 40 tuổi vào viện với lý_do : Bệnh_nhân khai <span class="selected problem". start="12" end="15" line="4">đau vùng hông lưng</span> ( P ) khoảng 1 tháng nay , đau tăng khi làm_việc nặng - - > vào khám
+<span class="selected test". start="1" end="2" line="5">Siêu_âm bụng</span> : <span class="selected problem". start="4" end="8" line="5">Sỏi + nang hai thận</span> .
+Chẩn_đoán : <span class="selected problem". start="3" end="4" line="6">Sỏi thận</span>
+<span class="selected treatment". start="1" end="4" line="7">Tán sỏi ngoài cơ_thể</span> .
+Sau điều_trị , bệnh ổn , tiểu được , nước_tiểu trong - - > xuất_viện

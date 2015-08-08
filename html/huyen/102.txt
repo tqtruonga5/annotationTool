@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân <span class="selected problem". start="2" end="3" line="4">sốt cao</span> ngày 1 , <span class="selected problem". start="7" end="8" line="4">đau họng</span> , <span class="selected problem". start="10" end="14" line="4">đau bụng nhiều vùng thượng_vị</span> , <span class="selected problem". start="16" end="17" line="4">nôn ói</span> , <span class="selected problem". start="19" end="20" line="4">tiêu lỏng</span> , <span class="selected problem". start="22" end="22" line="4">mệt_mỏi</span> - - - > Nhập_viện - - - - > Sau <span class="selected treatment". start="34" end="34" line="4">điều_trị</span> Bn bớt đau họng , hết sốt , không tiêu lỏng - - - > XV

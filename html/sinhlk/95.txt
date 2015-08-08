@@ -1,0 +1,7 @@
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nhập ICU - - - > <span class="selected treatment". start="8" end="10" line="4">điều_trị tiếp kháng_sinh</span> - - > <span class="selected treatment". start="14" end="16" line="4">lọc máu định_kỳ</span> - - > nâng đở cơ_thể .
+Bênh nhân ổn dịnh - - > cho bệnh_nhân xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span>

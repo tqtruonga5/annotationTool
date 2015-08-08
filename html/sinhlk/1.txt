@@ -1,0 +1,8 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Bệnh Lý
+Cách nay một tháng BN có <span class="selected problem". start="7" end="7" line="4">sốt</span> , <span class="selected problem". start="9" end="15" line="4">đau bụng hạ sườn ( P )</span> .
+Một tuần nay BN <span class="selected problem". start="5" end="5" line="5">mệt_mỏi</span> , <span class="selected problem". start="7" end="7" line="5">sốt</span> về sáng .
+Tối_ngày hôm_qua , BN <span class="selected problem". start="5" end="5" line="6">sốt</span> , <span class="selected problem". start="7" end="7" line="6">mệt_mỏi</span> , <span class="selected problem". start="9" end="11" line="6">ăn_uống không được</span> - - > nhập_viện
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="6" line="8">Mổ thoát_vị bẹn ( T )</span> cách nay 1 tháng

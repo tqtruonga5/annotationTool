@@ -1,0 +1,6 @@
+Bệnh Lý
+cháu bệnh 3 ngày_nay , với <span class="selected problem". start="7" end="8" line="2">sốt cao</span> , liên_tục , kèm <span class="selected problem". start="13" end="14" line="2">ho sổ_mũi</span> . Có điều_trị nhưng chưa giảm . Hôm_nay , bé vẩn còn <span class="selected problem". start="27" end="27" line="2">sốt</span> , <span class="selected problem". start="29" end="29" line="2">ho</span> , <span class="selected problem". start="31" end="31" line="2">sổ_mũi</span> . Trưa nay , bé co gật kèm tím_tái , <span class="selected problem". start="42" end="43" line="2">tay_chân lạnh</span> , <span class="selected problem". start="45" end="45" line="2">quấy</span>
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="2" line="6">hạ sốt</span> , <span class="selected treatment". start="4" end="6" line="6">điều_trị nâng đở</span> , <span class="selected treatment". start="8" end="8" line="6">kháng_sinh</span>

@@ -1,0 +1,5 @@
+Tổng Kết Bệnh Lý
+Bệnh vài ngày_nay , Bn <span class="selected problem". start="6" end="9" line="2">tiêu lỏng 4-5 lần</span> .
+ngày_sau ăn , kèm theo <span class="selected problem". start="6" end="8" line="3">ho đàm trắng</span> , <span class="selected problem". start="10" end="13" line="3">đau họng khi nuốt</span> , <span class="selected problem". start="15" end="17" line="3">cảm_giác hồi_hộp đánh_trống_ngực</span> , <span class="selected problem". start="19" end="21" line="3">sốt ớn lạnh</span> , <span class="selected problem". start="23" end="23" line="3">mệt</span> .
+BN <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn cho xuất_viện

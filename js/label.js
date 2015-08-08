@@ -59,27 +59,33 @@ $("#emr-doc").on("click", ".sentence .selected",function(e){
 	if(e.ctrlKey){
 		if(relation_list.length == 1)
 		{
-			relation_list[relation_list.length] = $(this);
-			var type1 = relation_list[0].attr('class').split(/\s+/)[1];
-			var type2 = relation_list[1].attr('class').split(/\s+/)[1];
+			if (relation_list[0].attr('start') != $(this).attr('start') || 
+					relation_list[0].attr('line') != $(this).attr('line')){
+				relation_list[relation_list.length] = $(this);
+				var type1 = relation_list[0].attr('class').split(/\s+/)[1];
+				var type2 = relation_list[1].attr('class').split(/\s+/)[1];
 
-			if(type1 !="problem" && type2!="problem"){
-				relation_list= [];
+				if(type1 !="problem" && type2!="problem"){
+					relation_list= [];
+				}
+				else if(type1 == "treatment" || type2=="treatment"){
+					relation_list[relation_list.length] = 'tr-p';
+					$("#tr-p-dialog").data("obj",relation_list).dialog("open");
+					relation_list= [];
+				}
+				else if(type1 == "test" || type2=="test"){
+					relation_list[relation_list.length] = 'te-p';
+					$("#te-p-dialog").data("obj",relation_list).dialog("open");
+					relation_list= [];
+				}
+				else if(type1 == "problem" || type2=="problem"){
+					relation_list[relation_list.length] = 'p-p';
+					$("#p-p-dialog").data("obj",relation_list).dialog("open");
+					relation_list= [];
+				}
 			}
-			else if(type1 == "treatment" || type2=="treatment"){
-				relation_list[relation_list.length] = 'tr-p';
-				$("#tr-p-dialog").data("obj",relation_list).dialog("open");
-				relation_list= [];
-			}
-			else if(type1 == "test" || type2=="test"){
-				relation_list[relation_list.length] = 'te-p';
-				$("#te-p-dialog").data("obj",relation_list).dialog("open");
-				relation_list= [];
-			}
-			else if(type1 == "problem" || type2=="problem"){
-				relation_list[relation_list.length] = 'p-p';
-				$("#p-p-dialog").data("obj",relation_list).dialog("open");
-				relation_list= [];
+			else{
+				
 			}
 		}
 		else
@@ -88,6 +94,7 @@ $("#emr-doc").on("click", ".sentence .selected",function(e){
 		}
 	}
 	else{
+		relation_list = [];
 		$("#dialog").data("obj",$(this)).dialog("open");
 	}
 	// console.log($(this));

@@ -1,0 +1,6 @@
+Tổng Kết Bệnh Lý
+BN khai <span class="selected problem". start="3" end="10" line="2">2 ngày_nay sốt từng cơn kèm ớn lạnh</span> , <span class="selected problem". start="12" end="13" line="2">đau họng</span> , <span class="selected problem". start="15" end="15" line="2">ho_khan</span> , <span class="selected problem". start="17" end="17" line="2">đau_đầu</span> , <span class="selected problem". start="19" end="20" line="2">đau cơ</span> , <span class="selected problem". start="22" end="26" line="2">đau quặn thượng_vị từng cơn</span> , <span class="selected problem". start="28" end="30" line="2">nôn ói nhiều</span> , <span class="selected problem". start="32" end="39" line="2">không tiêu lỏng mua thuốc uông không đỡ</span> .
+<span class="selected problem". start="1" end="5" line="3">Tối nay nôn ói nhiều</span> , <span class="selected problem". start="7" end="7" line="3">mệt</span> nên xin vào nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span>

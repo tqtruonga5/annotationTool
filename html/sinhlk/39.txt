@@ -1,0 +1,7 @@
+Bệnh Lý
+Cháu bệnh 3 ngày_nay , với <span class="selected problem". start="7" end="7" line="2">sốt</span> , <span class="selected problem". start="9" end="10" line="2">sốt cao</span> liên_tục khó giảm .
+<span class="selected problem". start="1" end="3" line="3">Tiêu phân lỏng</span> 2 ngày_nay , <span class="selected problem". start="7" end="8" line="3">phân lỏng</span> , không nhầy máu , ngày 2-3 lần.Hôm qua , cháu vẩn còn <span class="selected problem". start="22" end="23" line="3">sốt cao</span> , <span class="selected problem". start="25" end="27" line="3">tiêu phân lỏng</span> , <span class="selected problem". start="29" end="31" line="3">kèm quấy nhiều</span> , <span class="selected problem". start="33" end="33" line="3">bứt_rứt</span> , <span class="selected problem". start="35" end="36" line="3">ngủ giật_mình</span> nhiều lần , <span class="selected problem". start="40" end="40" line="3">mệt</span> , <span class="selected problem". start="42" end="43" line="3">ăn kém</span>
+Tiền Sử Bệnh
+khỏe
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="7">kháng_sinh</span> , <span class="selected treatment". start="3" end="3" line="7">kháng_viêm</span> , <span class="selected treatment". start="5" end="6" line="7">mem tiêu_hóa</span> , <span class="selected treatment". start="8" end="10" line="7">điều_trị nâng đở</span>

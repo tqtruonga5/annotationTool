@@ -1,0 +1,7 @@
+Tổng Kết Bệnh Lý
+Bệnh hơn tuần nay , BN <span class="selected problem". start="7" end="14" line="2">báng bụng ngày_càng tăng kèm theo ăn_uống kém</span> , <span class="selected problem". start="16" end="19" line="2">da niêm vàng sậm</span> , <span class="selected problem". start="21" end="23" line="2">tiểu sậm màu</span> , <span class="selected problem". start="25" end="29" line="2">đau quặn bụng kháp bụng</span> .
+BN <span class="selected treatment". start="2" end="2" line="3">điều_trị</span> không giảm khám nhập_viện .
+Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="6">Kháng_sinh</span>
+<span class="selected treatment". start="1" end="1" line="7">Lợi_tiểu</span>

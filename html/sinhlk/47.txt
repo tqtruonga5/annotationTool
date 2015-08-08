@@ -1,0 +1,6 @@
+Lý Do
+<span class="selected problem". start="1" end="1" line="2">Sốt</span>
+Tiền Sử Bệnh
+Khỏe
+Tổng Kết Bệnh Lý
+Khoảng 4 ngày ngay bệnh_nhân <span class="selected problem". start="6" end="7" line="6">sốt cao</span> , <span class="selected problem". start="9" end="10" line="6">đau họng</span> , <span class="selected problem". start="12" end="12" line="6">ho</span> , tự mua thuốc uống không rõ loại không bớt , còn <span class="selected problem". start="25" end="26" line="6">đau họng</span> , <span class="selected problem". start="28" end="28" line="6">ho_khan</span> , <span class="selected problem". start="30" end="31" line="6">ăn_uống kém</span> , <span class="selected problem". start="33" end="33" line="6">chóng_mặt</span> khi đi_lại - - - > NV - - - - > Sau điều_trị BN hết sốt , bớt đau họng , bớt ho , bớt mệt .

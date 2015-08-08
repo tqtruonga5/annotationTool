@@ -1,0 +1,4 @@
+Lý Do
+<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+Tổng Kết Bệnh Lý
+Bn_Khai mấy ngày_nay <span class="selected problem". start="4" end="7" line="4">đau bụng vùng thượng_vị</span> , <span class="selected problem". start="9" end="14" line="4">đau hố_chậu trái kèm tiêu lỏng</span> , <span class="selected problem". start="16" end="21" line="4">đầy bụng khó tiêu sau ăn</span> .

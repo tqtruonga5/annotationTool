@@ -1,0 +1,4 @@
+Tiền Sử Bệnh
+<span class="selected problem". start="1" end="2" line="2">Tăng huyết_áp</span> .
+Tổng Kết Bệnh Lý
+Từ sáng BN cảm_giác <span class="selected problem". start="5" end="7" line="4">đầy bụng buồn_nôn</span> , <span class="selected problem". start="9" end="11" line="4">đau tức thượng_vị</span> , <span class="selected problem". start="13" end="14" line="4">run tay_chân</span> , <span class="selected problem". start="16" end="16" line="4">mệt_mỏi</span> , <span class="selected problem". start="18" end="19" line="4">ăn_uống kém</span> - - - > Nhập_viện - - - > Sau điều_trị BN bớt mệt , huyết_áp ổn , bớt mệt - - - > Xuất_viện .

@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+Bình_thường
+Điều Trị
+<span class="selected treatment". start="1" end="1" line="4">Nội_khoa</span>
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 42 tuổi , <span class="selected problem". start="6" end="10" line="6">chóng_mặt khoàng 2 tuần nay</span> , uống thuốc nhưng không giảm , hiện_tại đau nhiều khi xoay cổ vùng gáy , hoa mắt , chóng_mặt , <span class="selected problem". start="32" end="34" line="6">người mệt_mỏi .</span>
+Chẩn_đoán : <span class="selected problem". start="3" end="5" line="7">Viêm xoang sàng</span> - <span class="selected problem". start="7" end="8" line="7">Rối_loạn tiền_đình</span> .
+Tổng Kết Phương Pháp Điều Trị
+<span class="selected treatment". start="1" end="1" line="9">Nội_khoa</span>

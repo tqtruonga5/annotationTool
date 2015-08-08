@@ -1,0 +1,2 @@
+Tổng Kết Bệnh Lý
+Bn <span class="selected problem". start="2" end="2" line="2">chóng_mặt</span> 3 ngày tới <span class="selected treatment". start="6" end="9" line="2">khám và điều_trị ngoại_trú</span> tại BV Vũ_Anh hôm_nay thấy <span class="selected problem". start="15" end="15" line="2">chóng_mặt</span> , <span class="selected problem". start="17" end="19" line="2">đau_đầu nhiều hơn</span> - - > Nhập_viện - - - > Sau <span class="selected treatment". start="29" end="29" line="2">điều_trị</span> Bn bớt chóng_mặt , bớt đau_đầu , cảm_giác chủ_quan khỏe .
