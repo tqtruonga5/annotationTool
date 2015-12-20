@@ -1,4 +1,4 @@
 Tiền Sử Bệnh
-<span class="selected problem". start="1" end="2" line="2">Tăng huyết_áp</span> .
+<span class="selected problem" .="" start="1" end="2" line="2">Tăng huyết_áp</span> .
 Tổng Kết Bệnh Lý
-Tối nay bệnh_nhân <span class="selected problem". start="4" end="4" line="4">đau_đầu</span> , <span class="selected problem". start="6" end="6" line="4">hồi_hộp</span> , đo huyết_áp <span class="selected problem". start="10" end="11" line="4">180/90 mmHg</span> , <span class="selected problem". start="13" end="20" line="4">ở nhà uống 01 viên thuốc hạ huyết_áp</span> - - > khám vào viện - - - > Sau <span class="selected treatment". start="32" end="32" line="4">điều_trị</span> huyết_áp ổn , hết đau_đầu chóng_mặt - - - > Xuất_viện .
+Tối nay bệnh_nhân <span class="selected problem" .="" start="4" end="4" line="4">đau_đầu</span> , <span class="selected problem" .="" start="6" end="6" line="4">hồi_hộp</span> , đo huyết_áp 180/90 mmHg , <span class="selected treatment" .="" start="13" end="20" line="4">ở nhà uống 01 viên thuốc hạ huyết_áp</span> - - &gt; khám vào viện - - - &gt; Sau <span class="selected treatment" .="" start="32" end="32" line="4">điều_trị</span> huyết_áp ổn , hết đau_đầu chóng_mặt - - - &gt; Xuất_viện .

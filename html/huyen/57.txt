@@ -1,7 +1,7 @@
 Tổng Kết Bệnh Lý
-Bệnh vài ngày_nay , BN <span class="selected problem". start="6" end="6" line="2">ho_khan</span> , <span class="selected problem". start="8" end="11" line="2">kèm cảm_giác ớn lạnh</span> , <span class="selected problem". start="13" end="16" line="2">có lúc sốt cao</span> , <span class="selected problem". start="18" end="20" line="2">họng nuốt đau</span> , <span class="selected problem". start="22" end="23" line="2">ăn_uống kém</span> , <span class="selected problem". start="25" end="26" line="2">mệt nhiều</span> .
-BN <span class="selected test". start="2" end="2" line="3">xét_nghiệm</span> có <span class="selected problem". start="4" end="5" line="3">đường_huyết cao</span> , <span class="selected problem". start="7" end="10" line="3">uống thuốc không giảm</span> khám nhập_viện .
-Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
+Bệnh vài ngày_nay , BN <span class="selected problem" .="" start="6" end="6" line="2">ho_khan</span> , <span class="selected problem" .="" start="8" end="11" line="2">kèm cảm_giác ớn lạnh</span> , <span class="selected problem" .="" start="13" end="16" line="2">có lúc sốt cao</span> , <span class="selected problem" .="" start="18" end="20" line="2">họng nuốt đau</span> , <span class="selected problem" .="" start="22" end="23" line="2">ăn_uống kém</span> , <span class="selected problem" .="" start="25" end="26" line="2">mệt nhiều</span> .
+BN <span class="selected test" .="" start="2" end="2" line="3">xét_nghiệm</span> có <span class="selected problem" .="" start="4" end="5" line="3">đường_huyết cao</span> , <span class="selected problem" .="" start="7" end="10" line="3">uống thuốc không giảm</span> khám nhập_viện .
+Sau <span class="selected treatment" .="" start="2" end="2" line="4">điều_trị</span> bệnh ổn cho xuất_viện
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="2" line="6">Hạ đường_huyết</span>
-<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>
+<span class="selected treatment" .="" start="1" end="2" line="6">Hạ đường_huyết</span>
+<span class="selected treatment" .="" start="1" end="1" line="7">Kháng_sinh</span>

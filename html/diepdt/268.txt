@@ -1,7 +1,7 @@
 Lý Do
-<span class="selected problem". start="1" end="1" line="2">sốt</span>
+<span class="selected problem" .="" start="1" end="1" line="2">sốt</span>
 Tổng Kết Bệnh Lý
-Bệnh_nhân bị <span class="selected problem". start="3" end="6" line="4">nỗi mề_đay 5 ngày</span> , sau đó <span class="selected problem". start="10" end="11" line="4">sốt nhiều</span> , <span class="selected treatment". start="13" end="14" line="4">uống thuốc</span> không thấy giãm , <span class="selected problem". start="19" end="20" line="4">mệt nhiều</span> gia dình đưa bệnh_nhân vào <span class="selected treatment". start="26" end="29" line="4">cấp_cứu tại Bệnh_viện Vũ_Anh</span> .
-Sau <span class="selected treatment". start="2" end="2" line="5">điều_trị</span> bệnh ổn cho xuất_viện
+Bệnh_nhân bị <span class="selected problem" .="" start="3" end="6" line="4">nỗi mề_đay 5 ngày</span> , sau đó <span class="selected problem" .="" start="10" end="11" line="4">sốt nhiều</span> , <span class="selected treatment" .="" start="13" end="14" line="4">uống thuốc</span> không thấy giãm , <span class="selected problem" .="" start="19" end="20" line="4">mệt nhiều</span> gia dình đưa bệnh_nhân vào <span class="selected treatment" .="" start="26" end="29" line="4">cấp_cứu tại Bệnh_viện Vũ_Anh</span> .
+Sau <span class="selected treatment" .="" start="2" end="2" line="5">điều_trị</span> bệnh ổn cho xuất_viện
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>
+<span class="selected treatment" .="" start="1" end="1" line="7">Kháng_sinh</span>

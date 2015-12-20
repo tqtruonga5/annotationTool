@@ -1,12 +1,12 @@
 Lý Do
-<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+<span class="selected problem" .="" start="1" end="2" line="2">Đau bụng</span>
 Tiền Sử Bệnh
 bình_thường
 Tổng Kết Bệnh Lý
-Bệnh_nhân <span class="selected problem". start="2" end="3" line="6">đau âm_ỉ</span> liên_tục ngày_càng tăng từ sáng_qua - - - > <span class="selected treatment". start="13" end="14" line="6">khu_trú HC</span> ( P ) , không ói , tiểu bình_thường .
-Sáng nay khám phòng_khám chẩn_đoán : <span class="selected problem". start="7" end="7" line="7">VRTC</span> , đề_nghị nhập_viện mổ nhưng bệnh_nhân xin về để thu_xếp việc gia_đình .
-Chiều nay <span class="selected problem". start="3" end="3" line="8">đau</span> nhiều , <span class="selected problem". start="6" end="6" line="8">sốt</span> - - - > <span class="selected test". start="11" end="13" line="8">CC.iêu âm bụng</span> : hình_ảnh <span class="selected problem". start="16" end="17" line="8">ruột_thừa viêm</span> .
-<span class="selected test". start="1" end="1" line="9">BC</span> : 12 , 7 G / L
-Chẩn_đoán : <span class="selected problem". start="3" end="5" line="10">Viêm ruột_thừa muộn</span> ( viêm phúc_mạc khu_trú ) . <span class="selected treatment". start="12" end="14" line="10">Phẫu_thuật cắt RT</span> + <span class="selected treatment". start="16" end="17" line="10">lau ổ_bụng</span> .
+Bệnh_nhân <span class="selected problem" .="" start="2" end="3" line="6">đau âm_ỉ</span> liên_tục ngày_càng tăng từ sáng_qua - - - &gt; <span class="selected treatment" .="" start="13" end="14" line="6">khu_trú HC</span> ( P ) , không ói , tiểu bình_thường .
+Sáng nay khám phòng_khám chẩn_đoán : <span class="selected problem" .="" start="7" end="7" line="7">VRTC</span> , đề_nghị nhập_viện mổ nhưng bệnh_nhân xin về để thu_xếp việc gia_đình .
+Chiều nay <span class="selected problem" .="" start="3" end="3" line="8">đau</span> nhiều , <span class="selected problem" .="" start="6" end="6" line="8">sốt</span> - - - &gt; <span class="selected test" .="" start="11" end="13" line="8">CC.iêu âm bụng</span> : hình_ảnh <span class="selected problem" .="" start="16" end="17" line="8">ruột_thừa viêm</span> .
+<span class="selected test" .="" start="1" end="1" line="9">BC</span> : 12 , 7 G / L
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="5" line="10">Viêm ruột_thừa muộn</span> ( viêm phúc_mạc khu_trú ) . <span class="selected treatment" .="" start="12" end="14" line="10">Phẫu_thuật cắt RT</span> + <span class="selected treatment" .="" start="16" end="17" line="10">lau ổ_bụng</span> .
 sau phẫu_thuật bệnh ổn_định , bụng mềm , trung_tiện được .
 ăn_uống bình_thường , tiêu tiểu được cho bệnh_nhân xuất_viện .

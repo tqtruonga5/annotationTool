@@ -1,6 +1,6 @@
 Tổng Kết Bệnh Lý
-Bệnh_nhân nam 70 tuổi vào viện với lý_do : Bệnh_nhân K đại_tràng góc gan <span class="selected treatment". start="15" end="16" line="2">đã PT</span> , <span class="selected treatment". start="18" end="19" line="2">đang hóa_trị</span> - - > vào viện <span class="selected treatment". start="25" end="25" line="2">hóa_trị</span> theo hẹn .
-Chẩn_đoán : <span class="selected problem". start="3" end="6" line="3">K đại_tràng đã PT</span> .
-<span class="selected test". start="1" end="2" line="4">Xét_nghiệm CTM</span> : <span class="selected problem". start="4" end="8" line="4">TB máu giảm 3 dòng</span> .
-<span class="selected treatment". start="1" end="3" line="5">Chích_Neupogen 3 MUI</span>
-<span class="selected treatment". start="1" end="3" line="6">Hóa_trị đợt VI</span>
+Bệnh_nhân nam 70 tuổi vào viện với lý_do : Bệnh_nhân K đại_tràng góc gan <span class="selected treatment" .="" start="15" end="16" line="2">đã PT</span> , <span class="selected treatment" .="" start="18" end="19" line="2">đang hóa_trị</span> - - &gt; vào viện <span class="selected treatment" .="" start="25" end="25" line="2">hóa_trị</span> theo hẹn .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="6" line="3">K đại_tràng đã PT</span> .
+<span class="selected test" .="" start="1" end="2" line="4">Xét_nghiệm CTM</span> : <span class="selected problem" .="" start="4" end="8" line="4">TB máu giảm 3 dòng</span> .
+<span class="selected treatment" .="" start="1" end="3" line="5">Chích_Neupogen 3 MUI</span>
+<span class="selected treatment" .="" start="1" end="3" line="6">Hóa_trị đợt VI</span>

@@ -1,15 +1,15 @@
 Tiền Sử Bệnh
 chưa rõ
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="4">phẫu_thuật</span>
+<span class="selected treatment" .="" start="1" end="1" line="4">phẫu_thuật</span>
 Tóm Tắt Khám Bệnh
-BN nam 67 tuổi khai khoảng 2,5 tháng nay có <span class="selected problem". start="11" end="17" line="6">khối phông vùng bẹn ( P )</span> , <span class="selected problem". start="19" end="25" line="6">khối phông lớn khi đứng hoặc ho</span> , hiện_tại có cảm_giác <span class="selected problem". start="30" end="35" line="6">đau vùng bẹn ( P )</span>
-<span class="selected test". start="1" end="1" line="7">Siêu_âm</span> : <span class="selected problem". start="3" end="7" line="7">Thoát_vị bẹn ( P )</span> .
-Chẩn_đoán : <span class="selected problem". start="3" end="7" line="8">Thoát_vị bẹn ( P )</span>
+BN nam 67 tuổi khai khoảng 2,5 tháng nay có <span class="selected problem" .="" start="11" end="17" line="6">khối phông vùng bẹn ( P )</span> , <span class="selected problem" .="" start="19" end="25" line="6">khối phông lớn khi đứng hoặc ho</span> , hiện_tại có cảm_giác <span class="selected problem" .="" start="30" end="35" line="6">đau vùng bẹn ( P )</span>
+<span class="selected test" .="" start="1" end="1" line="7">Siêu_âm</span> : <span class="selected problem" .="" start="3" end="7" line="7">Thoát_vị bẹn ( P )</span> .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="7" line="8">Thoát_vị bẹn ( P )</span>
 Tổng Kết Bệnh Lý
-BN khai khoảng 2,5 tháng nay có <span class="selected problem". start="8" end="11" line="10">khối phông vùng bẹn</span> ( P ) , khối phông lớn khi đứng hoặc ho , hiện_tại có <span class="selected problem". start="26" end="29" line="10">cảm_giác đau vùng bẹn</span> ( P )
-Siêu_âm : <span class="selected test". start="3" end="4" line="11">Thoát_vị bẹn</span> ( P ) .
-Chẩn_đoán : <span class="selected test". start="3" end="4" line="12">Thoát_vị bẹn</span> ( P ) .
-Được <span class="selected treatment". start="2" end="5" line="13">PT phục_hồi thành bụng</span> , sau PT bệnh ổn xuất_viện .
+BN khai khoảng 2,5 tháng nay có <span class="selected problem" .="" start="8" end="11" line="10">khối phông vùng bẹn</span> ( P ) , khối phông lớn khi đứng hoặc ho , hiện_tại có <span class="selected problem" .="" start="26" end="29" line="10">cảm_giác đau vùng bẹn</span> ( P )
+Siêu_âm : <span class="selected test" .="" start="3" end="4" line="11">Thoát_vị bẹn</span> ( P ) .
+Chẩn_đoán : <span class="selected test" .="" start="3" end="4" line="12">Thoát_vị bẹn</span> ( P ) .
+Được <span class="selected treatment" .="" start="2" end="5" line="13">PT phục_hồi thành bụng</span> , sau PT bệnh ổn xuất_viện .
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="7" line="15">PT phục_hồi thành bẹn ( P )</span>
+<span class="selected treatment" .="" start="1" end="7" line="15">PT phục_hồi thành bẹn ( P )</span>

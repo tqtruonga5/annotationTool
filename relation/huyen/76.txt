@@ -1,3 +1,0 @@
-c="nặng đầu" 2:7 2:8||r="PIP"||c="chóng_mặt đo HA thấy cao" 2:10 2:14
-c="ngậm 1 ( v ) captoril" 2:23 2:28||r="TrWP"||c="nặng đầu" 2:7 2:8
-c="ngậm 1 ( v ) captoril" 2:23 2:28||r="TrWP"||c="chóng_mặt đo HA thấy cao" 2:10 2:14

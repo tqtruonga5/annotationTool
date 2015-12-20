@@ -31,9 +31,10 @@
 				</div>
 				<div class="file-list">
 					<h4>EMR List</h4>
-					<select ng-model="selected"
-							ng-options="folder for folder in folders"
-							ng-change="getFiles(selected)">
+					<select ng-init = "selected=folders[0]"
+							ng-model="selected"
+							ng-change="getFiles(selected)"
+							ng-options="folder for folder in folders">
 					</select>
 					<ul class="nav nav-list">
 						<li ng-repeat="file in files | filter: query">
@@ -95,7 +96,7 @@
 				<div class="row">
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h3 class="panel-title">Mention List</h3>
+							<h3 class="panel-title">Concept List</h3>
 						</div>
 						<div id="mention" class="doc panel-body">
 							<div ng-repeat="mention in mentions">{{mention}}</div>

@@ -1,9 +1,9 @@
 Lý Do
-<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+<span class="selected problem" .="" start="1" end="2" line="2">Đau bụng</span>
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="4">nội_khoa</span>
 Tổng Kết Bệnh Lý
-Bệnh_nhân được chẩn_đoán : <span class="selected problem". start="5" end="7" line="6">Viêm tụy cấp</span> ngày 1 do rượu , - - - > nhập Icu điều_trị - - > <span class="selected treatment". start="23" end="24" line="6">khang sinh</span> - - > <span class="selected treatment". start="28" end="28" line="6">sandostatin</span> - - > <span class="selected treatment". start="32" end="33" line="6">bù dịch</span> .
+Bệnh_nhân được chẩn_đoán : <span class="selected problem" .="" start="5" end="7" line="6">Viêm tụy cấp</span> ngày 1 do rượu , - - - &gt; nhập Icu điều_trị - - &gt; <span class="selected treatment" .="" start="23" end="24" line="6">khang sinh</span> - - &gt; <span class="selected treatment" .="" start="28" end="28" line="6">sandostatin</span> - - &gt; <span class="selected treatment" .="" start="32" end="33" line="6">bù dịch</span> .
 Được 2 ngày điều_trị , gia_đình ký đơn xin cho bệnh_nhân đươc chuyển viện vì lý_do kinh_tế gia_đình .
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="9">Kháng_sinh</span>
+<span class="selected treatment" .="" start="1" end="1" line="9">Kháng_sinh</span>

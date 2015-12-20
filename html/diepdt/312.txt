@@ -1,4 +1,4 @@
 Tổng Kết Bệnh Lý
-Khởi bệnh cách nhập_viện 03 ngày , bệnh_nhân <span class="selected problem". start="9" end="9" line="2">sốt</span> kèm <span class="selected problem". start="11" end="13" line="2">đau_nhức cơ toàn_thân</span> ; <span class="selected problem". start="15" end="17" line="2">Ngứa rải_rác toàn_thân</span> đã lâu , đã đi khám <span class="selected treatment". start="24" end="25" line="2">uống thuốc</span> với chẩn_đoán <span class="selected problem". start="28" end="28" line="2">sốt_xuất_huyết</span> .
-Hôm_nay mệt nhiều - - > khám vào viện
-Sau <span class="selected treatment". start="2" end="2" line="4">điều_trị</span> bệnh ổn_định - - > ra viện
+Khởi bệnh cách nhập_viện 03 ngày , bệnh_nhân <span class="selected problem" .="" start="9" end="9" line="2">sốt</span> kèm <span class="selected problem" .="" start="11" end="13" line="2">đau_nhức cơ toàn_thân</span> ; <span class="selected problem" .="" start="15" end="17" line="2">Ngứa rải_rác toàn_thân</span> đã lâu , đã đi khám <span class="selected treatment" .="" start="24" end="25" line="2">uống thuốc</span> với chẩn_đoán <span class="selected problem" .="" start="28" end="28" line="2">sốt_xuất_huyết</span> .
+Hôm_nay mệt nhiều - - &gt; khám vào viện
+Sau <span class="selected treatment" .="" start="2" end="2" line="4">điều_trị</span> bệnh ổn_định - - &gt; ra viện

@@ -1,8 +1,8 @@
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="2">nội_khoa</span>
 Tổng Kết Bệnh Lý
-<span class="selected problem". start="1" end="2" line="4">Bệnh_nhân nặng</span> - - <span class="selected treatment". start="5" end="6" line="4">nhập ICU</span> - - > <span class="selected treatment". start="10" end="11" line="4">chuyển nội</span> - - > <span class="selected treatment". start="15" end="17" line="4">Chuyển phòng mổ</span> - - - > <span class="selected treatment". start="22" end="30" line="4">Mổ cắt ruốt thừa nội_soi + lau rửa ổ_bụng</span> - - > <span class="selected treatment". start="34" end="37" line="4">điều_trị kháng_sinh phổ rộng</span> - - > <span class="selected treatment". start="41" end="46" line="4">điều_chỉnh cân_bằng nước và điện giải</span> - > <span class="selected treatment". start="49" end="58" line="4">điều_chỉnh đường huyêt , huyết_áp , dinh_dưỡng bằng đường tĩnh_mạch</span>
+Bệnh_nhân nặng - - <span class="selected treatment" .="" start="5" end="6" line="4">nhập ICU</span> - - &gt; <span class="selected treatment" .="" start="10" end="11" line="4">chuyển nội</span> - - &gt; <span class="selected treatment" .="" start="15" end="17" line="4">Chuyển phòng mổ</span> - - - &gt; <span class="selected treatment" .="" start="22" end="30" line="4">Mổ cắt ruốt thừa nội_soi + lau rửa ổ_bụng</span> - - &gt; <span class="selected treatment" .="" start="34" end="37" line="4">điều_trị kháng_sinh phổ rộng</span> - - &gt; <span class="selected treatment" .="" start="41" end="46" line="4">điều_chỉnh cân_bằng nước và điện giải</span> - &gt; <span class="selected treatment" .="" start="49" end="58" line="4">điều_chỉnh đường huyêt , huyết_áp , dinh_dưỡng bằng đường tĩnh_mạch</span>
 Ngày 20.1.2014 ,
-Bệnh_nhân tạm ổn_định - > gia_đình xinh chuyển qua Bệnh_viện Nhân_Dân_Gia_Định vì lý_do kinh_tế
+Bệnh_nhân tạm ổn_định - &gt; gia_đình xinh chuyển qua Bệnh_viện Nhân_Dân_Gia_Định vì lý_do kinh_tế
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span>
+<span class="selected treatment" .="" start="1" end="1" line="8">Kháng_sinh</span>

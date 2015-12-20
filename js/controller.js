@@ -8,6 +8,13 @@ labeler.filter('unsafe', function($sce) {
 
 
 labeler.controller('emrList', function($scope, $http){
+	$scope.content = [];
+	$scope.mentions = [];
+	$scope.relations = [];
+
+	$scope.filename = "";
+	$scope.foldername = "";
+	
 	$http.get('getFolderList.php').success(function(data){
 		$scope.folders = data;
 	})
@@ -15,6 +22,7 @@ labeler.controller('emrList', function($scope, $http){
 	//	$scope.files = data;
 	//})
 	$scope.getFiles = function(folderSel){
+		$scope.foldername = folderSel;
 		var foSelected = document.getElementById('folder');
 		var folder = (folderSel == null)? 'diepdt': folderSel;
 		$http.get('getFileList.php?folder='+folder).success(function(data){
@@ -22,12 +30,6 @@ labeler.controller('emrList', function($scope, $http){
 		})
 	}
 	
-	$scope.content = [];
-	$scope.mentions = [];
-	$scope.relations = [];
-
-	$scope.filename = "";
-
 	$scope.getContent = function(folder, filename){
 		$scope.filename = filename;
 		$http.get('getFileContent.php?folder='+folder+'&file='+filename).success(function(data){
@@ -49,6 +51,7 @@ labeler.controller('emrList', function($scope, $http){
 				method: "post",
 				url: "postMention.php",
 				data:{
+					folder: $scope.foldername,
 					file: $scope.filename,
 					mentions: $scope.mentions,
 					html: html,

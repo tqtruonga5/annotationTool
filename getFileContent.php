@@ -6,8 +6,8 @@
 	$folder = $_GET['folder'];
 	$file = $_GET["file"];
 
-	$doc = "doc/$folder/";
-	$mention = "mention/$folder/";
+	$doc = "txt/$folder/";
+	$mention = "concepts/$folder/";
 	$html = "html/$folder/";
 	$relation = "relation/$folder/";
 	if(file_exists($html.$file))

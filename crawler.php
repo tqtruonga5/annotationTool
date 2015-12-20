@@ -1,5 +1,7 @@
 <?php
 set_time_limit(0);
+$totalPIP = 0;
+$totalTrWP = 0;
 
 function showData($data){
     echo "<br><pre>";
@@ -132,9 +134,10 @@ function changeType($shortType){
 
 }
 
-function autoDeterRelation($section, $concepts, $line, $order){
+function autoDeterRelation($section, $concepts, $line, $order, $folder){
 	$length = sizeof($concepts);
 	$textConceptRelation = '';
+	
 	if ($length <= 1)
 		return;
 	switch ($section){
@@ -146,6 +149,7 @@ function autoDeterRelation($section, $concepts, $line, $order){
 						$textConceptRelation .= 'c="'.$concepts[$i]['content'].'" '.$line.':'.$concepts[$i]['fromWord'].
 							' '.$line.':'.$concepts[$i]['toWord'].'||r="PIP"||c="'.$concepts[$j]['content'].'" '.$line.':'.
 							$concepts[$j]['fromWord'].' '.$line.':'.$concepts[$j]['toWord']."\n";
+						$GLOBALS['totalPIP']++;
 					}
 				}
 			}
@@ -159,6 +163,7 @@ function autoDeterRelation($section, $concepts, $line, $order){
 						$textConceptRelation .= 'c="'.$concepts[$i]['content'].'" '.$line.':'.$concepts[$i]['fromWord'].
 							' '.$line.':'.$concepts[$i]['toWord'].'||r="PIP"||c="'.$concepts[$j]['content'].'" '.$line.':'.
 							$concepts[$j]['fromWord'].' '.$line.':'.$concepts[$j]['toWord']."\n";
+						$GLOBALS['totalPIP']++;
 					}
 					else if(($concepts[$i]['type'] == 'PR' && $concepts[$j]['type'] == 'TR' ||
 							$concepts[$j]['type'] == 'PR' && $concepts[$i]['type'] == 'TR') && $concepts[$i]['content'] != $concepts[$j]['content']){
@@ -167,26 +172,53 @@ function autoDeterRelation($section, $concepts, $line, $order){
 						$textConceptRelation .= 'c="'.$concepts[$treatConcept]['content'].'" '.$line.':'.$concepts[$treatConcept]['fromWord'].
 							' '.$line.':'.$concepts[$treatConcept]['toWord'].'||r="TrWP"||c="'.$concepts[$proConcept]['content'].'" '.$line.':'.
 							$concepts[$proConcept]['fromWord'].' '.$line.':'.$concepts[$proConcept]['toWord']."\n";
+						$GLOBALS['totalTrWP']++;
+						/*if ($proConcept < $treatConcept){
+							$check = true;
+							for ($k = $treatConcept + 1; $k < $length - 1; $k ++)
+								if ($concepts[$k]['type'] == 'PR'){
+									$check = false; break;
+								}
+							if ($check)
+								echo "<br>" . $folder . "  " . $order;
+						}*/
+					}
+					if ($concepts[$i]['type'] == "TE" || $concepts[$j]['type'] == "TE"){
+						echo "<br>" . $order;
 					}
 				}
 			}
 			break;
+		//case '':
 		default:
 	}
 	return $textConceptRelation;
 }
 
-function createTextContent($arr, $folder, $order){
+function createTextContent($arr, $folder, $order, &$history, &$fileArr){
     $textRecordContent = '';
     $textConceptContent = '';
 	$textConceptRelation = '';
     $htmlStr = '';
     $section = '';
     $countLine = 1;
+	
 
     foreach ($arr as $sentence) {
         if($section != $sentence['section']){
             // $section = changeSenSectionName($sentence['section']);
+			$kt = true;
+			for ($i = 0; $i < sizeof($history); $i ++){
+				if ($history[$i]["name"] == $section){
+					$history[$i]["count"] ++;
+					$kt = false;
+					break;
+				}	
+			}
+			if ($kt){
+				$history[sizeof($history)] = array("name" => $section, "count" => 1);
+			}
+			$fileArr[sizeof($fileArr)] = array("section" => $section, "folder" => $folder, "file" => $order);
             $section = $sentence['section'];
             $changedSection = changeSenSectionName($section);
             $textRecordContent .= $changedSection."\n";
@@ -195,7 +227,7 @@ function createTextContent($arr, $folder, $order){
         }
 		
 		//relation
-		$textConceptRelation .= autoDeterRelation($sentence['section'], $sentence['concept'], $countLine, $order);
+		$textConceptRelation .= autoDeterRelation($sentence['section'], $sentence['concept'], $countLine, $order, $folder);
 
         $textRecordContent .= $sentence['content']."\n";
         $senArr = explode(" ",$sentence['content']);
@@ -218,25 +250,32 @@ function createTextContent($arr, $folder, $order){
         $countLine++;
     }
 
-    echo "Text ".$order." : <hr/> ";
-    showData($textRecordContent);
-    writeToFile("doc/$folder/$order.txt",$textRecordContent);
-    echo "Concept : <hr/> ";
-    showData($textConceptContent);
-    writeToFile("mention/$folder/$order.txt",$textConceptContent);
-	echo "Relation : <hr/> ";
-	showData($textConceptRelation);
-	writeToFile("relation/$folder/$order.txt", $textConceptRelation);
+    //echo "Text ".$order." : <hr/> ";
+    //showData($textRecordContent);
+    //writeToFile("doc/$folder/$order.txt",$textRecordContent);
+    //echo "Concept : <hr/> ";
+    //showData($textConceptContent);
+    //writeToFile("mention/$folder/$order.txt",$textConceptContent);
+	//echo "Relation : <hr/> ";
+	//showData($textConceptRelation);
+	//writeToFile("relation/$folder/$order.txt", $textConceptRelation);
 
-    echo "html : <hr/> ";
-    showData($htmlStr);
-    writeToFile("html/$folder/$order.txt",$htmlStr);
+    //echo "html : <hr/> ";
+    //showData($htmlStr);
+    //writeToFile("html/$folder/$order.txt",$htmlStr);
 }
 
 function writeToFile($fileName,$data){
     $file = fopen($fileName, "w+");
     fwrite($file, $data);
     fclose($file);
+}
+
+function getListOfFile($section, $Listfile){
+	for ($i = 0; $i < sizeof($Listfile); $i ++){
+		if ($Listfile[$i]["section"] == $section)
+			echo "folder: " . $Listfile[$i]["folder"] . ", file: " . $Listfile[$i]["file"] . "<br>";
+	}
 }
 
 $arr_input = array(
@@ -248,25 +287,41 @@ $arr_input = array(
 	array ('folder' => 'tuan', 'num' => 1)
     );
 // $content = getContent('diepdt','140506081955047000');
+
+$history = array();
+$file = array();
+$k = 1;
 for ($i = 0 ; $i < sizeof($arr_input); $i++ ){
 	for ($j = 1; $j <= $arr_input[$i]['num']; $j++){
 		$folder = $arr_input[$i]['folder'];
-		$content = json_decode(file_get_contents("./json_data/$folder/$j.json"),true);
+	//	$content = json_decode(file_get_contents("./json_data/$folder/$j.json"),true);
+		rename("./txt/$folder/$j.txt", "./txt/$folder/$k.txt");
+		rename("./concepts/$folder/$j.txt", "./concepts/$folder/$k.txt");
+		rename("./relation/$folder/$j.txt", "./relation/$folder/$k.txt");
+		copy("./txt/$folder/$k.txt", "./txt/txt/$k.txt");
+		copy("./concepts/$folder/$k.txt", "./concepts/concept/$k.txt");
+		copy("./relation/$folder/$k.txt", "./relation/relation/$k.txt");
+		$k ++;
     // showData($content['listSentences']);
-		createTextContent($content['listSentences'],$folder,$j);
+	//	createTextContent($content['listSentences'],$folder,$j, $history, $file);
+		
 	}   
 }
-
-
-// $str = "chào ngày mới";
-// $arr = explode(" ",$str);
-// showData($arr);
-
-// showData(implode(" ", $arr));
-// showData($)
-?>
-
-<!-- c="sỏi túi_mật" 1:1 1:2||t="PR"
-    c=" Chóng_mặt" 5:18 5:27||t="problem" -->
-
-<!-- explode(" ",$str) implode(" ",$arr); -->
+echo($k);
+/*
+echo "Total file had crawler: " . sizeof($file);
+echo "<br>" . "Sections in medical records";
+for ($i = 0; $i < sizeof($history); $i ++){
+	echo "<br>" . $history[$i]["name"] . "  " . $history[$i]["count"];
+}
+echo "<br>";
+echo "PIP: " . $GLOBALS['totalPIP'];
+echo "<br>" . "TrWP: " . $GLOBALS['totalTrWP'];
+echo "<br>";
+echo "HB_BENHLY: " . "<br>";
+getListOfFile("HB_BENHLY", $file);
+echo "<br> KB_TOMTAT: " . "<br>";
+getListOfFile("KB_TOMTAT", $file);
+echo "<br> TK_BENHLY: " . "<br>";
+getListOfFile("TK_BENHLY", $file);
+*/

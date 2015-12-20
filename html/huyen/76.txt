@@ -1,3 +1,3 @@
 Tổng Kết Bệnh Lý
-Bệnh_nhân khai tối nay BN thấy <span class="selected problem". start="7" end="8" line="2">nặng đầu</span> , <span class="selected problem". start="10" end="14" line="2">chóng_mặt đo HA thấy cao</span> nên vào nhập_viện . ( ở nhà có <span class="selected treatment". start="23" end="28" line="2">ngậm 1 ( v ) captoril</span> .
+Bệnh_nhân khai tối nay BN thấy <span class="selected problem" .="" start="7" end="8" line="2">nặng đầu</span> , <span class="selected problem" .="" start="10" end="14" line="2">chóng_mặt đo HA thấy cao</span> nên vào nhập_viện . ( ở nhà có <span class="selected treatment" .="" start="23" end="28" line="2">ngậm 1 ( v ) captoril</span> .
 Hiện_tại BN ổn xuất_viện .

@@ -1,2 +1,2 @@
 Tổng Kết Bệnh Lý
-BN khai ăn 2 muỗng súp sau đó <span class="selected problem". start="9" end="11" line="2">phù mí mắt</span> + <span class="selected problem". start="13" end="15" line="2">ngứa vùng mặt</span> - - - > Nhập_viện - - > Sau <span class="selected treatment". start="25" end="25" line="2">điều_trị</span> Bn bớt ngứa , hết phù .
+BN khai ăn 2 muỗng súp sau đó <span class="selected problem" .="" start="9" end="11" line="2">phù mí mắt</span> + <span class="selected problem" .="" start="13" end="15" line="2">ngứa vùng mặt</span> - - - &gt; Nhập_viện - - &gt; Sau <span class="selected treatment" .="" start="25" end="25" line="2">điều_trị</span> Bn bớt ngứa , hết phù .

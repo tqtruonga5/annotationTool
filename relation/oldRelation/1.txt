@@ -1,5 +1,0 @@
-c="khám" 4:11 4:11||r="TrIP"||c="khò_khè" 4:4 4:4
-c="Ho" 2:1 2:1||r="PIP"||c="khò_khè" 2:3 2:3
-c="ho" 4:2 4:2||r="PIP"||c="khò_khè" 4:4 4:4
-c="Zinnat" 4:20 4:20||r="TrWP"||c="ho" 4:2 4:2
-c="Zinnat" 4:20 4:20||r="TrWP"||c="khò_khè" 4:4 4:4

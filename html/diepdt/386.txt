@@ -1,4 +1,4 @@
 Tiền Sử Bệnh
 Chưa phát_hiện bất_thường
 Tổng Kết Bệnh Lý
-Khoảng 2 ngày_nay bệnh_nhân <span class="selected problem". start="5" end="10" line="4">nôn ói sau ăn mỳ ý</span> , <span class="selected problem". start="12" end="13" line="4">ói nhiều</span> , không ăn_uống được <span class="selected problem". start="18" end="20" line="4">đi_tiêu phân lỏng</span> , <span class="selected problem". start="22" end="22" line="4">mệt_mỏi</span> - - - > NV - - - > Sau <span class="selected treatment". start="33" end="33" line="4">điều_trị</span> BN bớt nôn ói , bớt mệt xin xuất_viện vì lý_do gia_đình .
+Khoảng 2 ngày_nay bệnh_nhân <span class="selected problem" .="" start="5" end="10" line="4">nôn ói sau ăn mỳ ý</span> , <span class="selected problem" .="" start="12" end="13" line="4">ói nhiều</span> , không ăn_uống được <span class="selected problem" .="" start="18" end="20" line="4">đi_tiêu phân lỏng</span> , <span class="selected problem" .="" start="22" end="22" line="4">mệt_mỏi</span> - - - &gt; NV - - - &gt; Sau <span class="selected treatment" .="" start="33" end="33" line="4">điều_trị</span> BN bớt nôn ói , bớt mệt xin xuất_viện vì lý_do gia_đình .

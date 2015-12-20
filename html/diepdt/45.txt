@@ -1,10 +1,10 @@
 Lý Do
-<span class="selected problem". start="1" end="3" line="2">bứt_rứt quấy khóc</span>
+<span class="selected problem" .="" start="1" end="3" line="2">bứt_rứt quấy khóc</span>
 Bệnh Lý
-cháu <span class="selected problem". start="2" end="2" line="4">sốt</span> 4 ngày_nay , <span class="selected problem". start="6" end="13" line="4">nổi hồng ban bóng_nước lòng bàn_tay , chân</span> , <span class="selected problem". start="15" end="16" line="4">loét miệng</span> .
-<span class="selected treatment". start="1" end="1" line="5">khám</span> bệnh viên nhi_đồng chẩn_đoán <span class="selected problem". start="6" end="8" line="5">bệnh tay_chân miệng</span> và đang <span class="selected treatment". start="11" end="12" line="5">uống thuốc</span> .
-tối nay cháu <span class="selected problem". start="4" end="5" line="6">bứt_rứt nhiều</span> , <span class="selected problem". start="7" end="8" line="6">quấy khóc</span> , <span class="selected problem". start="10" end="11" line="6">bỏ ăn</span>
+cháu <span class="selected problem" .="" start="2" end="2" line="4">sốt</span> 4 ngày_nay , <span class="selected problem" .="" start="6" end="13" line="4">nổi hồng ban bóng_nước lòng bàn_tay , chân</span> , <span class="selected problem" .="" start="15" end="16" line="4">loét miệng</span> .
+<span class="selected treatment" .="" start="1" end="1" line="5">khám</span> bệnh viên nhi_đồng chẩn_đoán <span class="selected problem" .="" start="6" end="8" line="5">bệnh tay_chân miệng</span> và đang <span class="selected treatment" .="" start="11" end="12" line="5">uống thuốc</span> .
+tối nay cháu <span class="selected problem" .="" start="4" end="5" line="6">bứt_rứt nhiều</span> , <span class="selected problem" .="" start="7" end="8" line="6">quấy khóc</span> , <span class="selected problem" .="" start="10" end="11" line="6">bỏ ăn</span>
 Tiền Sử Bệnh
 khỏe
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="10">kháng_sinh</span> , <span class="selected treatment". start="3" end="5" line="10">men tiêu viêm</span> , <span class="selected treatment". start="7" end="7" line="10">vitamin</span>
+<span class="selected treatment" .="" start="1" end="1" line="10">kháng_sinh</span> , <span class="selected treatment" .="" start="3" end="5" line="10">men tiêu viêm</span> , <span class="selected treatment" .="" start="7" end="7" line="10">vitamin</span>

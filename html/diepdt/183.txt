@@ -1,4 +1,4 @@
 Tổng Kết Bệnh Lý
-Bệnh_nhân <span class="selected problem". start="2" end="5" line="2">gãy xương bánh_chè T</span> đã <span class="selected treatment". start="7" end="7" line="2">mổ</span> 6 tháng , xương lành tốt vào viện lấy dụng_cụ ,
+Bệnh_nhân <span class="selected problem" .="" start="2" end="5" line="2">gãy xương bánh_chè T</span> đã <span class="selected treatment" .="" start="7" end="7" line="2">mổ</span> 6 tháng , xương lành tốt vào viện lấy dụng_cụ ,
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="5" line="4">Lấy đinh + chỉ thép</span>
+<span class="selected treatment" .="" start="1" end="5" line="4">Lấy đinh + chỉ thép</span>

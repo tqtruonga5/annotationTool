@@ -1,9 +1,9 @@
 Bệnh Lý
-BN khai 3 ngày_nay <span class="selected problem". start="5" end="7" line="2">tiêu phân sệt</span> 3l / ngày , cùng ngày <span class="selected problem". start="14" end="22" line="2">đau quặn bụng dọc khung đại_tràng ( T )</span> , <span class="selected problem". start="24" end="28" line="2">tiêu lỏng ko đàm nhớt</span> khám nhập_viện
+BN khai 3 ngày_nay <span class="selected problem" .="" start="5" end="7" line="2">tiêu phân sệt</span> 3l / ngày , cùng ngày <span class="selected problem" .="" start="14" end="22" line="2">đau quặn bụng dọc khung đại_tràng ( T )</span> , <span class="selected problem" .="" start="24" end="28" line="2">tiêu lỏng ko đàm nhớt</span> khám nhập_viện
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="4">phẫu_thuật</span>
+<span class="selected treatment" .="" start="1" end="1" line="4">phẫu_thuật</span>
 Tóm Tắt Khám Bệnh
-BN nam 35 tuổi khai 3 ngày_nay <span class="selected problem". start="8" end="13" line="6">tiêu phân sệt 3l / ngày</span> , cùng ngày <span class="selected problem". start="17" end="25" line="6">đau quặn bụng dọc khung đại_tràng ( T )</span> , <span class="selected problem". start="27" end="31" line="6">tiêu lỏng ko đàm nhớt</span> khám nhập_viện .
-<span class="selected test". start="1" end="1" line="7">Siêu_âm</span> : <span class="selected problem". start="3" end="5" line="7">Sỏi 2 thận</span>
-<span class="selected test". start="1" end="1" line="8">CT</span> : <span class="selected problem". start="3" end="7" line="8">Sỏi niệu_quản ( T )</span> .
-Chẩn_đoán : <span class="selected problem". start="3" end="7" line="9">Sỏi niệu_quản ( T )</span> + <span class="selected problem". start="9" end="13" line="9">Sỏi thận ( T )</span> .
+BN nam 35 tuổi khai 3 ngày_nay <span class="selected problem" .="" start="8" end="13" line="6">tiêu phân sệt 3l / ngày</span> , cùng ngày <span class="selected problem" .="" start="17" end="25" line="6">đau quặn bụng dọc khung đại_tràng ( T )</span> , <span class="selected problem" .="" start="27" end="31" line="6">tiêu lỏng ko đàm nhớt</span> khám nhập_viện .
+<span class="selected test" .="" start="1" end="1" line="7">Siêu_âm</span> : <span class="selected problem" .="" start="3" end="5" line="7">Sỏi 2 thận</span>
+<span class="selected test" .="" start="1" end="1" line="8">CT</span> : <span class="selected problem" .="" start="3" end="7" line="8">Sỏi niệu_quản ( T )</span> .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="7" line="9">Sỏi niệu_quản ( T )</span> + <span class="selected problem" .="" start="9" end="13" line="9">Sỏi thận ( T )</span> .

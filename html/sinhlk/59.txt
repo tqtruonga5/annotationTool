@@ -1,8 +1,8 @@
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="2">nội_khoa</span>
 Tổng Kết Bệnh Lý
-Bệnh_nhân nặng , <span class="selected problem". start="4" end="6" line="4">nôn ra máu</span> - - > chuyển xuống ICU - - > <span class="selected treatment". start="16" end="19" line="4">diều trị truyền máu</span> , <span class="selected treatment". start="21" end="22" line="4">truyền dịch</span> , <span class="selected treatment". start="24" end="24" line="4">kháng_sinh</span> , <span class="selected treatment". start="26" end="27" line="4">khí dung</span> .
+Bệnh_nhân nặng , <span class="selected problem" .="" start="4" end="6" line="4">nôn ra máu</span> - - &gt; chuyển xuống ICU - - &gt; <span class="selected treatment" .="" start="16" end="19" line="4">diều trị truyền máu</span> , <span class="selected treatment" .="" start="21" end="22" line="4">truyền dịch</span> , <span class="selected treatment" .="" start="24" end="24" line="4">kháng_sinh</span> , <span class="selected treatment" .="" start="26" end="27" line="4">khí dung</span> .
 Ngày 4.5.2014 Bệnh_nhân hết sốt , ho ít cho bệnh_nhân xuất_viện về
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>
-<span class="selected treatment". start="1" end="3" line="8">ức_chế bơm proton</span>
+<span class="selected treatment" .="" start="1" end="1" line="7">Kháng_sinh</span>
+<span class="selected treatment" .="" start="1" end="3" line="8">ức_chế bơm proton</span>

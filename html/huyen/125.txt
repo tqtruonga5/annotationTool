@@ -1,7 +1,7 @@
 Lý Do
-<span class="selected problem". start="1" end="2" line="2">Khó thở</span>
+<span class="selected problem" .="" start="1" end="2" line="2">Khó thở</span>
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="4">nội_khoa</span>
 Tổng Kết Bệnh Lý
-<span class="selected problem". start="1" end="2" line="6">Bệnh_nhân nặng</span> - - > <span class="selected treatment". start="6" end="7" line="6">nhập Icu</span> - - > <span class="selected treatment". start="11" end="12" line="6">thở máy</span> - - > <span class="selected treatment". start="16" end="16" line="6">kháng_sinh</span> - - > <span class="selected treatment". start="20" end="21" line="6">kháng nấm</span> - - > <span class="selected treatment". start="25" end="27" line="6">nâng đở cơ_thể</span>
-Sau 9 ngày điều_trị - - > gia_đình xin đưa bệnh_nhân về
+<span class="selected problem" .="" start="1" end="2" line="6">Bệnh_nhân nặng</span> - - &gt; <span class="selected treatment" .="" start="6" end="7" line="6">nhập Icu</span> - - &gt; <span class="selected treatment" .="" start="11" end="12" line="6">thở máy</span> - - &gt; <span class="selected treatment" .="" start="16" end="16" line="6">kháng_sinh</span> - - &gt; <span class="selected treatment" .="" start="20" end="21" line="6">kháng nấm</span> - - &gt; <span class="selected treatment" .="" start="25" end="27" line="6">nâng đở cơ_thể</span>
+Sau 9 ngày điều_trị - - &gt; gia_đình xin đưa bệnh_nhân về

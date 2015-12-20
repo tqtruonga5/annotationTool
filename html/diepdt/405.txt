@@ -1,6 +1,6 @@
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="2">nội_khoa</span>
 Tổng Kết Bệnh Lý
-Bệnh_nhân <span class="selected problem". start="2" end="3" line="4">mệt nhiều</span> - - > <span class="selected treatment". start="7" end="9" line="4">nhập ICU điều_trị</span>
-Bệnh_nhân được điều_trị : <span class="selected treatment". start="5" end="5" line="5">Albumin</span> , <span class="selected treatment". start="7" end="8" line="5">long đàm</span> , <span class="selected treatment". start="10" end="10" line="5">lợi_tiểu</span> , <span class="selected treatment". start="12" end="14" line="5">ức_chế bơm proton</span>
+Bệnh_nhân <span class="selected problem" .="" start="2" end="3" line="4">mệt nhiều</span> - - &gt; <span class="selected treatment" .="" start="7" end="9" line="4">nhập ICU điều_trị</span>
+Bệnh_nhân được điều_trị : <span class="selected treatment" .="" start="5" end="5" line="5">Albumin</span> , <span class="selected treatment" .="" start="7" end="8" line="5">long đàm</span> , <span class="selected treatment" .="" start="10" end="10" line="5">lợi_tiểu</span> , <span class="selected treatment" .="" start="12" end="14" line="5">ức_chế bơm proton</span>
 Bệnh_nhân tạm ồn định , Cho bệnh_nhân xuất_viện

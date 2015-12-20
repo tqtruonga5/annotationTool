@@ -1,7 +1,7 @@
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="2">nội_khoa</span>
 Tổng Kết Bệnh Lý
-<span class="selected problem". start="1" end="2" line="4">Bệnh_nhân lơ_mơ</span> , <span class="selected test". start="4" end="4" line="4">huyết_áp_thấp</span> 85/55 mmHg - - > vào ICU điều_trị - - > <span class="selected treatment". start="16" end="16" line="4">kháng_sinh</span> , <span class="selected treatment". start="18" end="20" line="4">đạt sonde bàng_quang</span> rửa liên_tục - - > nướcc tiểu rửa ra đục đến trong dần , bù dịch , dinh_dưỡng .
+<span class="selected problem" .="" start="1" end="2" line="4">Bệnh_nhân lơ_mơ</span> , <span class="selected problem" .="" start="4" end="4" line="4">huyết_áp_thấp</span> 85/55 mmHg - - &gt; vào ICU điều_trị - - &gt; <span class="selected treatment" .="" start="16" end="16" line="4">kháng_sinh</span> , <span class="selected treatment" .="" start="18" end="20" line="4">đạt sonde bàng_quang</span> rửa liên_tục - - &gt; nướcc tiểu rửa ra đục đến trong dần , bù dịch , dinh_dưỡng .
 Gia_đình xin xuất_viện vì lý_do kinh_tế khó_khăn
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span>
+<span class="selected treatment" .="" start="1" end="1" line="7">Kháng_sinh</span>

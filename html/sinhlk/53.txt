@@ -1,14 +1,14 @@
 Tiền Sử Bệnh
 chưa rõ
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="4">phẫu_thuật</span>
+<span class="selected treatment" .="" start="1" end="1" line="4">phẫu_thuật</span>
 Tóm Tắt Khám Bệnh
-BN nam 48 tuổi <span class="selected problem". start="5" end="10" line="6">đau hông lưng ( T )</span> lan ra tước từ chiều , chưa tiêu khám nhập
-<span class="selected test". start="1" end="2" line="7">CT bụng</span> : <span class="selected problem". start="4" end="12" line="7">Sỏi kẹt niệu_quản ( T ) đoạn nội_thành bàng_quang</span> .
-Chẩn_đoán : <span class="selected problem". start="3" end="8" line="8">Soỉ kẹt niệu_quản ( T )</span> .
+BN nam 48 tuổi <span class="selected problem" .="" start="5" end="10" line="6">đau hông lưng ( T )</span> lan ra tước từ chiều , chưa tiêu khám nhập
+<span class="selected test" .="" start="1" end="2" line="7">CT bụng</span> : <span class="selected problem" .="" start="4" end="12" line="7">Sỏi kẹt niệu_quản ( T ) đoạn nội_thành bàng_quang</span> .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="8" line="8">Soỉ kẹt niệu_quản ( T )</span> .
 Tổng Kết Bệnh Lý
-BN <span class="selected problem". start="2" end="4" line="10">đau hông lưng</span> ( T ) lan ra tước từ chiều , chưa tiêu khám nhập
-<span class="selected test". start="1" end="2" line="11">CT bụng</span> : <span class="selected problem". start="4" end="6" line="11">Sỏi kẹt niệu_quản</span> ( T ) đoạn nội_thành bàng_quang .
-Chẩn_đoán : <span class="selected problem". start="3" end="5" line="12">Soỉ kẹt niệu_quản</span> ( T ) . Được <span class="selected treatment". start="11" end="14" line="12">PT tán sỏi niệu_quản</span> ( T ) + đặt <span class="selected treatment". start="20" end="21" line="12">sonde JJ</span> , sau PT bệnh ổn xuất_viện .
+BN <span class="selected problem" .="" start="2" end="4" line="10">đau hông lưng</span> ( T ) lan ra tước từ chiều , chưa tiêu khám nhập
+<span class="selected test" .="" start="1" end="2" line="11">CT bụng</span> : <span class="selected problem" .="" start="4" end="6" line="11">Sỏi kẹt niệu_quản</span> ( T ) đoạn nội_thành bàng_quang .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="5" line="12">Soỉ kẹt niệu_quản</span> ( T ) . Được <span class="selected treatment" .="" start="11" end="14" line="12">PT tán sỏi niệu_quản</span> ( T ) + đặt <span class="selected treatment" .="" start="20" end="21" line="12">sonde JJ</span> , sau PT bệnh ổn xuất_viện .
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="4" line="14">PT tán sỏi Laser</span> + <span class="selected treatment". start="6" end="7" line="14">đặt JJ</span>
+<span class="selected treatment" .="" start="1" end="4" line="14">PT tán sỏi Laser</span> + <span class="selected treatment" .="" start="6" end="7" line="14">đặt JJ</span>

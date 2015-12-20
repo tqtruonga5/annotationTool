@@ -1,4 +1,4 @@
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="2">nội_khoa</span>
 Tổng Kết Bệnh Lý
-Bệnh_nhân <span class="selected problem". start="2" end="2" line="4">hôn_mê</span> - - > nhập ICU - - > <span class="selected treatment". start="11" end="12" line="4">bù dịch</span> - - > ổn_định đường_huyết - - > chụp CT ngực : <span class="selected test". start="25" end="29" line="4">tràn dịch màng phổi trái</span> lượng nhiều - - > hội_chẩn Với BS Bệnh_viện Phạm_Ngọc_Thạch - - > chuyển Bệnh_nhân sang Bệnh_viện Phạm_Ngọc_Thạch để điều_trị chuyên_khoa .
+Bệnh_nhân <span class="selected problem" .="" start="2" end="2" line="4">hôn_mê</span> - - &gt; nhập ICU - - &gt; <span class="selected treatment" .="" start="11" end="12" line="4">bù dịch</span> - - &gt; ổn_định đường_huyết - - &gt; chụp CT ngực : <span class="selected test" .="" start="25" end="29" line="4">tràn dịch màng phổi trái</span> lượng nhiều - - &gt; hội_chẩn Với BS Bệnh_viện Phạm_Ngọc_Thạch - - &gt; chuyển Bệnh_nhân sang Bệnh_viện Phạm_Ngọc_Thạch để điều_trị chuyên_khoa .

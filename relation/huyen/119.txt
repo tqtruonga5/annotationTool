@@ -1,7 +1,0 @@
-c="nhập ICU" 4:5 4:6||r="TrWP"||c="Bệnh_nhân nặng" 4:1 4:2
-c="chuyển nội" 4:10 4:11||r="TrWP"||c="Bệnh_nhân nặng" 4:1 4:2
-c="Chuyển phòng mổ" 4:15 4:17||r="TrWP"||c="Bệnh_nhân nặng" 4:1 4:2
-c="Mổ cắt ruốt thừa nội_soi + lau rửa ổ_bụng" 4:22 4:30||r="TrWP"||c="Bệnh_nhân nặng" 4:1 4:2
-c="điều_trị kháng_sinh phổ rộng" 4:34 4:37||r="TrWP"||c="Bệnh_nhân nặng" 4:1 4:2
-c="điều_chỉnh cân_bằng nước và điện giải" 4:41 4:46||r="TrWP"||c="Bệnh_nhân nặng" 4:1 4:2
-c="điều_chỉnh đường huyêt , huyết_áp , dinh_dưỡng bằng đường tĩnh_mạch" 4:49 4:58||r="TrWP"||c="Bệnh_nhân nặng" 4:1 4:2

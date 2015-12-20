@@ -1,4 +1,4 @@
 Tiền Sử Bệnh
 Khỏe
 Tổng Kết Bệnh Lý
-bệnh_nhân <span class="selected problem". start="2" end="5" line="4">gãy kín xương_đòn T</span> có mãnh thứ 3 , <span class="selected problem". start="11" end="14" line="4">nứt chỏm quay P</span> , vào viện <span class="selected treatment". start="18" end="22" line="4">phẫu_thuật kết_hợp xương_đòn đnh K</span> , <span class="selected treatment". start="24" end="24" line="4">hậu_phẫu</span> thuận_lợi , xuất_viện
+bệnh_nhân <span class="selected problem" .="" start="2" end="5" line="4">gãy kín xương_đòn T</span> có mãnh thứ 3 , <span class="selected problem" .="" start="11" end="14" line="4">nứt chỏm quay P</span> , vào viện <span class="selected treatment" .="" start="18" end="22" line="4">phẫu_thuật kết_hợp xương_đòn đnh K</span> , hậu_phẫu thuận_lợi , xuất_viện

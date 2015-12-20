@@ -3,9 +3,9 @@ Lý Do
 Tiền Sử Bệnh
 Chưa rõ
 Tóm Tắt Khám Bệnh
-Bệnh_nhân nam 62 tuổi , có <span class="selected problem". start="7" end="9" line="6">khối phồng hậu_môn</span> , <span class="selected problem". start="11" end="14" line="6">đi_cầu ra máu tươi</span> , mổi khi đi_cầu phải lấy tay nhét lên , vào <span class="selected test". start="26" end="29" line="6">khám thăm hậu_môn trực_tràng</span> : <span class="selected problem". start="31" end="34" line="6">Trĩ nội độ III</span> .
+Bệnh_nhân nam 62 tuổi , có <span class="selected problem" .="" start="7" end="9" line="6">khối phồng hậu_môn</span> , <span class="selected problem" .="" start="11" end="14" line="6">đi_cầu ra máu tươi</span> , mổi khi đi_cầu phải lấy tay nhét lên , vào <span class="selected test" .="" start="26" end="29" line="6">khám thăm hậu_môn trực_tràng</span> : <span class="selected problem" .="" start="31" end="34" line="6">Trĩ nội độ III</span> .
 Tổng Kết Bệnh Lý
-Bệnh_nhân nam 62 tuổi , có <span class="selected problem". start="7" end="9" line="8">khối phồng hậu_môn</span> , <span class="selected problem". start="11" end="14" line="8">đi_cầu ra máu tươi</span> , mổi khi đi_cầu phải lấy tay nhét lên , vào khám thăm hậu_môn trực_tràng : <span class="selected problem". start="31" end="34" line="8">Trĩ nội độ III</span> .
-Chẩn_đoán : <span class="selected problem". start="3" end="5" line="9">Trĩ độ III</span> , <span class="selected treatment". start="7" end="11" line="9">phẫu_thuật cắt trĩ phương_pháp longo</span> , sau phẫu_thuật bệnh ổn_định , đi_cầu không chảy_máu , vận_động , ăn_uống bình_thường , cho bệnh_nhân xuất_viện .
+Bệnh_nhân nam 62 tuổi , có <span class="selected problem" .="" start="7" end="9" line="8">khối phồng hậu_môn</span> , <span class="selected problem" .="" start="11" end="14" line="8">đi_cầu ra máu tươi</span> , mổi khi đi_cầu phải lấy tay nhét lên , vào khám thăm hậu_môn trực_tràng : <span class="selected problem" .="" start="31" end="34" line="8">Trĩ nội độ III</span> .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="5" line="9">Trĩ độ III</span> , <span class="selected treatment" .="" start="7" end="11" line="9">phẫu_thuật cắt trĩ phương_pháp longo</span> , sau phẫu_thuật bệnh ổn_định , đi_cầu không chảy_máu , vận_động , ăn_uống bình_thường , cho bệnh_nhân xuất_viện .
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="11">Phẫu_thuật</span>
+<span class="selected treatment" .="" start="1" end="1" line="11">Phẫu_thuật</span>

@@ -1,12 +1,12 @@
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="2">Nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="2">Nội_khoa</span>
 Tổng Kết Bệnh Lý
-Bệnh_nhân nữ 33 tuổi vào viện với lý_do : Bệnh_nhân khai <span class="selected problem". start="12" end="19" line="4">đau vùng hông lưng khoảng 1 tháng nay</span> , <span class="selected problem". start="21" end="22" line="4">tiểu buốt</span> .
-<span class="selected test". start="1" end="7" line="5">Ngày 1/7 / 2014 : Siêu_âm bụng</span> : <span class="selected problem". start="9" end="31" line="5">Thận ( P ) có sỏi + Ứ nước độ I do Sỏi kẹt khúc nối bể thận - niệu_quản ( P )</span> .
-- - > <span class="selected treatment". start="4" end="5" line="6">Nhập_viện phẫu_thuật</span>
-Nhập_viện <span class="selected test". start="2" end="4" line="7">chụp CT bụng</span> : <span class="selected problem". start="6" end="10" line="7">Sỏi thận ( P )</span>
-<span class="selected test". start="1" end="1" line="8">KUB</span> : <span class="selected problem". start="3" end="8" line="8">TD sỏi thận ( P )</span>
-Chẩn_đoán : <span class="selected test". start="3" end="7" line="9">Sỏi thận ( P )</span> .
-<span class="selected treatment". start="1" end="2" line="10">Điều_trị nội_khoa</span> , bệnh ổn - - > xuất_viện
+Bệnh_nhân nữ 33 tuổi vào viện với lý_do : Bệnh_nhân khai <span class="selected problem" .="" start="12" end="19" line="4">đau vùng hông lưng khoảng 1 tháng nay</span> , <span class="selected problem" .="" start="21" end="22" line="4">tiểu buốt</span> .
+<span class="selected test" .="" start="1" end="7" line="5">Ngày 1/7 / 2014 : Siêu_âm bụng</span> : <span class="selected problem" .="" start="9" end="31" line="5">Thận ( P ) có sỏi + Ứ nước độ I do Sỏi kẹt khúc nối bể thận - niệu_quản ( P )</span> .
+- - &gt; <span class="selected treatment" .="" start="4" end="5" line="6">Nhập_viện phẫu_thuật</span>
+Nhập_viện <span class="selected test" .="" start="2" end="4" line="7">chụp CT bụng</span> : <span class="selected problem" .="" start="6" end="10" line="7">Sỏi thận ( P )</span>
+<span class="selected test" .="" start="1" end="1" line="8">KUB</span> : <span class="selected problem" .="" start="3" end="8" line="8">TD sỏi thận ( P )</span>
+Chẩn_đoán : <span class="selected test" .="" start="3" end="7" line="9">Sỏi thận ( P )</span> .
+<span class="selected treatment" .="" start="1" end="2" line="10">Điều_trị nội_khoa</span> , bệnh ổn - - &gt; xuất_viện
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="12">Nội_Khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="12">Nội_Khoa</span>

@@ -1,4 +1,4 @@
 Lý Do
-<span class="selected problem". start="1" end="1" line="2">Sốt</span> , <span class="selected problem". start="3" end="3" line="2">mệt</span>
+<span class="selected problem" .="" start="1" end="1" line="2">Sốt</span> , <span class="selected problem" .="" start="3" end="3" line="2">mệt</span>
 Tổng Kết Bệnh Lý
-Hai ngày_nay bệnh_nhân <span class="selected problem". start="4" end="5" line="4">đau lưng</span> , <span class="selected problem". start="7" end="9" line="4">hông ( T</span> ) , <span class="selected problem". start="12" end="14" line="4">sốt lạng run</span> , <span class="selected problem". start="16" end="16" line="4">mệt</span> - - > khám vào viện - - - > Sau <span class="selected treatment". start="28" end="28" line="4">điều_trị</span> bệnh_nhân bớt tiểu buốt , cảm_giác chủ_quan khỏe .
+Hai ngày_nay bệnh_nhân <span class="selected problem" .="" start="4" end="5" line="4">đau lưng</span> , <span class="selected problem" .="" start="7" end="9" line="4">hông ( T</span> ) , <span class="selected problem" .="" start="12" end="14" line="4">sốt lạng run</span> , <span class="selected problem" .="" start="16" end="16" line="4">mệt</span> - - &gt; khám vào viện - - - &gt; Sau <span class="selected treatment" .="" start="28" end="28" line="4">điều_trị</span> bệnh_nhân bớt tiểu buốt , cảm_giác chủ_quan khỏe .

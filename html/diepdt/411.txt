@@ -2,20 +2,20 @@ Lý Do
 Đi_cầu ra máu
 Bệnh Lý
 Bệnh_nhân khai khoảng 3 tháng nay thỉnh_thoảng đi_cầu ra máu .
-Gần đây đi_cầu ra máu nhiều vào khám ở bv Đồng_Nai chẩn_đoán : Trĩ nội độ II xuất_huyết - - > Nhập_viện phẫu_thuật
+Gần đây đi_cầu ra máu nhiều vào khám ở bv Đồng_Nai chẩn_đoán : Trĩ nội độ II xuất_huyết - - &gt; Nhập_viện phẫu_thuật
 Tiền Sử Bệnh
 Khỏe
 Điều Trị
 Ngoại_khoa
 Tóm Tắt Khám Bệnh
 Bệnh_nhân nữ 21 tuổi vào viện với lí_do : Bệnh_nhân khai khoảng 3 tháng nay thỉnh_thoảng đi_cầu ra máu .
-Gần đây đi_cầu ra máu nhiều vào khám ở bv Đồng_Nai chẩn_đoán : Trĩ nội độ II xuất_huyết - - > Nhập_viện phẫu_thuật
+Gần đây đi_cầu ra máu nhiều vào khám ở bv Đồng_Nai chẩn_đoán : Trĩ nội độ II xuất_huyết - - &gt; Nhập_viện phẫu_thuật
 Chẩn_đoán : Trĩ nội độ II xuất_huyết + Da thừa hậu_môn
 Tổng Kết Bệnh Lý
-Bệnh_nhân nữ 21 tuổi vào viện với lí_do : Bệnh_nhân khai khoảng 3 tháng nay thỉnh_thoảng <span class="selected problem". start="17" end="19" line="15">đi_cầu ra máu</span> .
-Gần đây <span class="selected problem". start="3" end="5" line="16">đi_cầu ra máu</span> nhiều vào khám ở bv Đồng_Nai chẩn_đoán : <span class="selected problem". start="14" end="18" line="16">Trĩ nội độ II xuất_huyết</span> - - > Nhập_viện <span class="selected treatment". start="23" end="23" line="16">phẫu_thuật</span>
-Chẩn_đoán : <span class="selected problem". start="3" end="7" line="17">Trĩ nội độ II xuất_huyết</span> + <span class="selected problem". start="9" end="11" line="17">Da thừa hậu_môn</span> .
-<span class="selected treatment". start="1" end="5" line="18">Phẫu_thuật cắt trĩ pp Longgo</span> + <span class="selected treatment". start="7" end="10" line="18">Cắt da thừa hậu_môn</span> .
-Sau <span class="selected treatment". start="2" end="2" line="19">điều_trị</span> , bệnh ổn , hậu_môn không chảy_máu - - > xuất_viện
+Bệnh_nhân nữ 21 tuổi vào viện với lí_do : Bệnh_nhân khai khoảng 3 tháng nay thỉnh_thoảng <span class="selected problem" .="" start="17" end="19" line="15">đi_cầu ra máu</span> .
+Gần đây <span class="selected problem" .="" start="3" end="5" line="16">đi_cầu ra máu</span> nhiều vào khám ở bv Đồng_Nai chẩn_đoán : <span class="selected problem" .="" start="14" end="18" line="16">Trĩ nội độ II xuất_huyết</span> - - &gt; Nhập_viện <span class="selected treatment" .="" start="23" end="23" line="16">phẫu_thuật</span>
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="7" line="17">Trĩ nội độ II xuất_huyết</span> + <span class="selected problem" .="" start="9" end="11" line="17">Da thừa hậu_môn</span> .
+<span class="selected treatment" .="" start="1" end="5" line="18">Phẫu_thuật cắt trĩ pp Longgo</span> + <span class="selected treatment" .="" start="7" end="10" line="18">Cắt da thừa hậu_môn</span> .
+Sau <span class="selected treatment" .="" start="2" end="2" line="19">điều_trị</span> , bệnh ổn , hậu_môn không chảy_máu - - &gt; xuất_viện
 Tổng Kết Phương Pháp Điều Trị
 Phẫu_thuật cắt trĩ PP Longo + cắt da thừa hậu_môn

@@ -1,4 +1,4 @@
 Tiền Sử Bệnh
 khỏe
 Tóm Tắt Khám Bệnh
-Bệnh_nhân bị tai_nạn giao_thông tối_qua <span class="selected problem". start="6" end="15" line="4">gãy kín mắt_cá ngoài và 1/3 dưới xương chày T</span> , <span class="selected problem". start="17" end="19" line="4">vết_thương gót T</span> , đã được <span class="selected treatment". start="23" end="29" line="4">cố_định nẹp gỗ và thay băng vết_thương</span>
+Bệnh_nhân bị tai_nạn giao_thông tối_qua <span class="selected problem" .="" start="6" end="15" line="4">gãy kín mắt_cá ngoài và 1/3 dưới xương chày T</span> , <span class="selected problem" .="" start="17" end="19" line="4">vết_thương gót T</span> , đã được <span class="selected treatment" .="" start="23" end="29" line="4">cố_định nẹp gỗ và thay băng vết_thương</span>

@@ -1,6 +1,6 @@
 Lý Do
-<span class="selected problem". start="1" end="5" line="2">Đau_nhức chân ( P )</span>
+<span class="selected problem" .="" start="1" end="5" line="2">Đau_nhức chân ( P )</span>
 Bệnh Lý
-Gần đây Bn <span class="selected problem". start="4" end="9" line="4">đau_nhức nhiều chân ( P )</span> , <span class="selected problem". start="11" end="14" line="4">đau ngang cột_sống thắt_lưng</span> , <span class="selected problem". start="16" end="19" line="4">đau tăng khi vận_động</span> - - - > <span class="selected treatment". start="24" end="26" line="4">Khám và điều_trị</span> .
+Gần đây Bn <span class="selected problem" .="" start="4" end="9" line="4">đau_nhức nhiều chân ( P )</span> , <span class="selected problem" .="" start="11" end="14" line="4">đau ngang cột_sống thắt_lưng</span> , <span class="selected problem" .="" start="16" end="19" line="4">đau tăng khi vận_động</span> - - - &gt; <span class="selected treatment" .="" start="24" end="26" line="4">Khám và điều_trị</span> .
 Tiền Sử Bệnh
-<span class="selected problem". start="1" end="2" line="6">Viêm dạ_dày</span> - <span class="selected problem". start="4" end="4" line="6">Loãng_xương</span> - <span class="selected problem". start="6" end="7" line="6">Thoái_hóa khớp</span> .
+<span class="selected problem" .="" start="1" end="2" line="6">Viêm dạ_dày</span> - <span class="selected problem" .="" start="4" end="4" line="6">Loãng_xương</span> - <span class="selected problem" .="" start="6" end="7" line="6">Thoái_hóa khớp</span> .

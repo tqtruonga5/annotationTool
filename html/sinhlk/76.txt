@@ -1,12 +1,12 @@
 Lý Do
-<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+<span class="selected problem" .="" start="1" end="2" line="2">Đau bụng</span>
 Tiền Sử Bệnh
 Bình_thường
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="6">Phẫu_thuật</span>
+<span class="selected treatment" .="" start="1" end="1" line="6">Phẫu_thuật</span>
 Tổng Kết Bệnh Lý
-<span class="selected problem". start="1" end="5" line="8">Đau thượng_vị quanh rốn râm_ran</span> từ 13 giờ ngày 13/07 đau tăng dần và lan hố_chậu phải , vào cấp_cứu khám : <span class="selected problem". start="23" end="24" line="8">Bụng mềm</span> , <span class="selected problem". start="26" end="30" line="8">ấn đau vùng hố_chậu phải</span> , <span class="selected problem". start="32" end="34" line="8">sốt 37,5 độ</span> , xét_nghiệm <span class="selected test". start="37" end="39" line="8">bạch_cầu tăng cao</span> , <span class="selected test". start="41" end="43" line="8">chụp CT bụng</span> : Viêm ruột_thừa sau manh_tràng .
-Chẩn_đoán : <span class="selected problem". start="3" end="6" line="9">Viêm ruột_thừa sau manh_tràng</span> .
-<span class="selected treatment". start="1" end="4" line="10">Phẫu_thuật cắt ruột_thừa nội_soi</span> ở vị_trí bất_thường , sau phẫu_thuật bệnh ổn_định , cho bệnh_nhân xuất_viện , hẹn tái khám .
+<span class="selected problem" .="" start="1" end="5" line="8">Đau thượng_vị quanh rốn râm_ran</span> từ 13 giờ ngày 13/07 đau tăng dần và lan hố_chậu phải , vào cấp_cứu khám : <span class="selected problem" .="" start="23" end="24" line="8">Bụng mềm</span> , <span class="selected problem" .="" start="26" end="30" line="8">ấn đau vùng hố_chậu phải</span> , <span class="selected problem" .="" start="32" end="34" line="8">sốt 37,5 độ</span> , <span class="selected test" start="36" end="36" line="8">xét_nghiệm</span> <span class="selected problem" .="" start="37" end="39" line="8">bạch_cầu tăng cao</span> , <span class="selected test" .="" start="41" end="43" line="8">chụp CT bụng</span> : <span class="selected problem" start="45" end="46" line="8">Viêm ruột_thừa</span> sau manh_tràng .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="6" line="9">Viêm ruột_thừa sau manh_tràng</span> .
+<span class="selected treatment" .="" start="1" end="4" line="10">Phẫu_thuật cắt ruột_thừa nội_soi</span> ở vị_trí bất_thường , sau phẫu_thuật bệnh ổn_định , cho bệnh_nhân xuất_viện , hẹn tái khám .
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="12">Phẫu_thuật</span>
+<span class="selected treatment" .="" start="1" end="1" line="12">Phẫu_thuật</span>

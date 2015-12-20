@@ -1,10 +1,10 @@
 Lý Do
-<span class="selected problem". start="1" end="1" line="2">sốt</span>
+<span class="selected problem" .="" start="1" end="1" line="2">sốt</span>
 Bệnh Lý
-bệnh_nhân <span class="selected problem". start="2" end="2" line="4">sất</span> từ tối kèm <span class="selected problem". start="6" end="6" line="4">ho</span> , đo <span class="selected test". start="9" end="9" line="4">huyết_áp_cao</span> có uống 1 viên ( <span class="selected treatment". start="15" end="15" line="4">amlor</span> ? ? ) .
-Sáng nay thấy <span class="selected problem". start="4" end="4" line="5">mệt</span> , <span class="selected problem". start="6" end="8" line="5">đau 2 vai</span> , <span class="selected problem". start="10" end="16" line="5">đau từ hông trái đến vai trái</span> .
+bệnh_nhân sất từ tối kèm <span class="selected problem" .="" start="6" end="6" line="4">ho</span> , đo <span class="selected test" .="" start="9" end="9" line="4">huyết_áp_cao</span> có uống 1 viên ( <span class="selected treatment" .="" start="15" end="15" line="4">amlor</span> ? ? ) .
+Sáng nay thấy <span class="selected problem" .="" start="4" end="4" line="5">mệt</span> , <span class="selected problem" .="" start="6" end="8" line="5">đau 2 vai</span> , <span class="selected problem" .="" start="10" end="16" line="5">đau từ hông trái đến vai trái</span> .
 Tiền Sử Bệnh
-<span class="selected problem". start="1" end="2" line="7">Tăng huyết_áp</span> .
-<span class="selected problem". start="1" end="5" line="8">Suy tĩnh_mạch 2 chi dưới</span>
+<span class="selected problem" .="" start="1" end="2" line="7">Tăng huyết_áp</span> .
+<span class="selected problem" .="" start="1" end="5" line="8">Suy tĩnh_mạch 2 chi dưới</span>
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="10">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="10">nội_khoa</span>

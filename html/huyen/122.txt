@@ -1,10 +1,10 @@
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="2">nội_khoa</span>
 Tổng Kết Bệnh Lý
-<span class="selected problem". start="1" end="2" line="4">Bệnh_nhân nặng</span> - - > <span class="selected treatment". start="6" end="7" line="4">nhập icu</span> - > <span class="selected treatment". start="10" end="13" line="4">điều_trị rối_loạn nhịp chậm</span> .
-<span class="selected treatment". start="1" end="3" line="5">Hạ_áp Dãn vành</span> .
-<span class="selected treatment". start="1" end="5" line="6">Chống kết tập tiểu càu</span> .
-<span class="selected treatment". start="1" end="1" line="7">Kháng_sinh</span> .
-<span class="selected treatment". start="1" end="1" line="8">Dinh_dưỡng</span> .
-<span class="selected treatment". start="1" end="3" line="9">Ức_chế bơm roton</span> .
-Bệnh_nhân ổn_định - - > xuất_viện về
+<span class="selected problem" .="" start="1" end="2" line="4">Bệnh_nhân nặng</span> - - &gt; <span class="selected treatment" .="" start="6" end="7" line="4">nhập icu</span> - &gt; <span class="selected treatment" .="" start="10" end="13" line="4">điều_trị rối_loạn nhịp chậm</span> .
+<span class="selected treatment" .="" start="1" end="3" line="5">Hạ_áp Dãn vành</span> .
+<span class="selected treatment" .="" start="1" end="5" line="6">Chống kết tập tiểu càu</span> .
+<span class="selected treatment" .="" start="1" end="1" line="7">Kháng_sinh</span> .
+<span class="selected treatment" .="" start="1" end="1" line="8">Dinh_dưỡng</span> .
+<span class="selected treatment" .="" start="1" end="3" line="9">Ức_chế bơm roton</span> .
+Bệnh_nhân ổn_định - - &gt; xuất_viện về

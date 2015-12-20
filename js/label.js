@@ -1,6 +1,9 @@
 // var mentions = [];
+var isConcept = true;
 
 function getNumWordInStr(str){
+	if ($.trim(str).length == 0) 
+		return 0;
 	var words = $.trim(str).split(/\s+/);
 	return words.length;
 }
@@ -45,9 +48,11 @@ function highlight(element, selected){
 }
 
 $("#emr-doc").on("mouseup", ".sentence",function(){
-	var selected = getSelected($(this).get(0));
-	if(selected.obj.toString().length > 0){
-		highlight(selected.obj.getRangeAt(0), selected);
+	if (isConcept){
+		var selected = getSelected($(this).get(0));
+		if(selected.obj.toString().length > 0){
+			highlight(selected.obj.getRangeAt(0), selected);
+		}
 	}
 })
 ////////////////////////////////////// End //////////////////////////////////
@@ -57,6 +62,7 @@ $("#emr-doc").on("mouseup", ".sentence",function(){
 var relation_list = [];
 $("#emr-doc").on("click", ".sentence .selected",function(e){
 	if(e.ctrlKey){
+		isConcept = false
 		if(relation_list.length == 1)
 		{
 			if (relation_list[0].attr('start') != $(this).attr('start') || 
@@ -84,20 +90,16 @@ $("#emr-doc").on("click", ".sentence .selected",function(e){
 					relation_list= [];
 				}
 			}
-			else{
-				
-			}
 		}
 		else
 		{
 			relation_list[relation_list.length] = $(this);
 		}
 	}
-	else{
-		relation_list = [];
+	else {
+		isConcept = true;
 		$("#dialog").data("obj",$(this)).dialog("open");
 	}
-	// console.log($(this));
 })
 
 $("#dialog").dialog({
@@ -151,7 +153,7 @@ $("#te-p-dialog").dialog({
 	buttons:{
 		OK: function(){
 			var label = $("input[name=label]:checked").val();
-			insertRelation($("#tr-e-dialog").data("obj"), label);
+			insertRelation($("#te-p-dialog").data("obj"), label);
 			$(this).dialog("close");
 		},
 		Cancel: function(){

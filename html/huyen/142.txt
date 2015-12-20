@@ -3,16 +3,16 @@ Khỏe
 Điều Trị
 Ngoại_khoa
 Tóm Tắt Khám Bệnh
-Bệnh_nhân nữ 31 tuổi vào viện với lí_do : Bệnh_nhân khai khoảng 1 tuần nay có <span class="selected problem". start="17" end="24" line="6">khối trĩ lòi ra ngoài mỗi khi đi_cầu</span> , chưa điều_trị gì - - > vào viện
-<span class="selected test". start="1" end="2" line="7">Thăm HMTT</span> : <span class="selected problem". start="4" end="7" line="7">Trĩ nội độ II</span> + <span class="selected problem". start="9" end="11" line="7">Da thừa hậu_môn</span>
-<span class="selected test". start="1" end="2" line="8">Soi trực_tràng</span> : <span class="selected problem". start="4" end="5" line="8">Trĩ nội</span> + <span class="selected problem". start="7" end="9" line="8">Da thừa hậu_môn</span>
-Chẩn_đoán : <span class="selected problem". start="3" end="6" line="9">Trĩ nội độ II</span> + <span class="selected problem". start="8" end="10" line="9">Da thừa hậu_môn</span>
+Bệnh_nhân nữ 31 tuổi vào viện với lí_do : Bệnh_nhân khai khoảng 1 tuần nay có <span class="selected problem" .="" start="17" end="24" line="6">khối trĩ lòi ra ngoài mỗi khi đi_cầu</span> , chưa điều_trị gì - - &gt; vào viện
+<span class="selected test" .="" start="1" end="2" line="7">Thăm HMTT</span> : <span class="selected problem" .="" start="4" end="7" line="7">Trĩ nội độ II</span> + <span class="selected problem" .="" start="9" end="11" line="7">Da thừa hậu_môn</span>
+<span class="selected test" .="" start="1" end="2" line="8">Soi trực_tràng</span> : <span class="selected problem" .="" start="4" end="5" line="8">Trĩ nội</span> + <span class="selected problem" .="" start="7" end="9" line="8">Da thừa hậu_môn</span>
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="6" line="9">Trĩ nội độ II</span> + <span class="selected problem" .="" start="8" end="10" line="9">Da thừa hậu_môn</span>
 Tổng Kết Bệnh Lý
-Bệnh_nhân nữ 31 tuổi vào viện với lí_do : Bệnh_nhân khai <span class="selected problem". start="12" end="24" line="11">khoảng 1 tuần nay có khối trĩ lòi ra ngoài mỗi khi đi_cầu</span> , <span class="selected problem". start="26" end="28" line="11">chưa điều_trị gì</span> - - > vào viện
-<span class="selected test". start="1" end="2" line="12">Thăm HMTT</span> : Trĩ nội độ II + Da thừa hậu_môn
-<span class="selected test". start="1" end="2" line="13">Soi trực_tràng</span> : Trĩ nội + Da thừa hậu_môn
+Bệnh_nhân nữ 31 tuổi vào viện với lí_do : Bệnh_nhân khai <span class="selected problem" .="" start="12" end="24" line="11">khoảng 1 tuần nay có khối trĩ lòi ra ngoài mỗi khi đi_cầu</span> , <span class="selected problem" .="" start="26" end="28" line="11">chưa điều_trị gì</span> - - &gt; vào viện
+<span class="selected test" .="" start="1" end="2" line="12">Thăm HMTT</span> : Trĩ nội độ II + Da thừa hậu_môn
+<span class="selected test" .="" start="1" end="2" line="13">Soi trực_tràng</span> : Trĩ nội + Da thừa hậu_môn
 Chẩn_đoán : Trĩ nội độ II + Da thừa hậu_môn
-<span class="selected treatment". start="1" end="7" line="15">Phẫu_thuật cắt trĩ + Da thừa hậu_môn</span> .
-Sau điều_trị , bệnh ổn , hậu_môn sạch - - > xuất_viện
+<span class="selected treatment" .="" start="1" end="7" line="15">Phẫu_thuật cắt trĩ + Da thừa hậu_môn</span> .
+Sau điều_trị , bệnh ổn , hậu_môn sạch - - &gt; xuất_viện
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="7" line="18">Phẫu_thuật cắt trĩ + da thừa hậu_môn</span> .
+<span class="selected treatment" .="" start="1" end="7" line="18">Phẫu_thuật cắt trĩ + da thừa hậu_môn</span> .

@@ -1,9 +1,9 @@
 Tiền Sử Bệnh
 chưa rõ
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="4">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="4">nội_khoa</span>
 Tổng Kết Bệnh Lý
-BN kgai <span class="selected problem". start="3" end="5" line="6">đau vùng thượng_vị</span> lúc 12h trưa , <span class="selected problem". start="10" end="11" line="6">đau quặn</span> + <span class="selected problem". start="13" end="17" line="6">đau hố_chậu ( P )</span> khám nhập_viện .
-Chẩn_đoán : <span class="selected problem". start="3" end="4" line="7">Viêm ruột</span> , được <span class="selected treatment". start="7" end="8" line="7">điều_trị nội_khoa</span> , bệnh ổn xuất_viện .
+BN kgai <span class="selected problem" .="" start="3" end="5" line="6">đau vùng thượng_vị</span> lúc 12h trưa , <span class="selected problem" .="" start="10" end="11" line="6">đau quặn</span> + <span class="selected problem" .="" start="13" end="17" line="6">đau hố_chậu ( P )</span> khám nhập_viện .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="4" line="7">Viêm ruột</span> , được <span class="selected treatment" .="" start="7" end="8" line="7">điều_trị nội_khoa</span> , bệnh ổn xuất_viện .
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="9">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="9">nội_khoa</span>

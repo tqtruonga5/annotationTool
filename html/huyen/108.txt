@@ -1,4 +1,4 @@
 Lý Do
-<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+<span class="selected problem" .="" start="1" end="2" line="2">Đau bụng</span>
 Tổng Kết Bệnh Lý
-BN <span class="selected problem". start="2" end="6" line="4">đau quặn thượng_vị từng cơn</span> , <span class="selected problem". start="8" end="11" line="4">tiêu lỏng 2 lần</span> , <span class="selected problem". start="13" end="14" line="4">sốt nhẹ</span> , <span class="selected problem". start="16" end="16" line="4">mệt</span> - - - > Nhập_viện - - - > Sau <span class="selected treatment". start="27" end="27" line="4">điều_trị</span> BN bớt đau bụng , hết tiêu lỏng , hết sốt .
+BN <span class="selected problem" .="" start="2" end="6" line="4">đau quặn thượng_vị từng cơn</span> , <span class="selected problem" .="" start="8" end="11" line="4">tiêu lỏng 2 lần</span> , <span class="selected problem" .="" start="13" end="14" line="4">sốt nhẹ</span> , <span class="selected problem" .="" start="16" end="16" line="4">mệt</span> - - - &gt; Nhập_viện - - - &gt; Sau <span class="selected treatment" .="" start="27" end="27" line="4">điều_trị</span> BN bớt đau bụng , hết tiêu lỏng , hết sốt .

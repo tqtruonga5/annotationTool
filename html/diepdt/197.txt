@@ -1,12 +1,12 @@
 Tóm Tắt Khám Bệnh
-BN nữ 54 tuổi <span class="selected problem". start="5" end="10" line="2">đau hông lưng ( T )</span> từ sáng nay , <span class="selected problem". start="15" end="16" line="2">tiểu gắt</span> , <span class="selected problem". start="18" end="18" line="2">lắt_nhắt</span> , ko sốt , ko lạnh run khám nhập_viện .
-<span class="selected test". start="1" end="1" line="3">Siêu_âm</span> : Sỏi kẹt niệu_quản ( T )
-<span class="selected test". start="1" end="2" line="4">Chụp KUB</span> : Sỏi kẹt niệu_quản ( T ) .
-Chẩn_đoán : <span class="selected problem". start="3" end="8" line="5">Sỏi kẹt niệu_quản ( T )</span> .
+BN nữ 54 tuổi <span class="selected problem" .="" start="5" end="10" line="2">đau hông lưng ( T )</span> từ sáng nay , <span class="selected problem" .="" start="15" end="16" line="2">tiểu gắt</span> , <span class="selected problem" .="" start="18" end="18" line="2">lắt_nhắt</span> , ko sốt , ko lạnh run khám nhập_viện .
+<span class="selected test" .="" start="1" end="1" line="3">Siêu_âm</span> : Sỏi kẹt niệu_quản ( T )
+<span class="selected test" .="" start="1" end="2" line="4">Chụp KUB</span> : Sỏi kẹt niệu_quản ( T ) .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="8" line="5">Sỏi kẹt niệu_quản ( T )</span> .
 Tổng Kết Bệnh Lý
-BN <span class="selected problem". start="2" end="4" line="7">đau hông lưng</span> ( T ) từ sáng nay , <span class="selected problem". start="12" end="13" line="7">tiểu gắt</span> , <span class="selected problem". start="15" end="15" line="7">lắt_nhắt</span> , ko sốt , ko lạnh run khám nhập_viện .
-Siêu_âm : <span class="selected test". start="3" end="5" line="8">Sỏi kẹt niệu_quản</span> ( T )
-Chụp KUB : <span class="selected test". start="4" end="6" line="9">Sỏi kẹt niệu_quản</span> ( T ) .
-Chẩn_đoán : <span class="selected problem". start="3" end="5" line="10">Sỏi kẹt niệu_quản</span> ( T ) . Được <span class="selected treatment". start="11" end="14" line="10">PT tán sỏi niệu_quản</span> ( T ) , sau PT bệnh ổn xuất_viện .
+BN <span class="selected problem" .="" start="2" end="4" line="7">đau hông lưng</span> ( T ) từ sáng nay , <span class="selected problem" .="" start="12" end="13" line="7">tiểu gắt</span> , <span class="selected problem" .="" start="15" end="15" line="7">lắt_nhắt</span> , ko sốt , ko lạnh run khám nhập_viện .
+Siêu_âm : <span class="selected test" .="" start="3" end="5" line="8">Sỏi kẹt niệu_quản</span> ( T )
+Chụp KUB : <span class="selected test" .="" start="4" end="6" line="9">Sỏi kẹt niệu_quản</span> ( T ) .
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="5" line="10">Sỏi kẹt niệu_quản</span> ( T ) . Được <span class="selected treatment" .="" start="11" end="14" line="10">PT tán sỏi niệu_quản</span> ( T ) , sau PT bệnh ổn xuất_viện .
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="4" line="12">PT tán sỏi Laser</span> + <span class="selected treatment". start="6" end="7" line="12">đặt JJ</span>
+<span class="selected treatment" .="" start="1" end="4" line="12">PT tán sỏi Laser</span> + <span class="selected treatment" .="" start="6" end="7" line="12">đặt JJ</span>

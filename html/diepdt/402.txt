@@ -1,11 +1,11 @@
 Tiền Sử Bệnh
 Khỏe
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="4">Nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="4">Nội_khoa</span>
 Tổng Kết Bệnh Lý
-Bệnh_nhân nam 53 tuổi vào viện với lý_do : Bệnh_nhân khai cách 02 ngày bệnh_nhân bị <span class="selected problem". start="17" end="20" line="6">vỡ mụn_nhọt trên đầu</span> , sau đó đến trạm y_tế địa_phương <span class="selected treatment". start="28" end="30" line="6">sơ_cứu khâu vết_thương</span> .
-Hiện_tại , thấy <span class="selected problem". start="4" end="4" line="7">chóng_mặt</span> - - > vào viện
-Chẩn_đoán : <span class="selected problem". start="3" end="4" line="8">Vết_thương đầu</span> + <span class="selected problem". start="6" end="6" line="8">chóng_mặt</span>
-<span class="selected treatment". start="1" end="2" line="9">Điều_trị nội_khoa</span> , sau điều tri , bệnh ốn VT khô , bớt chóng_mặt - - > xuất_viện
+Bệnh_nhân nam 53 tuổi vào viện với lý_do : Bệnh_nhân khai cách 02 ngày bệnh_nhân bị <span class="selected problem" .="" start="17" end="20" line="6">vỡ mụn_nhọt trên đầu</span> , sau đó đến trạm y_tế địa_phương <span class="selected treatment" .="" start="28" end="30" line="6">sơ_cứu khâu vết_thương</span> .
+Hiện_tại , thấy <span class="selected problem" .="" start="4" end="4" line="7">chóng_mặt</span> - - &gt; vào viện
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="4" line="8">Vết_thương đầu</span> + <span class="selected problem" .="" start="6" end="6" line="8">chóng_mặt</span>
+<span class="selected treatment" .="" start="1" end="2" line="9">Điều_trị nội_khoa</span> , sau điều tri , bệnh ốn VT khô , bớt chóng_mặt - - &gt; xuất_viện
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="11">Nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="11">Nội_khoa</span>

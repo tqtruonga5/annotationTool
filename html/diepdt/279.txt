@@ -1,7 +1,7 @@
 Điều Trị
-<span class="selected treatment". start="1" end="1" line="2">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="2">nội_khoa</span>
 Tổng Kết Bệnh Lý
-bệnh_nhân <span class="selected problem". start="2" end="4" line="4">yếu hai chân</span> - - > <span class="selected treatment". start="8" end="9" line="4">nhập icu</span> .
+bệnh_nhân <span class="selected problem" .="" start="2" end="4" line="4">yếu hai chân</span> - - &gt; <span class="selected treatment" .="" start="8" end="9" line="4">nhập icu</span> .
 sáng nay bệnh_nhân ổn_định , cho xuất_viện
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="7">nội_khoa</span>
+<span class="selected treatment" .="" start="1" end="1" line="7">nội_khoa</span>

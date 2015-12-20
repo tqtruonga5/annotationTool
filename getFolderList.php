@@ -1,5 +1,5 @@
 <?php
-	$directory = "doc";
+	$directory = "txt";
 	$folders = scandir($directory);
 	$result = '';
 	$i = 0;

@@ -1,8 +1,8 @@
 Lý Do
-<span class="selected problem". start="1" end="2" line="2">KHó thở</span>
+<span class="selected problem" .="" start="1" end="2" line="2">KHó thở</span>
 Tổng Kết Bệnh Lý
-Bệnh chiều cùng ngày nhập_viện BN <span class="selected problem". start="7" end="7" line="4">ho_khan</span> , <span class="selected problem". start="9" end="10" line="4">đau họng</span> , <span class="selected problem". start="12" end="14" line="4">sốt ớn lạnh</span> .
-BN tự <span class="selected treatment". start="3" end="5" line="5">mua thuốc uống</span> không rõ sau đó <span class="selected problem". start="10" end="12" line="5">cảm_giác khó thở</span> , <span class="selected problem". start="14" end="15" line="5">thở khò_khè</span> được đưa <span class="selected treatment". start="18" end="18" line="5">cấp_cứu</span> nhập_viện .
-Sau <span class="selected treatment". start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện
+Bệnh chiều cùng ngày nhập_viện BN <span class="selected problem" .="" start="7" end="7" line="4">ho_khan</span> , <span class="selected problem" .="" start="9" end="10" line="4">đau họng</span> , <span class="selected problem" .="" start="12" end="14" line="4">sốt ớn lạnh</span> .
+BN tự <span class="selected treatment" .="" start="3" end="5" line="5">mua thuốc uống</span> không rõ sau đó <span class="selected problem" .="" start="10" end="12" line="5">cảm_giác khó thở</span> , <span class="selected problem" .="" start="14" end="15" line="5">thở khò_khè</span> được đưa <span class="selected treatment" .="" start="18" end="18" line="5">cấp_cứu</span> nhập_viện .
+Sau <span class="selected treatment" .="" start="2" end="2" line="6">điều_trị</span> bệnh ổn cho xuất_viện
 Tổng Kết Phương Pháp Điều Trị
-<span class="selected treatment". start="1" end="1" line="8">Kháng_sinh</span>
+<span class="selected treatment" .="" start="1" end="1" line="8">Kháng_sinh</span>

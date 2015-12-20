@@ -1,10 +1,10 @@
 Lý Do
-<span class="selected problem". start="1" end="2" line="2">Đau bụng</span>
+<span class="selected problem" .="" start="1" end="2" line="2">Đau bụng</span>
 Tiền Sử Bệnh
 Khỏe
 Tóm Tắt Khám Bệnh
-Bệnh_nhân nữ 38 tuổi <span class="selected problem". start="5" end="7" line="6">Đau vủng thượng_vị</span> , <span class="selected problem". start="9" end="12" line="6">Macburney ( - )</span> , <span class="selected problem". start="14" end="17" line="6">Blungber ( - )</span>
-<span class="selected test". start="1" end="2" line="7">Siêu_âm bụng</span> : <span class="selected problem". start="4" end="5" line="7">Ruột_thừa to</span> , thành dày nhẹ , ấn ít xẹp , nhưng xung_quanh <span class="selected problem". start="17" end="18" line="7">phản_ứng viêm</span> chưa rõ , nghi <span class="selected problem". start="23" end="27" line="7">viêm ruột_thừa cấp giai_đoạn sớm</span>
-<span class="selected test". start="1" end="1" line="8">Xét_nghiệm</span> : <span class="selected test". start="3" end="3" line="8">WBC</span> : 14.7
-<span class="selected test". start="1" end="3" line="9">G / L</span>
-Chẩn_đoán : <span class="selected problem". start="3" end="5" line="10">Viêm ruột_thừa cấp</span> .
+Bệnh_nhân nữ 38 tuổi <span class="selected problem" .="" start="5" end="7" line="6">Đau vủng thượng_vị</span> , <span class="selected problem" .="" start="9" end="12" line="6">Macburney ( - )</span> , <span class="selected problem" .="" start="14" end="17" line="6">Blungber ( - )</span>
+<span class="selected test" .="" start="1" end="2" line="7">Siêu_âm bụng</span> : <span class="selected problem" .="" start="4" end="5" line="7">Ruột_thừa to</span> , thành dày nhẹ , ấn ít xẹp , nhưng xung_quanh <span class="selected problem" .="" start="17" end="18" line="7">phản_ứng viêm</span> chưa rõ , nghi <span class="selected problem" .="" start="23" end="27" line="7">viêm ruột_thừa cấp giai_đoạn sớm</span>
+<span class="selected test" .="" start="1" end="1" line="8">Xét_nghiệm</span> : <span class="selected test" .="" start="3" end="3" line="8">WBC</span> : 14.7
+<span class="selected test" .="" start="1" end="3" line="9">G / L</span>
+Chẩn_đoán : <span class="selected problem" .="" start="3" end="5" line="10">Viêm ruột_thừa cấp</span> .
